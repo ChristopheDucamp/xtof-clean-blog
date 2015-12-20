@@ -1,8 +1,8 @@
 # Site settings
-title: Explorations IndieWeb
+title: Titre du Clean Blog
 header-img: img/caterpillar.jpg
 email: christophe.ducamp@gmail.com
-description: "Explorations IndieWeb"
+description: "Explorations Jekyll IndieWeb"
 baseurl: ""
 url: ""
 twitter_username: xtof_fr
