@@ -1,0 +1,50 @@
+---
+layout: page
+title: "Contact"
+description: "Des questions ? J'ai des réponses (qui sait !?)."
+header-img: "img/contact-bg.jpg"
+---
+
+<p>Vous voulez me contacter ? Vous pouvez me joindre et/ou laisser un SMS au <br><strong>+33 6 32 03 97 96.</strong></p> 
+<p>Si vous êtes très pressé, remplissez le formulaire ci-dessous et envoyez-moi un message. J'essaierai de vous répondre dans les 24 heures !</p>
+<!-- Formulaire de contact - Entrez votre adresse email sur la ligne 19 du fichier mail/contact_me.php pour faire fonctionner ce formulaire. -->
+<!-- Attention : Quelques hébergeurs web n'acceptent pas les emails à envoyer à travers des formulaires pour les hébergeurs mutualisés comme Gmail ou Yahoo.
+Il est recommandé que vous utilisiez une adresse email de domaine privé ! -->
+<!-- NOTE : Pour utiliser le formulaire de contact, votre site doit être sur un hébergeur en live avec PHP! Le formulaire ne fonctionnera pas localement ! -->
+<form name="sentMessage" id="contactForm" novalidate>
+    <div class="row control-group">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <label>Nom</label>
+            <input type="text" class="form-control" placeholder="Nom" id="name" required data-validation-required-message="Entrez votre nom SVP.">
+            <p class="help-block text-danger"></p>
+        </div>
+    </div>
+    <div class="row control-group">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <label>Adresse e-mail</label>
+            <input type="email" class="form-control" placeholder="Adresse e-mail" id="email" required data-validation-required-message="SVP entrez votre adresse e-mail.">
+            <p class="help-block text-danger"></p>
+        </div>
+    </div>
+    <div class="row control-group">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <label>Numéro de téléphone</label>
+            <input type="tel" class="form-control" placeholder="Numéro de téléphone" id="phone" required data-validation-required-message="Entrez ici votre numéro de téléphone.">
+            <p class="help-block text-danger"></p>
+        </div>
+    </div>
+    <div class="row control-group">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <label>Message</label>
+            <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Et laissez moi un message."></textarea>
+            <p class="help-block text-danger"></p>
+        </div>
+    </div>
+    <br>
+    <div id="success"></div>
+    <div class="row">
+        <div class="form-group col-xs-12">
+            <button type="submit" class="btn btn-default">Envoyer</button>
+        </div>
+    </div>
+</form>

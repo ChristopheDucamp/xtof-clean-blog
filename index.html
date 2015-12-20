@@ -1,0 +1,40 @@
+---
+layout: page
+description: "Un Thème de Blog Propre par Start Bootstrap <br>pour Redémarrer sur l'IndieWeb"
+---
+
+{% for post in paginator.posts %}
+<div class="post-preview h-entry">
+    <a class="e-content" href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">Posté par {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}
+      le <time class="post-date dt-published" datetime="{{ post.date | date_to_xmlschema }}">
+        {% assign d = post.date | date: "%-d"  %}{% case d %}{% when '1' %}{{ d }}er{% else %}{{ d }}{% endcase %}
+        {% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}janv.{% when '2' %}févr.{% when '3' %}mars{% when '4' %}avr.{% when '5' %}mai{% when '6' %}juin{% when '7' %}juil.{% when '8' %}août{% when '9' %}sept.{% when '10' %}oct.{% when '11' %}nov.{% when '12' %}déc.{% endcase %}
+        {{ post.date | date: '%Y' }}</time></p>
+</div>
+<hr>
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Posts Plus Récents</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Posts Plus Anciens &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}

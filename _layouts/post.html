@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<!-- Titre Post -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1 class="p-name entry-title">{{ page.title }}</h1>
+                    {% if page.subtitle %}
+                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    {% endif %}
+                    <span class="meta">Posté par {% if page.author %}
+                    <span rel="author" class="p-author h-card">{{ page.author }}</span>
+                    {% else %}{{ site.title }}{% endif %} le 
+                    <time class="dt-published datetime="{{ page.date | date_to_xmlschema }}">{% assign dy = page.date | date: "%a" %}{% case dy %}{% when "Mon" %}lundi{% when "Tue" %}mardi{% when "Wed" %}mercredi{% when "Thu" %}jeudi{% when "Fri" %}vendredi{% when "Sat" %}samedi{% when "Sun" %}dimanche{% else %}{{ dy }}{% endcase %} {% assign d = page.date | date: "%-d"  %}{% case d %}{% when '1' %}{{ d }}er{% else %}{{ d }}{% endcase %} {% assign m = page.date | date: "%-m" %}{% case m %}{% when '1' %}janvier{% when '2' %}février{% when '3' %}mars{% when '4' %}avril{% when '5' %}mai{% when '6' %}juin{% when '7' %}juillet{% when '8' %}août{% when '9' %}septembre{% when '10' %}octobre{% when '11' %}novembre{% when '12' %}décembre{% endcase %} {{ page.date | date: '%Y' }}</time>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Contenu du Post -->
+<article class="post-content e-content entry-content">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+				{{ content }}
+<hr>
+
+<!-- Webmention -->
+<p>Vous avez écrit une réponse à ce post ? Faites-moi connaître l'URL : </p>
+<form action="https://webmention.herokuapp.com/api/webmention" method="post">
+    <input name="source" type="url" placeholder="http://exemple.com/mon-post-cool" />
+    <input name="target" value="http://christopheducamp.com{{ page.url }}" type="hidden">
+    <input value="Envoyer la Webmention" type="submit">
+  </form>
+
+<section class="webmention">
+<p>Réactions (webmentions)</p>
+<script id="webmention-hosted">
+  (function () {
+    var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+    url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+    url = url && url[0] ? url[0].href : false;
+    sn.type = "text/javascript"; sn.async = true;
+    sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+    s.parentNode.insertBefore(sn, s);
+  }());
+</script>
+</section>
+<!-- / Webmention -->
+
+
+
+                <hr>
+
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Post Précédent</a>
+                    </li>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Post Suivant &rarr;</a>
+                    </li>
+                    {% endif %}
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>
