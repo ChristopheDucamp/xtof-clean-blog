@@ -1,10 +1,10 @@
 # Site settings
-title: Titre du Clean Blog
+title: Sur la route de l'IndieWeb
 header-img: img/caterpillar.jpg
 email: christophe.ducamp@gmail.com
 description: "Explorations Jekyll IndieWeb"
 baseurl: ""
-url: ""
+url: http://christopheducamp.com
 twitter_username: xtof_fr
 github_username:  christopheducamp
 facebook_username:  christophe.ducamp
@@ -26,3 +26,20 @@ collections:
   notes:
     output: true
     permalink: "/notes/:title/"
+
+
+
+#jekyll social
+twitter_format: "@title @tags (xtof.me@url)"
+twitter_url_length: 22
+twitter_max_length: 140
+
+#########################
+#						#
+#    réglages blog		#
+#	pour le social...   #
+#########################
+blog_title: sur la route indieweb...
+blog_description: "mes premiers pas dans le code et ailleurs."
+blog_url: "/"
+
