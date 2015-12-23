@@ -20,8 +20,12 @@ gems:
   - jemoji
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-mentions
 
-# Collections settings
+#Jekyll-mentions réglé sur twitter
+jekyll-mentions: https://twitter.com
+
+# Réglages des collections
 collections:
   notes:
     output: true
@@ -30,7 +34,7 @@ collections:
 
 
 #jekyll social
-twitter_format: "@title @tags (xtof.me@url)"
+twitter_format: "@title @tags xtof.me@url"
 twitter_url_length: 22
 twitter_max_length: 140
 
@@ -42,4 +46,3 @@ twitter_max_length: 140
 blog_title: sur la route indieweb...
 blog_description: "mes premiers pas dans le code et ailleurs."
 blog_url: "/"
-

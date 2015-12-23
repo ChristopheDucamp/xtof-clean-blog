@@ -5,10 +5,10 @@ description: "Qui suis-je et ce que je fais."
 header-img: "img/about-bg.jpg"
 ---
 
-## Explorateur 
+## Explorateur
 
 Bonjour, je m'appelle Christophe Ducamp et j'ai 54 ans. Père de famille de 3 enfants, je vis à Paris dans le quartier de la Goutte d'Or. Mes champs d'intérêts personnels et professionnels évoluent autour de la _communication,  la culture libre et l'innovation ouverte_.
- 
+
 Entrepreneur, parcours de plus de 20 ans dans la communication, le marketing direct et la banque, de tempérament créatif, curieux et enthousiaste, j'évolue depuis quelques années sur le _conseil en stratégie numérique_.
 
 Une archive de mon [CV est en ligne](http://christopheducamp.com/curriculumvitae.html). Les secteurs de prédilection dans mon radar d'innovation : santé & bien-être, banque, distribution, presse, habitat sans oublier... les travailleurs indépendants.
@@ -32,12 +32,10 @@ Pour des raisons essentielles d'évolution, de retour à la simplicité et prati
 
 Essayant depuis quelques années de [réduire ma dépendance au courrier électronique](http://christopheducamp.com/w/Protocoles_de_communication#Courriel), mon agenda reste ouvert pour un premier contact. N'hésitez pas à me joindre par ordre de préférence :  
 
-1. SMS à toute heure au +33 6 32 03 97 96
+1. SMS +33 6 32 03 97 96
 2. Message sur [Twitter:@xtof_fr](http://twitter.com/xtof_fr)
-3. <span class="h-card" rel="me">[LinkedIn](https://www.linkedin.com/in/christopheducamp)</span>
-4. irc : xtof sur le canal #indiewebcamp (freenode)
-5. [Le formulaire de contact sur ce site web](/contact) 
+3. christophe(AT)mydatalabs.com
 
 ## "Ailleurs" sur les silos sociaux
 
-Le web restant décentralisé, je suis aussi un _métayer_ [ailleurs](/ailleurs/) sur quelques silos et services toujours bien pratiques au quotidien. 
+Le web restant décentralisé, je suis aussi un _métayer_ [ailleurs](/ailleurs/) sur quelques silos et services toujours bien pratiques au quotidien.

@@ -11,7 +11,7 @@ share: facebook twitter linkedin
 <footer><a href="https://indiewebcamp.com/Jekyll#Cons">indiewebcamp-jekyll</a></footer></blockquote>
 
 
-**tl;dr** : Une piste intéressante à explorer pour [POSSE](http://indiewebcamp.com/POSSE)r à partir de Jekyll proposée par Eduardo Boucas. À savoir, publier vos billets Jekyll sur les plates-formes sociales Twitter, LinkedIn et Facebook. La traduction est proposée pour étude et **seul le lien officiel fait référence** : 
+**tl;dr** : Une piste intéressante à explorer pour [POSSE](http://indiewebcamp.com/POSSE)r à partir de Jekyll proposée par Eduardo Boucas. À savoir, publier vos billets Jekyll sur les plates-formes sociales Twitter, LinkedIn et Facebook. La traduction est proposée pour étude et **seul le lien officiel fait référence** :
 <cite class="h-cite"><span class="u-url p-name">[Sharing Jekyll posts on social media using front matter and IFTTT
 ](https://eduardoboucas.com/blog/2015/04/28/sharing-jekyll-posts-on-social-media-using-front-matter-and-ifttt.html)</span>
 (<abbr class="p-author h-card" title="Eduardo Boucas">Eduardo</abbr>, <time class="dt-published" datetime="2015-04-28">avril 2015</time>)</cite>
@@ -28,7 +28,7 @@ Au lieu d’utiliser le flux RSS normal comme déclencheur pour notre IFTTT, nou
 
 Voici l’idée :
 
-![Servir différents flux vers différents canaux IFTTT](/assets/images/jekyll-social.png) 
+![Servir différents flux vers différents canaux IFTTT](/assets/images/jekyll-social.png)
 
 Servir différents flux vers différents canaux IFTTT
 
@@ -124,7 +124,7 @@ defaults:
 
 Une fois tout réglé côté Jekyll, il est temps de tout mettre en place sur [IFTTT](https://ifttt.com/) - créez-vous un compte si vous n’en avez pas et cliquez sur [Create a Recipe](https://ifttt.com/myrecipes/personal/new).
 
-La première étape consiste à sélectionner le canal qui déclenche l’action (la partie **This** ) ; dans notre cas, c’est un "Feed" (flux). À l’étape suivante, nous  sélectionnons _New feed item_ comme déclencheur, ce qui signifie que la recette sera exécutée à chaque fois qu’il y a un nouvel élément dans le flux, et puis entrez l’URL du flux. 
+La première étape consiste à sélectionner le canal qui déclenche l’action (la partie **This** ) ; dans notre cas, c’est un "Feed" (flux). À l’étape suivante, nous  sélectionnons _New feed item_ comme déclencheur, ce qui signifie que la recette sera exécutée à chaque fois qu’il y a un nouvel élément dans le flux, et puis entrez l’URL du flux.
 
 <figure><img width="600" src="/assets/images/IFTTT-Facebook-feed.jpg" alt="IFTTT facebook feed settings" /><footer><small>Réglage de mon flux Facebook sur IFTTT (étape 3 de 7)</small></footer></figure>
 
@@ -138,7 +138,7 @@ Nous avons presque terminé, vous devez juste répéter les étapes suivantes po
 
 Ceci est effectivement plus facile à dire qu’à faire, car il s’agit non seulement de saisir tous les tags provenant du post et de les ajouter au tweet. Mais il y a une limite sur le nombre de caractères dans un tweet. Nous avons donc besoin de vérifier combien de hashtags pourront tenir. Selon le titre et les tags de l’article original, nous pourrions être en mesure de n’en faire tenir qu’un seul, chacun d’eux voire aucun.
 
-Ma solution a été de créer un fichier de flux séparé pour Twitter en utilisant sa propre logique plutôt que d’hériter du layout `social-feed`. En résumé, voici ce qu’il produit : 
+Ma solution a été de créer un fichier de flux séparé pour Twitter en utilisant sa propre logique plutôt que d’hériter du layout `social-feed`. En résumé, voici ce qu’il produit :
 
   1. Vérifie si l’auteur veut inclure les hashtags en vérifiant la présence de `--twitter-hashtags` dans la propriété `share` d’un post ;
   2. Calcule combien d’espace est laissé dans le tweet pour les tags ;
@@ -147,10 +147,10 @@ Ma solution a été de créer un fichier de flux séparé pour Twitter en utilis
 
 Je vous fais grâce des spécificités sur la façon d’implémenter ça parce que ce post deviendrait énorme, aussi j’ai créé [un repository GitHub](https://github.com/eduardoboucas/jekyll-social) où vous trouverez plus d’information sur l’implémentation complète et où vous pourrez récupérer le code à utiliser dans votre projet.
 
-## Emballé 
+## Emballé
 
 C’est tout pour l'instant ! Maintenant, asseyez-vous, trouvez l’inspiration et écrivez vos articles.  — vous n’avez même plus besoin d’être social parce que Jekyll et IFTTT se chargeront pour vous de faire le boulot... ∎
 
 ## NDT : Travaux d'intégration en cours
 
-[Premier shoot d'essai sur Twitter](2015/12/22/corrections-flux-jekyll-social). La localisation est en cours et pourra être suivie sur ce [repo github](https://github.com/ChristopheDucamp/christopheducamp.github.io). Quelques variables sont à modifier selon les réglages de votre fichier `config.yml`.  Si vous essayez ce tutoriel, je serais ravi d'avoir votre feedback. 
+[Premier shoot d'essai sur Twitter](2015/12/22/corrections-flux-jekyll-social). La localisation est en cours et pourra être suivie sur ce [repo github](https://github.com/ChristopheDucamp/xtof-clean-blog). Quelques variables sont à modifier selon les réglages de votre fichier `config.yml`.  Si vous essayez ce tutoriel, je serais ravi d'avoir votre feedback. -- @xtof_fr 

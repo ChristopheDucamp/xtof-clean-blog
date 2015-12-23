@@ -1,7 +1,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
     <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
+        <!-- La marque et le menu sandwich sont groupés pour un meilleur affichage mobile -->
         <div class="navbar-header page-scroll">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Zapper la  navigation</span>
@@ -12,18 +12,19 @@
             <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
         </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
+        <!-- Collecte les liens de navigation, formulaires, et autres contenus pour le va et vient du sandwich -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
+          <ul class="nav navbar-nav navbar-right">
+            {% for nav_item in site.data.nav %}
+              {% if page.url == nav_item.lien %}
+                <li class="active">
+              {% else %}
                 <li>
-                    <a href="{{ site.baseurl }}/">Accueil</a>
-                </li>
-                {% for page in site.pages %}{% if page.title %}
-                <li>
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                </li>
-                {% endif %}{% endfor %}
-            </ul>
+              {% endif %}
+                <a href="{{ nav_item.lien }}">{{ nav_item.nom }}</a>
+              </li>
+            {% endfor %}
+          </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
