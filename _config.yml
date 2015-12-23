@@ -29,12 +29,12 @@ jekyll-mentions: https://twitter.com
 collections:
   notes:
     output: true
-    permalink: "/notes/:title/"
+    permalink: "/notes/:title.html"
 
 
 
 #jekyll social
-twitter_format: "@title @tags xtof.me@url"
+twitter_format: "@title xtof.me@url @tags"
 twitter_url_length: 22
 twitter_max_length: 140
 

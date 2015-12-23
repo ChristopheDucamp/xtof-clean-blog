@@ -29,9 +29,9 @@ Incomplete @url to be removed in the twitter copy, e.g. in the example above, th
    `: /2015/12/21/bernard-werber-sintresse-au-sommeil`
 
 ### Work in progress
-Intention : learn/understand some Liquid syntax in order to better tame copies of posts on social platforms. Just changed `config.yml` with the following declaration including my short-url. To be tested soon.  
+Intention : learn/understand some Liquid syntax in order to better tame copies of posts on social platforms. Just changed `config.yml` with the following declaration including my short-url.  
 
-`twitter_format: "@title @tags (xtof.me@url)"`
+`twitter_format: "@title xtof.me@url @tags"`
 
 Work in progress : [github repo](https://github.com/ChristopheDucamp/christopheducamp.github.io)
 
