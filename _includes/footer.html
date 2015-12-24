@@ -14,7 +14,7 @@
                     </li>
                     {% if site.twitter_username %}
                     <li>
-                        <a href="https://twitter.com/{{ site.twitter_username }}">
+                        <a rel="me" class="url u-url" href="https://twitter.com/{{ site.twitter_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -24,7 +24,7 @@
                     {% endif %}
                     {% if site.facebook_username %}
                     <li>
-                        <a href="https://www.facebook.com/{{ site.facebook_username }}">
+                        <a rel="me" class="url u-url" href="https://www.facebook.com/{{ site.facebook_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -34,7 +34,7 @@
                     {% endif %}
                     {% if site.github_username %}
                     <li>
-                        <a href="https://github.com/{{ site.github_username }}">
+                        <a rel="me" class="url u-url" href="https://github.com/{{ site.github_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -43,7 +43,13 @@
                     </li>
                     {% endif %}
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+                <p class="copyright text-muted">
+                  &copy; {{ site.time | date: '%Y' }}
+                  <a rel="author me" class="h-card p-author microcard" href="http://christopheducamp.com" title="christopheducamp">Christophe Ducamp</a> -
+                  {{ site.title }}.<br>
+                  Ce site est motorisé par <a title="jekyll" href="http://jekyllrb.com">Jekyll</a> et supporte une expérimentation <a href="http://aaronparecki.com/webmention" rel="webmention">webmention</a>.<br>
+                  Sauf mention contraire, tous les contenus texte sont sous licence <a rel ="license" href="http://creativecommons.org/licenses/by/3.0/deed.fr">Creative Commons</a>.
+              </p>
             </div>
         </div>
     </div>
