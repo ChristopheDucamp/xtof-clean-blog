@@ -33,7 +33,7 @@ collections:
 
 
 
-#jekyll social
+#jekyll social (cf settings sur https://github.com/eduardoboucas/jekyll-social)
 twitter_format: "@title xtof.me@url @tags"
 twitter_url_length: 22
 twitter_max_length: 140
