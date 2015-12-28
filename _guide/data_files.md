@@ -37,11 +37,11 @@ Google Maps a une API Javascript, par conséquent nous devons recevoir cette don
 {% endraw %}
 {% endhighlight %}
 
-Vous pouvez utiliser la variable `forloop` à l'intérieur pour des boucles afin de recevoir l'index en cours, variable inside for loops to get the current index, length or check if it's the first or last item. Here we're checking if it's _not_ the last item and adding a comma.
+Vous pouvez utiliser la variable `forloop` à l'intérieur pour des boucles afin de recevoir l'index en cours, la distance ou pour vérifier si c'est le premier ou dernier item. Voici ce que nous vérifions si ce *n'est pas* le dernier item et en ajoutant une virgule.
 
-Finally we need to add a placeholder for the map, initialize the map and add markers. I'm not going to go into depth on this code. However, it's worth mentioning I used [SnazzyMaps](https://snazzymaps.com) to add a nice style to the map.
+Pour finir, nous devons ajouter un placeholder pour la carte, initialiser la carte et ajouter des marqueurs. Je ne vais pas aller à fond sur ce code. Néanmoins, ça vaut le coup de préciser que j'ai utilisé [SnazzyMaps](https://snazzymaps.com) pour ajouter un style élégant à la carte.
 
-Here's the final contact page:
+Voici la page finale de contact :
 
 {% highlight html %}
 {% raw %}
@@ -59,9 +59,9 @@ title: Contact
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">Let's Get In Touch!</h2>
+                <h2 class="section-heading">Entrons en contact !</h2>
                 <hr class="primary">
-                <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                <p>Prêt pour démarrer votre prochain projet avec nous ? Génial ! Appelons-nous ou envoyez-nous un e-mail et nous revenons vers vous aussi vite que possible ! </p>
             </div>
             <div class="col-lg-4 col-lg-offset-2 text-center">
                 <i class="fa fa-phone fa-3x wow bounceIn"></i>
@@ -138,10 +138,10 @@ title: Contact
 {% endraw %}
 {% endhighlight %}
 
-And we have a beautiful map showing all our office locations.
+Et voilà, nous avons une carte magnifique qui affiche tous nos bureaux dans le monde.
 
 ![Office](/img/guide/data/map.png)
 
-Our client can go to the collections tab, click on General Data and get an easy interface for updating our office locations.
+Nos clients peut aller sur l'onglet collections, cliquer sur General Data et avoir une belle interface pour mettre à jour les implantations de nos bureaux.
 
 ![CSV](/img/guide/data/csv.png)
