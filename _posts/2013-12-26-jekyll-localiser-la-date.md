@@ -2,6 +2,7 @@
 layout: post
 title:  "Comment localiser la date en français dans Jekyll ?"
 date:   2013-12-26 04:47
+author: Christophe Ducamp
 categories: jekyll date howto localization localisation liquid structure
 tags: 
 - hack 
@@ -73,4 +74,5 @@ Très preneur de vos frameworks, plugins et/ou tous vos points d'optimisation en
 * [Les filtres et tags dans Jekyll](http://jekyllrb.com/docs/templates/) - la documentation officielle de Jekyll
 
 ## Réagir  
-Faute de savoir installer [webmention](http://indiewebcamp.com/webmention) sur Jekyll, ce post reste  <span rel="syndication" class="u-syndication">[ouvert à tous vos commentaires sur twitter](https://twitter.com/xtof_fr/statuses/416076519794946048)</span> - [@xtof](http://twitter.com/xtof_fr)
+
+Ce post reste  <span rel="syndication" class="u-syndication">[ouvert à tous vos commentaires sur twitter](https://twitter.com/xtof_fr/statuses/416076519794946048)</span> - [@xtof](http://twitter.com/xtof_fr)

@@ -12,7 +12,7 @@ L'une des fonctionnalités géniales de GitHub est la capacité de pouvoir voir 
 
 ## Suivez des Personnes
 
-Quand vous suivez quelqu'un sur GitHub, vous recevrez des notifications concernant son activité sur votre tableau de bord. Une fois que vous sur l'une de ses pages, cliquez sur le bouton Follow : 
+Quand vous suivez quelqu'un sur GitHub, vous recevrez des notifications concernant son activité sur votre tableau de bord. Une fois rendu sur l'une de ses pages, cliquez sur le bouton Follow :
 
 ![bouton follow](https://help.github.com/assets/images/help/profile/follow-user-button.png)
 
@@ -21,10 +21,10 @@ Quand vous suivez quelqu'un sur GitHub, vous recevrez des notifications concerna
 Il pourra vous arriver de vouloir rester à jour sur un projet spécifique. Quand vous êtes sur une page de projet, vous pouvez cliquez sur le bouton **watch** placé en haut de la page.
 
 ![bouton watch](/img/repo-actions-watch.png)
-Quand le propriétaire met à jour le projet, vous verrez ce qu'il s'est passé dans votre tableau de bord. 
+Quand le propriétaire met à jour le projet, vous verrez ce qu'il s'est passé dans votre tableau de bord.
 
-## Plus de choses encore 
-Vous avez pratiqué la plupart des interactions basiques que GitHub peut vous offrir, mais ne vous arrêtez pas là ! Regardez ces fonctionnalités sociales particulières : 
+## Plus de choses encore
+Vous avez pratiqué la plupart des interactions basiques que GitHub peut vous offrir, mais ne vous arrêtez pas là ! Regardez ces fonctionnalités sociales particulières :
 
 ![Pull request](https://help.github.com/assets/images/help/repository/repo-actions-pullrequest.png)
 Vous pourriez vous trouver en situation de vouloir contribuer sur le projet de quelqu'un d'autre, vous pouvez faire savoir à l'auteur en lui envoyant une [pull request](https://help.github.com/articles/using-pull-requests)
@@ -41,13 +41,13 @@ Quand vous collaborez sur un projet avec quelqu'un, vous traversez parfois des p
 
 Vous-êtes-vous déjà confronté à vouloir collaborer avec plusieurs développeurs sur un même projet ? Vous pouvez manager tout le monde avec les Organisations ! Avec une organisation, vous pouvez constituer des équipes avec des permissions spéciales, disposer d'un profil public d'organisation, et garder trace de l'activité dans l'organisation.
 
-### Explorer 
+### Explorer
 
 ![Etoiler un projet](https://help.github.com/assets/images/help/stars/star-a-project.png)
 
 Découvrez des projets intéressants dans les sections [Explore GitHub](https://github.com/explore) et la [page Trending](https://github.com/trending). Vous pouvez ensuite étoiler les projets que vous trouverez intéressants pour y revenir plus tard -- visitez juste [votre page des stars](https://github.com/stars) pour voir tous les projets que vous avez aimés.
 
-## Fêtons ça ! 
+## Fêtons ça !
 
 Bravo ! Vous êtes un vrai mondain.
 
@@ -57,7 +57,7 @@ Bravo ! Vous êtes un vrai mondain.
 * **Etre Social**
 
 
-### un ami sur l'indieweb ? 
+### un ami sur l'indieweb ?
 
 Pourquoi ne pas suivre l'une de ces personnes vraiment cools de l'IndieWebCamp ou de GitHub (sans oublier tanuki leur animal !) :
 

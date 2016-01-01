@@ -1,17 +1,23 @@
 ---
 layout: post
 title:  "Démarrer avec Pages GitHub (Plus Bonus Jekyll)"
+subtitle: "Un tutoriel de mise en pratique de GitHub Pages pour créer un site de recettes de cuisine"
+author: Christophe Ducamp
 date: 2013-12-21 14:15
+tags: 
+  - github
+  - Jekyll
+  - tutoriel
 categories: [Pages GitHub]
 ---
-Lien de référence : <cite class="p-name u-url">[Get Started With GitHup Pages (Plus Bonus Jekyll)](http://24ways.org/2013/get-started-with-github-pages/)</cite>,   
+Lien de référence : <cite class="p-name u-url">[Get Started With GitHub Pages (Plus Bonus Jekyll)](http://24ways.org/2013/get-started-with-github-pages/)</cite>,   
 (<span class="p-publisher p-org h-card">[24ways](http://24ways.org)</span> - <span class="h-card p-author">[Anna Debenham](http://maban.co.uk)</span>, <time class="dt-published" datetime="2013-12-18">18 décembre 2013</time>)
 
 *Après plusieurs tentatives avortées pour démarrer avec les [Pages GitHub](http://pages.github.com/), je me suis jurée que si jamais j'y parvenais, je l'écrirais. Heureusement, j'y suis enfin arrivée, aussi voici ma copie.*
 
 ## Pourquoi Je Trouve que Pages GitHub Est Cool 
 
-Normalement, quand vous hébergez des trucs sur GitHub, vous ne faites que stocker vos fichiers là-bas. Si vous poussez des fichiers de site, ce que vous stockez c'est le code. Et quand visualisez un fichier, vous voyez le code au lieu de la production. Ce que vous permettent les Pages GitHub, c'est de stocker des fichiers. Et si ce sont des fichiers HTML, vous pourrez les voir comme tout autre site web, vous n'avez donc pas besoin de les auto-héberger ailleurs.
+Normalement, quand vous hébergez des trucs sur GitHub, vous ne faites que stocker vos fichiers là-bas. Si vous poussez des fichiers de site, ce que vous stockez c'est le code. Et quand vous visualisez un fichier, vous voyez le code au lieu de la production. Ce que vous permettent les Pages GitHub, c'est de stocker des fichiers. Et si ce sont des fichiers HTML, vous pourrez les voir comme tout autre site web, vous n'avez donc pas besoin de les auto-héberger ailleurs.
 
 Le service des Pages GitHub accepte le HTML mais ne sait pas exécuter des langages comme PHP et ne sait pas utiliser une base de données comme vous en avez déjà probablement utilisée. Vous devrez donc produire des fichiers HTML statiques. Et c'est là où les outils de gabarits tels que [Jekyll](http://jekyllrb.com/) entrent dans la danse, ce dont je parlerai plus tard.
 
@@ -63,8 +69,7 @@ Assurez-vous que vous êtes toujours dans le répertoire `christmas-recipes`, pu
 $ git checkout --orphan gh-pages
 {% endhighlight %}
 
-Cette option `--orphan` pourrait être nouvelle pour vous. Une branche orpheline est une branche vide déconnectée de la branche à partir de laquelle elle a été créée, et elle démarre sans commits, 
-pour se transformer en branche spéciale autonome. `checkout` nous fait basculer de la branche où nous étions vers cette branche.
+Cette option `--orphan` pourrait être nouvelle pour vous. Une branche orpheline est une branche vide déconnectée de la branche à partir de laquelle elle a été créée, et elle démarre sans commits, pour se transformer en branche spéciale autonome. `checkout` nous fait basculer de la branche où nous étions vers cette branche.
 
 Si tout se passe bien, nous recevrons un message indiquant `Switched to a new branch ‘gh-pages’`.
 
@@ -72,8 +77,7 @@ Vous pourriez recevoir un message d'erreur vous disant que vous n'avez pas les p
 
 ### Faire de `gh-pages` votre branche par défaut (optionnel)
 
-La branche `gh-pages` est distincte de la branche `master`, mais par défaut, la banche `master` est celle 
-qui s'affichera si nous allons sur notre URL de dépôt sur GitHub. Pour modifier ça, allez aux "settings" du repository et sélectionnez `gh-pages` comme branche par défaut.
+La branche `gh-pages` est distincte de la branche `master`, mais par défaut, la banche `master` est celle qui s'affichera si nous allons sur notre URL de dépôt sur GitHub. Pour modifier ça, allez aux "settings" du repository et sélectionnez `gh-pages` comme branche par défaut.
 
 ![image](http://media.24ways.org/2013/debenham/default-branch.jpg)
 

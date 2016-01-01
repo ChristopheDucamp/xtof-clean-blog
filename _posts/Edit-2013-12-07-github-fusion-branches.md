@@ -1,16 +1,27 @@
 ---
 layout: post
-title: "GitHub pour Mac : Fusionner des Branches"
+title: "GitHub pour Mac : Synchroniser votre branche"
+subtitle: "Tutoriel déprécié à remettre à jour"
+author: Christophe Ducamp
 date: 2013-12-07
 categories: github git
 ---
-[Lien de référence](https://help.github.com/articles/merging-branches)
+[Lien de référence](https://help.github.com/desktop/guides/contributing/syncing-your-branch/)
 
-Une fois que vous avez produit  une nouvelle branche et fini le travail sur votre dernière idée, vous voudrez fusionner les modifications dans `master` (ou peut-être une autre branche), de manière à ce qu'elles fassent partie du corps de travail principal.
+Au fur et à mesure que des commits sont poussés sur GitHub, vous pouvez maintenir une copie locale de votre projet synchronisé avec le répertoire distant.
 
-Si vous travaillez comme membre d'une équipe, c'est une bonne pratique que d'avoir une révision de votre branche par vos collègues (peut-être en produisant une pull request sur GitHub.com) avant de la fusionner.
+Vous devez synchroniser votre branche locale avec le répertoire distant pour recevoir tous les commits supplémentaires qui ont été ajoutés à la branche upstrem depuis que vous avez [créé votre branche](https://help.github.com/desktop/guides/contributing/creating-a-branch-for-your-work)
 
-Pour fusionner une branche dans GitHub pour Mac :
+## Mettez à jour votre branche locale upstream
+
+Pour trouver quelle branche est upstream, regardez le graphique de comparaison.
+
+- La _branche upstream_ est en haut
+- Votre branche projet est en bas.
+
+![](https://help.github.com/assets/images/help/desktop/sync-find-upstream-mac.png)
+
+
 
 1. Cliquez sur le bouton "Merge View" sur l'onglet Branches.
 2. Cliquez et faites glisser la poignée de la branche dont vous voulez fusionner les modifications (votre nouvelle branche), et déposez-la dans la boîte de gauche. La poignée à glisser peut être trouvée sur le côté gauche de la ligne de la branche.
