@@ -10,6 +10,8 @@ tags:
 - jekyll
 - FTP
 - glynn
+- rrsync
+published: true
 ---
 
 [lien de référence (doc Jekyll)](http://jekyllrb.com/docs/deployment-methods/)
@@ -20,7 +22,7 @@ Du fait de la nature statique de la production générée, tous les sites constr
 
 ## Fournisseurs d'hébergement web (FTP)
 
-Quasiment tous les [fournisseurs d'hébergement web](http://indiewebcamp.com/web_hosting) traditionnels vous permettent de copier des fichiers sur leurs serveurs par FTP. Pour téléverser un site Jekyll sur un hébergeur web en utilisant FTP, lancez simplement la commande `jekyll` et copiez le répertoire `_site` généré sur le répertoire racine de votre compte hébergé. Pour la majorité des fournisseurs d'hébergement, ceci se fait généralement sur les répertoires `httpdocs` ou `public_html`.
+Presque tous les [fournisseurs d'hébergement web](http://indiewebcamp.com/web_hosting) traditionnels vous permettent de copier des fichiers sur leurs serveurs par FTP. Pour téléverser un site Jekyll sur un hébergeur web en utilisant FTP, lancez simplement la commande `jekyll` et copiez le répertoire `_site` généré sur le répertoire racine de votre compte hébergé. Pour la majorité des fournisseurs d'hébergement, ceci se fait généralement sur les répertoires `httpdocs` ou `public_html`.
 
 ### <span id="glynn">FTP en utilisant Glynn</span>
 
@@ -34,7 +36,6 @@ ftp_dir: /www
 ftp_passive: false
 {% endhighlight %}
 
-
 Pour générer le site et le déployer, il me suffit alors de reprendre la ligne de commande, de me placer à la racine du projet puis de taper la commande :
 
 {% highlight bash %}
@@ -43,11 +44,9 @@ $ glynn
 
 (C'est la solution que j'ai retenue pour le moment : une ligne de commande puis un mot de passe, et tout le site est régénéré et mis en ligne !)
 
-
 ## Serveur web auto-géré
 
 Si vous avez un accès direct au serveur web de déploiement, le processus est en fait le même, si ce n'est que vous pourriez disposer d'autres méthodes vous étant réservées (comme des accès `scp`, ou même un accès direct au système de fichiers). Souvenez-vous simplement de vous assurer que les contenus du répertoire `_site` généré soient placés dans le bon répertoire web racine de votre serveur web.
-
 
 ##  Méthodes automatisées
 
@@ -59,7 +58,7 @@ Si vous stockez votre site jekyll dans [Git](http://git-scm.com/) (vous utilisez
 
 ### Git hook post-receive
 
-Pour faire qu'un serveur distant gère le déploiement pour vous à chaque fois que vous poussez des modifications en utilisant Git, vous pouvez créer un compte utilisateur qui dispose de toutes les clés publiques qui sont autorisées pour déployer dans son fichier `authorized_keys`.  Une fois cela mis en place, régler le hook post-receive se fait comme suit :
+Pour faire qu'un serveur distant gère le déploiement pour vous à chaque fois que vous poussez des modifications en utilisant Git, vous pouvez créer un compte utilisateur qui dispose de toutes les clés publiques qui sont autorisées pour déployer dans son fichier `authorized_keys`. Une fois tout ça mis en place, régler le hook post-receive se fait comme suit :
 
 {% highlight bash %}
 laptop$ ssh deployer@exemple.com
@@ -102,8 +101,8 @@ Vous pouvez aussi utiliser jekyll-hook, un serveur qui écoute les posts webhook
 
 Cette méthode est utile si vous avez besoin de servir vos sites web derrière un pare-feu, si vous avez besoin de quelques fonctionnalités côté-serveur comme une authentification HTTP basique ou si vous voulez héberger directement votre site sur un CDN ou un hôte comme S3.
 
-Les étapes de paramétrage sont complètement documentés dans le
-[repo `jekyll-hook`](https://github.com/developmentseed/jekyll-hook).
+
+Les étapes de paramétrage sont complètement documentées dans le [repo `jekyll-hook`](https://github.com/developmentseed/jekyll-hook).
 
 ### Static Publisher
 
@@ -163,7 +162,7 @@ Les paramètres de ligne de commande sont :
 En utilisant ce réglage, vous pourriez lancer la ligne de commande qui suit :
 
 {% highlight bash %}
-rsync -crvz --rsh='ssh -p2222' --delete-after --delete-excluded  `_site/ hostuser@example.org:``
+rsync -crvz --rsh='ssh -p2222' --delete-after --delete-excluded  `_site/ hostuser@example.org:`
 {% endhighlight %}
 
 N'oubliez pas le signe deux-points `:` après le nom du serveur !
@@ -214,7 +213,7 @@ Les Pages GitHub sont motorisées en coulisses par Jekyll, par conséquent si vo
 
 ## Kickster
 
-Utilisez [Kickster](http://kickster.nielsenramon.com/) pour des déploiement faciles (automatisés) vers les pages GitHub si vous utilisez des plugins non supportés sur les Pages GitHub.
+Utilisez [Kickster](http://kickster.nielsenramon.com/) pour des déploiements faciles (automatisés) vers les pages GitHub si vous utilisez des plugins non supportés sur les Pages GitHub.
 
 Kickster fournit un réglage de projet Jekyll basique avec les meilleures pratiques et des outils utiles d'optimisation pour la qualité globale de votre projet. Kickster est livré avec des scripts automatisés et sans souci pour GitHub pages.
 
