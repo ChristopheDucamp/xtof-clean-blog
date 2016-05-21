@@ -49,7 +49,7 @@ La coutume voudrait que tout(e) nouvel(le) arrivant(e) sur Jekyll décrive les r
 
 1. la joie de retrouver une interface de publication dans un éditeur local, à savoir une grande fenêtre de publication **en dehors du navigateur**,
 2. la liberté retrouvée de pouvoir écrire *déconnecté*,
-3. et la sensation d'avoir la main en direct sur les commandes comme dans un kart 2 temps (<troll>vs Citroën WorPress</troll>)
+3. et la sensation d'avoir la main en direct sur les commandes comme dans un kart 2 temps (<troll>vs Citroën WordPress</troll>)
 
 Rien de rationnel mais très heureux de repartir de zéro. Durant le mois de décembre, je mettrai en pratique et vous ferai un premier retour sur les quelques sections épineuses de la [documentation officielle Jekyll][jekyll].
 
