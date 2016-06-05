@@ -1,17 +1,26 @@
 ---
+title: Redirections URLs dans Jekyll
+date: '2014-08-02 00:00:00'
+categories: []
 layout: post
-title: "Redirections URLs dans Jekyll"
 author: Christophe Ducamp
 redirect_from:
-  - /2014-214/
-  - /2014-214/permashortlink/
-  - /indielog/2014-214/
-  - /s/23.htm
+- "/2014-214/"
+- "/2014-214/permashortlink/"
+- "/indielog/2014-214/"
+- "/s/23.htm"
+subtitle: Pour raccourcir les URLs dans Jekyll
+tags:
+- jekyll
+- indieweb
+- permalink
+- permalien
+- permashortlink
+- bricolage
+slug: redirections-urls-dans-jekyll
+draft: false
 
-subtitle: "Pour raccourcir les URLs dans Jekyll"
-tags: [jekyll, indieweb, permalink, permalien, permashortlink, bricolage]
 ---
-
 *Inspiré pour reprendre l'étude de l'[IndieMark](http://indiewebcamp.com/IndieMark) sur cette instance Jekyll. Une inspiration particulièrement dopée par [l'arrivée sur IndieWeb](http://www.pierre-o.fr/blog/2014/07/30/indieweb/) de <a rel="colleague" title="Pierre Ozoux" href="http://www.pierre-o.fr/" class="h-card microcard">Pierre Ozoux</a>. Et par le dépannage webmention reçu de <span class="h-card microcard" rel="muse friend met"><img class="u-photo" src="https://michielbdejong.com/file/f7e5f8d753328f3c322bb03457e04666/thumb.jpg" />[Michiel](https://michielbdejong.com/)</span>, notre ami sauveur du web passé à Paris <time datetime="2014-07-30">mercredi dernier</time> pour le premier [meetup de décentralisation du net chez Mozilla](http://www.meetup.com/Paris-Meetup-pour-la-decentralisation-dInternet/events/193618842/).*
 
 Le [moteur de génération de "permashortlinks"](http://www.pierre-o.fr/blog/2014/08/02/permashortlinks/) bâti hier par Pierre pour son instance Octopress (un framework Jekyll) m'a clairement éclairé pour parvenir à construire ici quelques premières [citations de permaliens-raccourcis](http://indiewebcamp.com/permashortcitation).

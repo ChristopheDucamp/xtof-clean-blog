@@ -1,10 +1,11 @@
 ---
-layout: page
 title: "À Propos"
-description: "Qui suis-je et ce que je fais."
-header-img: "img/about-bg.jpg"
----
+layout: page
+description: Qui suis-je et ce que je fais.
+header-img: img/about-bg.jpg
+draft: false
 
+---
 ## Explorateur 
 
 Bonjour, je m'appelle Christophe Ducamp et j'ai 54 ans. Père de famille de 3 enfants, je vis à Paris dans le quartier de la Goutte d'Or. Mes champs d'intérêts personnels et professionnels évoluent autour de la _communication,  la culture libre et l'innovation ouverte_.

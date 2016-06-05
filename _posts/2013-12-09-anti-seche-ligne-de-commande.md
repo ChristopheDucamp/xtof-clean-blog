@@ -1,10 +1,17 @@
 ---
+title: Antisèche Ligne de Commande pour Démarrer sur GitHub !
+date: '2013-12-09 14:47:44'
+categories: []
 layout: post
-title:  "Antisèche Ligne de Commande pour Démarrer sur GitHub !"
-subtitle: "Pour les débutants qui veulent s'essayer à la ligne de commande"
-date:   2013-12-09 14:47:44
-author: "Christophe Ducamp"
-tags: [github, commandline, ligne de commande]
+subtitle: Pour les débutants qui veulent s'essayer à la ligne de commande
+author: Christophe Ducamp
+tags:
+- github
+- commandline
+- ligne de commande
+slug: anti-seche-ligne-de-commande
+draft: false
+
 ---
 Si vous démarrez dans la [fenêtre de Terminal](/2013-12-10-terminal-trucs)
 

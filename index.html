@@ -1,8 +1,10 @@
 ---
+title: ''
 layout: page
-description: "Un Thème de Blog Propre par Start Bootstrap <br>pour Redémarrer sur l'IndieWeb"
----
+description: Un Thème de Blog Propre par Start Bootstrap <br>pour Redémarrer sur l'IndieWeb
+draft: false
 
+---
 {% for post in paginator.posts %}
 <div class="post-preview h-entry">
     <a class="e-content" href="{{ post.url | prepend: site.baseurl }}">

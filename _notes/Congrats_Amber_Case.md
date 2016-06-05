@@ -1,17 +1,21 @@
 ---
+title: Félicitations Amber Case
+date: '2015-03-18 00:00:00'
+categories:
+- calmtech
 layout: page
-title: "Félicitations Amber Case"
-date: "2015-03-18"
 tags:
- - congrats
- - healthcare
- - calmtech
- - trajectoire
- - cyborg
-categories: calmtech
+- congrats
+- healthcare
+- calmtech
+- trajectoire
+- cyborg
 redirect_from:
-  - /2015-077/ 
-description: "Transition pour Amber Case de ESRI aux calmtech orientées santé"
+- "/2015-077/"
+description: Transition pour Amber Case de ESRI aux calmtech orientées santé
+slug: Congrats_Amber_Case
+draft: false
+
 ---
 Félicitations à <span class="h-card"><a rel="muse met colleague" href="http://caseorganic.com">Amber Case</a>, "<span class="p-role">anthropologue-cyborg</span>" pour cette <a class="p-name u-url" rel="in-reply-to" href="http://caseorganic.com/2015/03/from-esri-to-calm-tech-my-next-steps/">transition #calmtech</a> orientée sur le futur de notre santé : 
 

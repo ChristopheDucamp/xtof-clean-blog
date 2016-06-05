@@ -1,16 +1,25 @@
 ---
-layout: post
-title:  "Comment localiser la date en français dans Jekyll ?"
-date:   2013-12-26 04:47
-categories: jekyll date howto localization localisation liquid structure
-tags: 
-- hack 
-- jekyll 
-- date 
-- howto 
+title: Comment localiser la date en français dans Jekyll ?
+date: '2013-12-26 04:47:00'
+categories:
+- jekyll
+- date
+- howto
 - localization
----
+- localisation
+- liquid
+- structure
+layout: post
+tags:
+- hack
+- jekyll
+- date
+- howto
+- localization
+slug: jekyll-localiser-la-date
+draft: false
 
+---
 Vous venez d'[installer Jekyll en 3 lignes de commande](http://jekyllrb.com/docs/quickstart/) et souhaiteriez afficher toutes les dates en français ? Non programmeur comme moi, vous vous sentez déroutés par la [doc officielle](http://jekyllrb.com/docs/templates/) sur les templates et le langage de programmation [Liquid de Shopify](http://docs.shopify.com/themes/liquid-basics).
 
 Pas de panique... 

@@ -1,8 +1,14 @@
 ---
+title: 'GitHub pour Mac : Fusionner des Branches'
+date: '2013-12-07 00:00:00'
+categories:
+- github
+- git
 layout: post
-title: "GitHub pour Mac : Fusionner des Branches"
-date: 2013-12-07
-categories: github git
+slug: github-fusion-branches
+tags: []
+draft: false
+
 ---
 [Lien de référence](https://help.github.com/articles/merging-branches)
 

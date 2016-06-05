@@ -1,12 +1,16 @@
 ---
-layout:     post
-title:      "L'homme explore le faux texte, et cette exploration est à son point culminant"
-subtitle:   "Quelques problèmes pourraient paraître vraiment petits à 200 km de haut"
-date:       2015-12-16 01:00:00
-author:     "Jakob Nielsen"
-header-img: "img/post-bg-06.jpg"
----
+title: L'homme explore le faux texte, et cette exploration est à son point culminant
+date: '2015-12-16 01:00:00'
+categories: []
+layout: post
+subtitle: Quelques problèmes pourraient paraître vraiment petits à 200 km de haut
+author: Jakob Nielsen
+header-img: img/post-bg-06.jpg
+slug: exploration-du-faux-texte
+tags: []
+draft: false
 
+---
 Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d'attente. L'avantage de le mettre en latin est que l'opérateur sait au premier coup d'oeil que la page contenant ces lignes n'est pas valide, et surtout l'attention du client n'est pas dérangée par le contenu, il demeure concentré seulement sur l'aspect graphique.
 
 Ce texte a pour autre avantage d'utiliser des mots de longueur variable, essayant de simuler une occupation normale. La méthode simpliste consistant à copier-coller un court texte plusieurs fois (« ceci est un faux-texte ceci est un faux-texte ceci est un faux-texte ceci est un faux-texte ceci est un faux-texte ») a l'inconvénient de ne pas permettre une juste appréciation typographique du résultat final.

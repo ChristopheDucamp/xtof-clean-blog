@@ -1,9 +1,15 @@
 ---
+title: Mise à jour Jekyll 3
+date: '2015-12-13 00:00:00'
+categories: []
 layout: page
-title:  "Mise à jour Jekyll 3"
-date: "2015-12-13"
-subtitle: "Mise à jour Jekyll 2 vers 3"
-tags: jekyll, collection
+subtitle: Mise à jour Jekyll 2 vers 3
+tags:
+- jekyll,
+- collection
+slug: mise-a-jour-jekyll-3
+draft: false
+
 ---
 Mise à jour à partir d'une ancienne version de Jekyll ? Quelques petites choses ont changé dans la version 3.0.
 

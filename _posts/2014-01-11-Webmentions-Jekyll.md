@@ -1,15 +1,17 @@
 ---
+title: Webmentions et Jekyll
+date: '2014-01-11 14:47:00'
+categories: []
 layout: post
-title:  "Webmentions et Jekyll"
 subtitle: Embarquer les webmentions sur votre site.
-date:   2014-01-11 14:47
-
-tags: 
+tags:
 - webmention
 - indieweb
-- jekyll 
----
+- jekyll
+slug: Webmentions-Jekyll
+draft: false
 
+---
 Après la première expérimentation de [fédération de commentaires #indieweb chez Laurent](https://eschnou.com/entry/testing-indieweb-federation-with-waterpigscouk-aaronpareckicom-and--62-24908.html) aidé de quelques [plugins WordPress](http://indiewebcamp.com/WordPress#Essential_IndieWeb_plugins), je (chrono)rêve depuis <time class="dt-published" datetime="2013-09-15">[septembre dernier ](http://christopheducamp.com/w/Parser_les_webmentions)</time> de parvenir à faire tourner simplement la brique de construction [webmention](http://indiewebcamp.com/webmention-fr) sur quelques **simples pages HTML statiques**. 
 
 <span class="h-card" rel="colleague met">[Pelle Wessman](http://voxpelli.com/)</span> a lancé en <time class="dt-published" datetime="2013-12-13">décembre dernier</time> un [service qui peut recevoir et embarquer les Webmentions](http://voxpelli.com/2013/12/webmentions-for-static-pages/) pour les sites statiques. 

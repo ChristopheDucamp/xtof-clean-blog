@@ -1,8 +1,13 @@
 ---
+title: Démarrer avec Pages GitHub (Plus Bonus Jekyll)
+date: '2013-12-21 14:15:00'
+categories:
+- Pages GitHub
 layout: post
-title:  "Démarrer avec Pages GitHub (Plus Bonus Jekyll)"
-date: 2013-12-21 14:15
-categories: [Pages GitHub]
+slug: demarrer-avec-pages-github
+tags: []
+draft: false
+
 ---
 Lien de référence : <cite class="p-name u-url">[Get Started With GitHup Pages (Plus Bonus Jekyll)](http://24ways.org/2013/get-started-with-github-pages/)</cite>,   
 (<span class="p-publisher p-org h-card">[24ways](http://24ways.org)</span> - <span class="h-card p-author">[Anna Debenham](http://maban.co.uk)</span>, <time class="dt-published" datetime="2013-12-18">18 décembre 2013</time>)

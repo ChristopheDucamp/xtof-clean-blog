@@ -1,12 +1,18 @@
 ---
+title: Les Collections !
+date: '2014-08-03 00:00:00'
+categories:
+- jekyll
+- collections
 layout: post
-title:  "Les Collections !"
-subtitle: "Tout n'est pas un post ou une page..." 
+subtitle: Tout n'est pas un post ou une page...
 author: Christophe Ducamp
-tags: [jekyll]
-categories: jekyll collections
----
+tags:
+- jekyll
+slug: les-collections-de-jekyll
+draft: false
 
+---
 ## Les collections dans Jekyll 2.0
 
 Tout dans votre site Jekyll n'est pas un post ou une page. Vous voudrez peut-être documenter différentes méthodes dans votre projet OpenSource, l'annuaire des membres d'une équipe ou une liste d'albums de musique. 

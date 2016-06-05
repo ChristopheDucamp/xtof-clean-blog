@@ -1,27 +1,29 @@
-# Site settings
+---
 title: Explorations IndieWeb
 header-img: img/caterpillar.jpg
 email: christophe.ducamp@gmail.com
-description: "Explorations IndieWeb"
-baseurl: ""
-url: ""
+description: Explorations IndieWeb
+baseurl: ''
+url: ''
 twitter_username: xtof_fr
-github_username:  christopheducamp
-facebook_username:  christophe.ducamp
-
-# Build settings
+github_username: christopheducamp
+facebook_username: christophe.ducamp
 markdown: kramdown
 highlighter: pygments
-permalink: /:year/:month/:day/:title/
+permalink: "/:year/:month/:day/:title/"
 paginate: 15
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude:
+- less
+- node_modules
+- Gruntfile.js
+- package.json
+- README.md
+- vendor
 gems:
-  - jekyll-gist
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-paginate
-
-# Collections settings
+- jekyll-gist
+- jemoji
+- jekyll-redirect-from
+- jekyll-paginate
 collections:
   notes:
     output: true

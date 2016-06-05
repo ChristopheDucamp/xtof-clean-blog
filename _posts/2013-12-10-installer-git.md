@@ -1,10 +1,19 @@
 ---
+title: Installer Git
+date: '2013-12-10 21:44:00'
+categories:
+- github
+- git
+- howto
+- tutoriel
 layout: post
-title:  "Installer Git"
-subtitle: "Au coeur de GitHub,  il y a un système de contrôle de version appelé Git. Comment l'installer."
-author: "Christophe Ducamp"
-date:   2013-12-10 21:44:00
-categories: github git howto tutoriel
+subtitle: Au coeur de GitHub,  il y a un système de contrôle de version appelé Git.
+  Comment l'installer.
+author: Christophe Ducamp
+slug: installer-git
+tags: []
+draft: false
+
 ---
 [lien de référence](https://help.github.com/articles/set-up-git)
 

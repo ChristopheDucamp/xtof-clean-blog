@@ -1,10 +1,15 @@
 ---
-layout:     post
-title:      "Je crois au markdown."
-subtitle: "J'aime les outils modernes d'écriture"
-date:       2014-09-18 12:00:00
-author:     "Christophe Ducamp"
-header-img: "img/RemingtonTypewriter.jpg"
+title: Je crois au markdown.
+date: '2014-09-18 12:00:00'
+categories: []
+layout: post
+subtitle: J'aime les outils modernes d'écriture
+author: Christophe Ducamp
+header-img: img/RemingtonTypewriter.jpg
+slug: anti-sèche-markdown
+tags: []
+draft: false
+
 ---
 # Anti-sèche Markdown
 

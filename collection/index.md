@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Notes
-subtitle:  "Pour le moment, quelques petites notes en vrac chronologique. En attendant de maîtriser les clés de tri."
-author : "Christophe Ducamp"
-date: 2015-01-03
----
+date: '2015-01-03 00:00:00'
+layout: post
+subtitle: Pour le moment, quelques petites notes en vrac chronologique. En attendant
+  de maîtriser les clés de tri.
+author: Christophe Ducamp
+draft: false
 
+---
 **Statut :** Ouverture d'un chantier pour [démarrer des collections Jekyll](/2014/12/31/demarrer-des-collections-dans-jekyll/). L'intention est de lister un premier échantillon de collection de notes de toutes sortes.
 
 **Note technique jekyll** : à l'inverse des posts de blog accessibles sur la page principale, ces premières notes de collection sont classées par ordre chronologique. 

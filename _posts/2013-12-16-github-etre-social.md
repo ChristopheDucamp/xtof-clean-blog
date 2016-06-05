@@ -1,10 +1,17 @@
 ---
+title: 'GitHub : Être Social'
+date: '2013-12-16 23:35:44'
+categories: []
 layout: post
-title:  "GitHub : Être Social"
-subtitle: "Une des grandes fonctionnalités de GitHub c'est de regarder sur quoi les autres personnes travaillent et avec qui elles se connectent."
-date:   2013-12-16 23:35:44
-author: "Christophe Ducamp"
-tags: github social
+subtitle: Une des grandes fonctionnalités de GitHub c'est de regarder sur quoi les
+  autres personnes travaillent et avec qui elles se connectent.
+author: Christophe Ducamp
+tags:
+- github
+- social
+slug: github-etre-social
+draft: false
+
 ---
 **Lien de référence** : <span class="h-cite"><cite class="p-name u-url">[Be Social](https://help.github.com/articles/be-social/)</cite></span>
 
@@ -20,7 +27,7 @@ Quand vous suivez quelqu'un sur GitHub, vous recevrez des notifications concerna
 
 Il pourra vous arriver de vouloir rester à jour sur un projet spécifique. Quand vous êtes sur une page de projet, vous pouvez cliquez sur le bouton **watch** placé en haut de la page.
 
-![bouton watch](/img/repo-actions-watch.png)
+![bouton watch]({{ site.baseurl }}/img/repo-actions-watch.png)
 Quand le propriétaire met à jour le projet, vous verrez ce qu'il s'est passé dans votre tableau de bord. 
 
 ## Plus de choses encore 

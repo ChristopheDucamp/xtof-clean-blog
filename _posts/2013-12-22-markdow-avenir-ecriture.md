@@ -1,11 +1,17 @@
 ---
+title: 'Markdown : Le Futur de l''Écriture'
+date: '2013-12-22 13:00:00'
+categories: []
 layout: post
-title:  "Markdown : Le Futur de l'Écriture"
-subtitle: "Après la Remington."
-Author: "Christophe Ducamp"
-date: 2013-12-22 13:00
-header-img: "img/RemingtonTypewriter.jpg"
-tags: écriture markdown
+subtitle: Après la Remington.
+Author: Christophe Ducamp
+header-img: img/RemingtonTypewriter.jpg
+tags:
+- "écriture"
+- markdown
+slug: markdow-avenir-ecriture
+draft: false
+
 ---
 En cours d'étude pour [migrer sérieusement vers Jekyll][1], parti en séance d'essais de quelques éditeurs de texte pour écrire en Markdown. Cet article original de <span class="p-author h-card">[Robby Ingebretsen][2]</span> publié le <time class="dt-published" value="2013-06-28">28 juin 2013</time> m'a bien éclairé sur ce langage. Comme à l'habitude, seul le [lien original fait référence][3]. 
 

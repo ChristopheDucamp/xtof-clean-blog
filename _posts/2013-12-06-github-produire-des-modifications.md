@@ -1,9 +1,15 @@
 ---
+title: 'Github Pour Mac : Faire des Modifications'
+date: '2013-12-06 00:00:00'
+categories:
+- github
+- git
 layout: post
-title:  "Github Pour Mac : Faire des Modifications"
-date:   2013-12-06
 author: Christophe Ducamp
-categories: github git 
+slug: github-produire-des-modifications
+tags: []
+draft: false
+
 ---
 [Lien de référence](https://help.github.com/articles/making-changes)
 

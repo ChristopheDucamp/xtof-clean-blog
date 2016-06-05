@@ -1,17 +1,20 @@
 ---
+title: 'Un #indiewebcamp OpenChateau début juin ?'
+date: '2015-03-15 00:00:00'
+categories:
+- indieweb
 layout: post
-title: "Un #indiewebcamp OpenChateau début juin ?"
-date: "2015-03-15"
 author: Christophe Ducamp
-description: "Projet à chiffrer avec les membres indieweb francophones"
+description: Projet à chiffrer avec les membres indieweb francophones
 tags:
 - indiewebcamp
 - ownmynotes
 - mooc
 - openchateau
-categories: indieweb
 redirect_from:
-  - /2015-074/
+- "/2015-074/"
+slug: indiewebcamp-openchateau
+draft: false
 
 ---
 <blockquote class="twitter-tweet" lang="fr"><p>IndieWeb (french) <a href="https://t.co/aCxvtxh8W9">https://t.co/aCxvtxh8W9</a></p>&mdash; Pierre (@pierreozoux) <a rel="in-reply-to" href="https://twitter.com/pierreozoux/status/561229864788037632">30 Janvier 2015</a></blockquote>

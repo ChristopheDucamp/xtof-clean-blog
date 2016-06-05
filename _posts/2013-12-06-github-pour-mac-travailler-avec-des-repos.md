@@ -1,8 +1,14 @@
 ---
+title: 'Github Pour Mac : Travailler avec des dépôts'
+date: '2013-12-06 00:00:00'
+categories: []
 layout: post
-title:  "Github Pour Mac : Travailler avec des dépôts"
-date:   2013-12-06
-tags: github git 
+tags:
+- github
+- git
+slug: github-pour-mac-travailler-avec-des-repos
+draft: false
+
 ---
 [lien de référence](https://help.github.com/desktop/guides/contributing/working-with-your-remote-repository-on-github-or-github-enterprise/)
 

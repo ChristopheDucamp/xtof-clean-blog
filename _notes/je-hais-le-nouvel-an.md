@@ -1,15 +1,18 @@
 ---
+title: Je hais le nouvel an
+date: '2015-01-01 00:00:00'
+categories: []
 layout: post
-title: "Je hais le nouvel an"
-date: "2015-01-01"
 author: Christophe Ducamp
-tags: 
-    - humeur
-    - longnow
-    - IYL2015
-subtitle: "Chaque matin, une année nouvelle"
----
+tags:
+- humeur
+- longnow
+- IYL2015
+subtitle: Chaque matin, une année nouvelle
+slug: je-hais-le-nouvel-an
+draft: false
 
+---
 <div style="border:2px solid #ccc; background: #fff; font-size: smaller; line-height: 1.3; margin-right: 25px; float:right;">
 <div style="font-size: 9pt; width:100%">Duodi</div>
 <div style="font-size: 23pt; width: 100%;">12</div>

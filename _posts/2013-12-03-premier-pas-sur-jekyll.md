@@ -1,11 +1,17 @@
 ---
+title: 'Arrivée sur Jekyll : Ouf !'
+date: '2013-12-03 19:51:44'
+categories: []
 layout: post
-title:  "Arrivée sur Jekyll : Ouf !"
-subtitle: "Ma première page..."
-date:   2013-12-03 19:51:44
+subtitle: Ma première page...
 author: Christophe Ducamp
-header-img: "img/jekyll-logo-dark-solid.png"
-tags: jekyll update
+header-img: img/jekyll-logo-dark-solid.png
+tags:
+- jekyll
+- update
+slug: premier-pas-sur-jekyll
+draft: false
+
 ---
 Satisfaction personnelle d'être parvenu à publier cette première page sur Jekyll. Non programmeur, la pente a été raide et escarpée. Point le plus difficile jusqu'à présent : parvenir à héberger ce site gracieusement sur quelques [Pages Utilisateur de Github](http://xtof.me/w/Pages_GitHub). Pause à cette heure dans les  tutoriels de lignes de commande Git désespérément rebutants pour les débutants. 
 
