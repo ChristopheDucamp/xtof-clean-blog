@@ -1,30 +1,48 @@
----
-title: Explorations IndieWeb
+# Site settings
+title: Sur la route de l'IndieWeb
 header-img: img/caterpillar.jpg
 email: christophe.ducamp@gmail.com
-description: Explorations IndieWeb
-baseurl: ''
-url: ''
+description: "Explorations Jekyll IndieWeb"
+baseurl: ""
+url: http://christopheducamp.com
 twitter_username: xtof_fr
-github_username: christopheducamp
-facebook_username: christophe.ducamp
+github_username:  christopheducamp
+facebook_username:  christophe.ducamp
+
+# Build settings
 markdown: kramdown
-highlighter: pygments
-permalink: "/:year/:month/:day/:title/"
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
 paginate: 15
-exclude:
-- less
-- node_modules
-- Gruntfile.js
-- package.json
-- README.md
-- vendor
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems:
-- jekyll-gist
-- jemoji
-- jekyll-redirect-from
-- jekyll-paginate
+  - jekyll-gist
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-mentions
+
+#Jekyll-mentions réglé sur twitter
+jekyll-mentions: https://twitter.com
+
+# Réglages des collections
 collections:
   notes:
     output: true
-    permalink: "/notes/:title/"
+    permalink: "/notes/:title.html"
+
+
+
+#jekyll social (cf settings sur https://github.com/eduardoboucas/jekyll-social)
+twitter_format: "@title xtof.me@url @tags"
+twitter_url_length: 22
+twitter_max_length: 140
+
+#########################
+#						#
+#    réglages blog		#
+#	pour le social...   #
+#########################
+blog_title: sur la route indieweb...
+blog_description: "mes premiers pas dans le code et ailleurs."
+
