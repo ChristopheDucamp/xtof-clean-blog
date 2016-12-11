@@ -184,4 +184,4 @@ Dans la [seconde partie](/2013/12/16/gitHub-pour-nuls-partie-2/), vous apprendre
 ## Voir aussi 
 - ([GitHub pour les Débutants : Consignez, Poussez et Foncez](/2013/12/16/gitHub-pour-nuls-partie-2/)) 
 
-- <span class="h-cite"><cite class="p-name u-url">[How the Heck Do I Use Github?](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)</cite> (<span class=p-publisher>Lifehacker</span> <span class="h-card p-author">Adam Dachis</span> <time class="dt-published">2013-12-02</time>)</span>
+- <span class="h-cite"><cite class="p-name u-url">[How the Heck Do I Use Github?](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)</cite> (<span class="p-publisher">Lifehacker</span> <span class="h-card p-author">Adam Dachis</span> <time class="dt-published">2013-12-02</time>)</span>

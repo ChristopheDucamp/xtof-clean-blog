@@ -68,7 +68,6 @@ Vous aurez aussi besoin d'une représentation [iso 8601](http://christopheducamp
 	{{ page.date | date: "%Y-%m-%d" }} 
 	{{ page.date | date_to_xmlschema }} 
 
-<br>
 
 
 Non programmeur, je serais vraiment intéressé pour trouver des solutions plus concises, propres et recommandables à ceux qui souhaitent essayer Jekyll en français ? 
@@ -82,4 +81,4 @@ Très preneur de vos frameworks, plugins et/ou tous vos points d'optimisation en
 * [Les filtres et tags dans Jekyll](http://jekyllrb.com/docs/templates/) - la documentation officielle de Jekyll
 
 ## Réagir  
-Faute de savoir installer [webmention](http://indiewebcamp.com/webmention) sur Jekyll, ce post reste  <span rel="syndication" class="u-syndication">[ouvert à tous vos commentaires sur twitter](https://twitter.com/xtof_fr/statuses/416076519794946048)</span> - [@xtof](http://twitter.com/xtof_fr)
+Ce post reste  <span rel="syndication" class="u-syndication">[ouvert à tous vos commentaires sur twitter](https://twitter.com/xtof_fr/statuses/416076519794946048)</span> - [@xtof](http://twitter.com/xtof_fr)

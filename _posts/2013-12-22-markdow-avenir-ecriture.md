@@ -25,7 +25,6 @@ La dernière moitié de la décennie a donné naissance à un tout un tas de nou
 
 ## Pourquoi Markdown est Important ?
 
-
 Avant de poursuivre, mettons-nous une image en tête. Si vous produisez un peu d'écriture sérieuse en Markdown, vous le faites dans une application conçue pour Markdown (et il en existe un paquet). Par conséquent, lorsque vous imaginez écrire en Markdown, vous avez besoin de visualiser un environnement où Markdown fait sens. Vous n'êtes pas dans un éditeur de code et vous n'êtes pas dans Word. Vous utilisez probablement quelque chose qui ressemble à ça :
 
 ![image][image-1]

@@ -7,7 +7,9 @@ categories:
 layout: post
 author: Christophe Ducamp
 slug: github-produire-des-modifications
-tags: []
+tags: 
+- github
+- git
 draft: false
 
 ---
@@ -18,7 +20,7 @@ Après avoir forké un dépôt et l'[avoir cloné vers GitHub pour Mac](/2013/12
 GitHub pour Mac dispose d'un raccourci très pratique pour que vous puissiez rapidement voir vos dépôts dans le Finder – survolez et posez-vous sur le dépôt dans la vue des dépôts principaux et faites un control-clic, puis sélectionnez "Show in Finder" dans le menu contextuel qui apparaît.
 
 
-![UI Github pour Mac]({{ site.url }}/assets/images/Github-Mac-ShowInFinder.png)
+![UI Github pour Mac]({{ site.url }}/img/Github-Mac-ShowInFinder.png)
 
 ## Faire une modification
 
@@ -35,7 +37,7 @@ Pensez à un *commit* comme un instantané de votre projet -code, fichiers, tout
 
 Revenez sur Github pour Mac et double-cliquez sur "Spoon-Knife" dans la vue des dépôts principaux. Ceci vous conduira à la vue Historique, où vous pourrez voir les précédents *commits* d'autres personnes. Néanmoins si vous cliquez sur l'onglet "Changes" sur la gauche, vous entrerez dans la vue Changes, où vous pouvez voir que le fichier README est maintenant mis en valeur comme étant modifié. Sur la droite, vous pouvez voir une "diff" affichant les lignes ayant été modifiées.
 
-![image]({{ site.url }}/images/GitHub-Changes-view.png "Visualisation des Modifications")
+![image]({{ site.url }}/img/GitHub-Changes-view.png "Visualisation des Modifications")
 
 
 ## Committez vos modifications localement

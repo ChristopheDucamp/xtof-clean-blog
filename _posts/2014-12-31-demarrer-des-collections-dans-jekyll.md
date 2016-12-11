@@ -111,7 +111,15 @@ Si vous choisissez de faire ainsi, vous pouvez spécifier de restituer une page 
 
 Maintenant que la collection est définie et une fois le contenu  ajouté à la collection, ces collections peuvent être incluses sur n'importe quelle page dans le site Jekyll. Par exemple, les ajouts les plus récents de votre collection peuvent être affichés sur votre page d'accueil en utilisant la syntaxe Liquid. Tout front-matter YAML personnalisé déclaré dans chaque document peut aussi permettre de faire figurer le contenu.
 
-{% gist ab167d9815986748e873 %}
+{% highlight YAML %}
+{% for album in site.music limit:3 %}
+<li>
+<img src="{{ album.thumbnail-path }}" alt="{{ album.title }}"/>
+<a href="{{ album.url }}">{{ album.title }}</a>
+<p>{{ album.short-description }}</p>
+</li>
+{% endfor %}
+{% endhighlight %}
 
 Ceci fournit un moyen génial pour afficher des images, titres, etc. en rapport dans une liste de documents. Vous pouvez utiliser l'attribut intégré `url` pour faire un lien vers une page restituée de document.
 

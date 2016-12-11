@@ -9,18 +9,35 @@ twitter_username: xtof_fr
 github_username:  christopheducamp
 facebook_username:  christophe.ducamp
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
+# Réglages de construction
+# Jekyll 3 ne supporte que le Kramdown pour Markdown
+kramdown:
+  # Utilise le markdown enrichi de GitHub, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 et GitHub Pages ne supportent désormais que rouge pour la mise en valeur de syntaxe
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Utilise la mise en valeur de syntaxe existante pygments pour css
+css_class: 'highlight'
 permalink: /:year/:month/:day/:title/
 paginate: 15
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+# Exclure ces fichiers de votre _site de production
+exclude: ["less", "node_modules","Gruntfile.js","package.json","README.md"]
+
 gems:
   - jekyll-gist
+  - jekyll-admin
   - jemoji
   - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-mentions
+  - jekyll-sitemap # Crée une sitemap en utilisant la gem officielle Sitemap de Jekyll
+  - jekyll-feed # crée un flux Atom en utilisant la gem officielle Jekyll fee
+  
+# Désactiver le support noscript
+gist:
+  noscript: false
+
 
 #Jekyll-mentions réglé sur twitter
 jekyll-mentions: https://twitter.com
@@ -45,4 +62,7 @@ twitter_max_length: 140
 #########################
 blog_title: sur la route indieweb...
 blog_description: "mes premiers pas dans le code et ailleurs."
+
+
+
 
