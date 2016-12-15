@@ -15,7 +15,7 @@ collections:
 header-img: img/caterpillar.jpg
 email: christophe.ducamp@gmail.com
 description: Explorations Jekyll IndieWeb
-baseurl: ''
+baseurl: 
 url: http://christopheducamp.com
 twitter_username: xtof_fr
 github_username: christopheducamp
@@ -49,4 +49,5 @@ twitter_format: "@title xtof.me@url @tags"
 twitter_url_length: 22
 twitter_max_length: 140
 blog_title: sur la route indieweb...
-blog_description: mes premiers pas dans le code et ailleurs.
+blog_description: Premiers pas de non développeur sur le statique avec github et jekyll.
+  Apprentissage en cours.
