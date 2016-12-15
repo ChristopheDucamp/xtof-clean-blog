@@ -1,18 +1,16 @@
 ---
 title: Les collections dans Jekyll (doc)
-date: '2014-12-30 00:00:00'
+date: 2014-12-30 00:00:00 Z
 categories:
 - jekyll
 - collections
-layout: page
-subtitle: "Étude en cours de la documentation officielle jekyll"
 tags:
 - jekyll,
 - collection
-slug: collections-jekyll
-draft: false
-
+layout: page
+subtitle: Étude en cours de la documentation officielle jekyll
 ---
+
 [lien de référence](http://jekyllrb.com/docs/collections/)
 
 Dans votre site Jekyll, tout n'est pas "Post" ou "Page". Vous voudrez peut-être parfois publier des petites notes de statut, documenter différentes méthodes dans votre projet OpenSource, un annuaire des membres d'une équipe, une liste de livres ou d'albums de musique. Les collections vous permettent de définir un nouveau type de document qui se comporte comme le font normalement les Pages ou les Posts, mais disposent aussi de leurs propres propriétés uniques et d'un espace-nom.

@@ -1,5 +1,6 @@
 ---
 title: Dogfooding sur Jekyll 3.3.
+date: 2016-12-06 00:00:00 Z
 subtitle: 'Superbes ressources de la communauté francophone des utilisateurs Jekyll.
   Reprise en main de Jekyll prévue pour Noël. '
 layout: post

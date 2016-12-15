@@ -1,21 +1,17 @@
 ---
 title: La quantification de soi à la recherche de sens
-date: '2014-07-31 00:00:00'
-categories: []
+date: 2014-07-31 00:00:00 Z
+tags:
+- quantifiedself
+- design
+- mydatalabs
 layout: post
 redirect_from:
 - "/2014-212/"
 subtitle: 'De la critique sur les usages et la pertinence des offres actuelles du
   #quantifiedself'
-category: 
-tags:
-- quantifiedself
-- design
-- mydatalabs
-slug: la-quantification-de-soi--la-recherche-de-sens
-draft: false
-
 ---
+
 ## De la critique sur les usages et la pertinence des offres actuelles de l'auto-mesure. 
 
 <q>Pourquoi le mouvement du Quantified Self peine à décoller ?</q>   titre Télérama dans un [excellent article critique paru](http://www.telerama.fr/techno/corpsmachine/quantified-self/) au sein du webdocumentaire <q>[Quand le Corps Humain devient Machine](http://www.telerama.fr/techno/corpsmachine/)</q>.

@@ -2,6 +2,7 @@
 title: Front Matter et Liquid
 order: 5
 ---
+
 Front Matter nous permet de régler les métadonnées pour un fichier. Nous l'utiliserons pour dire à `index.html` d'utiliser le layout par défaut. Le format est YAML entre deux ensembles de trois tirets : `---`, qui se placent au début d'un fichier.
 
 Ajoutez ce qui suit en haut de `index.html` :

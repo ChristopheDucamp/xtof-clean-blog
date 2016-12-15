@@ -2,6 +2,7 @@
 title: Sujets Avancés
 order: 13
 ---
+
 Afin de rendre ce guide aussi facile que  possible nous avons rassemblé ici quelques thématiques. Cette section avancée est une chance pour plonger plus à fond sur ces sujets.
 
 ### Collections vs Front Matter vs Fichiers Data

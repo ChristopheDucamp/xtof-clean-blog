@@ -1,19 +1,16 @@
 ---
 title: 'MacOSX : Comment Utiliser les Pages GitHub pour votre page Projet'
-date: '2013-12-12 19:51:44'
-categories: []
-layout: post
-subtitle: Un tutoriel rapide pour créer votre première page projet sur GitHub
-author: Christophe Ducamp
+date: 2013-12-12 19:51:44 Z
 tags:
 - git
 - GitHub
 - Projet
 - tutoriel
-slug: mac-osx-guide-page-projet-github
-draft: false
-
+layout: post
+subtitle: Un tutoriel rapide pour créer votre première page projet sur GitHub
+author: Christophe Ducamp
 ---
+
 [Lien de référence chez Thinkful](http://www.thinkful.com/learn/a-guide-to-using-github-pages/start/new-project/project-page/)
 
 Si comme moi vous êtes débutant dans la ligne de commande et sur Git, et si vous cherchez un moyen gratuit d'héberger quelques documents et projets, les [Pages GitHub](http://christopheducamp.com/w/Page_GitHub) peuvent être une réponse. 

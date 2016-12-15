@@ -1,16 +1,13 @@
 ---
 title: Comment lire plus
-date: '2015-01-03 00:00:00'
-categories: []
-layout: page
-subtitle: 'Objectif : 50 livres lus en 2015'
+date: 2015-01-03 00:00:00 Z
 tags:
 - lecture,
 - books
-slug: comment-lire-plus
-draft: false
-
+layout: page
+subtitle: 'Objectif : 50 livres lus en 2015'
 ---
+
 <img style="padding-left:20px; float:right; width:100px; height:100px;" src="http://photos-h.ak.instagram.com/hphotos-ak-xfa1/t51.2885-15/10914113_1520893888178943_1854795171_n.jpg" />
 
 

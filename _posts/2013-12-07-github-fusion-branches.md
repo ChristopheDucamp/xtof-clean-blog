@@ -1,15 +1,12 @@
 ---
 title: 'GitHub pour Mac : Fusionner des Branches'
-date: '2013-12-07 00:00:00'
+date: 2013-12-07 00:00:00 Z
 categories:
 - github
 - git
 layout: post
-slug: github-fusion-branches
-tags: []
-draft: false
-
 ---
+
 [Lien de référence](https://help.github.com/articles/merging-branches)
 
 Une fois que vous avez produit  une nouvelle branche et fini le travail sur votre dernière idée, vous voudrez fusionner les modifications dans `master` (ou peut-être une autre branche), de manière à ce qu'elles fassent partie du corps de travail principal.

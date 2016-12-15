@@ -1,7 +1,7 @@
 ---
 title: Comment POSSER à partir de Jekyll
+date: 2016-07-06 00:00:00 Z
 layout: post
-date: '2016-07-06'
 description: "« Partager « les posts de Jekyll sur les silos sociaux en utilisant
   front matter et IFTTT"
 categories: social

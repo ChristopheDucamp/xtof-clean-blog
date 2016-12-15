@@ -1,6 +1,6 @@
 ---
 title: Forker un Repo sur GitHub
-date: '2013-12-16 14:36:00'
+date: 2013-12-16 14:36:00 Z
 categories:
 - github
 - git
@@ -9,13 +9,11 @@ categories:
 - howto
 - tutoriel
 layout: post
-subtitle: Un fork (bifurcation) est une copie d'un repository. Ce peut être une bonne base pour démarrer.
+subtitle: Un fork (bifurcation) est une copie d'un repository. Ce peut être une bonne
+  base pour démarrer.
 author: Christophe Ducamp
-slug: forker-un-repo-github
-tags: []
-draft: false
-
 ---
+
 Lien de référence : <span class="h-cite"><cite class="p-name u-url">[Fork A Repo](https://help.github.com/articles/fork-a-repo)</cite></span>
 
 Si vous vous trouvez sur cette page, je peux supposer que vous [débutez sur Git et GitHub](/2013/12/15/Github-pour-nuls-partie-1/). Ce petit guide vous fera réviser quelques fondamentaux et vous aidera à faire vos premiers pas sur GitHub.

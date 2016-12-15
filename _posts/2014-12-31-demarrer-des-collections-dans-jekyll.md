@@ -1,7 +1,11 @@
 ---
 title: Démarrer des Collections dans Jekyll
-date: '2014-12-31 00:00:00'
-categories: []
+date: 2014-12-31 00:00:00 Z
+tags:
+- jekyll
+- collection
+- collections
+- CMS
 layout: post
 author: Christophe Ducamp
 subtitle: Un post utile si vous coincez sur le fonctionnement des collections dans
@@ -9,15 +13,8 @@ subtitle: Un post utile si vous coincez sur le fonctionnement des collections da
 header-img: img/post-bg-03.jpg
 redirect_from:
 - "/2014-365/"
-tags:
-- jekyll
-- collection
-- collections
-- CMS
-slug: demarrer-des-collections-dans-jekyll
-draft: false
-
 ---
+
 Inspiration & remerciements à <span class='h-card microcard'>[Taylor Jones][2]</span> pour son [post de référence][1] m'ayant sérieusement aidé pour capter le fonctionnement des collections dans Jekyll. Le code de l'exemple d'une [collection d'albums de musique est posé sur github](https://github.com/ChristopheDucamp/testJekyll).
 
 ## Comment Démarrer des Collections dans Jekyll 2.xx

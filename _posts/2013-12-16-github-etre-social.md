@@ -1,18 +1,15 @@
 ---
 title: 'GitHub : Être Social'
-date: '2013-12-16 23:35:44'
-categories: []
+date: 2013-12-16 23:35:44 Z
+tags:
+- github
+- social
 layout: post
 subtitle: Une des grandes fonctionnalités de GitHub c'est de regarder sur quoi les
   autres personnes travaillent et avec qui elles se connectent.
 author: Christophe Ducamp
-tags:
-- github
-- social
-slug: github-etre-social
-draft: false
-
 ---
+
 **Lien de référence** : <span class="h-cite"><cite class="p-name u-url">[Be Social](https://help.github.com/articles/be-social/)</cite></span>
 
 L'une des fonctionnalités géniales de GitHub est la capacité de pouvoir voir sur quoi d'autres personnes travaillent et avec qui elles se connectent. Quand vous suivez quelqu'un, vous recevrez des notifications de son activité GitHub sur votre tableau de bord.

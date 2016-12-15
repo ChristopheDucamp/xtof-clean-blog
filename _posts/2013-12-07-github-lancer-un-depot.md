@@ -1,6 +1,6 @@
 ---
 title: 'GitHub pour Mac : Lancer un dépôt'
-date: '2013-12-07 00:00:00'
+date: 2013-12-07 00:00:00 Z
 categories:
 - github
 - git
@@ -8,11 +8,8 @@ layout: post
 subtitle: Utiliser votre éditeur de texte favori pour faire des modifications sur
   votre projet, puis utiliser GitHub Desktop pour voir vos commits utiles
 author: Christophe Ducamp
-slug: github-lancer-un-depot
-tags: []
-draft: false
-
 ---
+
 [Lien de référence](https://help.github.com/articles/branching-out) 
 
 <ins datetime="2015-12-20">Edit - Page à rafraîchir et synchroniser</ins> 

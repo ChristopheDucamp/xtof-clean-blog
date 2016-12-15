@@ -2,6 +2,7 @@
 title: Galerie de Photos
 order: 11
 ---
+
 Afficher du contenu dans un ordre particulier n'est pas toujours facile avec les collections. Bien sûr, si vous voulez trier par ordre alphabétique,  c'est simple. Mais si nous voulons définir l'ordre?
 
 Une option serait d'avoir un ordre ou une variable de poids dans le Front Matter de vos items de collection et de trier sur cette base. Nous allons le faire d'une autre manière : en utilisant un tableau YAML.

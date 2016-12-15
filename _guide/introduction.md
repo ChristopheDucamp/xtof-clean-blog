@@ -1,9 +1,9 @@
 ---
 title: Démarrer avec Jekyll
+permalink: "/"
 heading: Introduction
 nav_title: Introduction
 order: 1
-permalink: /
 ---
 
 Ce guide vous livrera une introduction pas à pas pour démarrer sur Jekyll. Nous téléchargerons un template gratuit  HTML 5, le convertirons en un site web Jekyll, y ajouterons un blog et ferons en sorte que des clients ou des utilisateurs non techniciens puissent mettre à jour le contenu. Démarrons !

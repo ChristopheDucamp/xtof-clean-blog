@@ -1,13 +1,6 @@
 ---
 title: Algie Vasculaire de la Face, Anti-Douleur et Humeur
-date: '2014-08-05 00:00:00'
-categories: []
-layout: post
-subtitle: 'L''Algie Vasculaire : une maladie reconnue'
-author: christophe ducamp
-redirect_from:
-- "/2014-218/"
-- "/2014-218/algie-vasculaire-et-humeur"
+date: 2014-08-05 00:00:00 Z
 tags:
 - santé
 - neurologie
@@ -15,10 +8,14 @@ tags:
 - migraine
 - céphalée
 - imiject
-slug: Algie-Vasculaire-et-Humeur
-draft: false
-
+layout: post
+subtitle: 'L''Algie Vasculaire : une maladie reconnue'
+author: christophe ducamp
+redirect_from:
+- "/2014-218/"
+- "/2014-218/algie-vasculaire-et-humeur"
 ---
+
 # Humeur à 100% avec Algie Vasculaire de la Face. 
 
 Même si ça pique toujours aussi fort… (#douleur)

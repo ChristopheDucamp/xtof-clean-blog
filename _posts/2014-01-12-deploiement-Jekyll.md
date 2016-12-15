@@ -1,23 +1,20 @@
 ---
 title: Comment Déployer Jekyll
-date: '2014-01-12 08:30:00'
+date: 2014-01-12 08:30:00 Z
 categories:
 - jekyll
 - ftp
 - déploiement
-layout: post
-author: Christophe Ducamp
 tags:
 - déploiement
 - jekyll
 - FTP
 - glynn
 - rrsync
-published: true
-slug: deploiement-Jekyll
-draft: false
-
+layout: post
+author: Christophe Ducamp
 ---
+
 [lien de référence (doc Jekyll)](http://jekyllrb.com/docs/deployment-methods/)
 
 _<ins datetime="2014-08-07">Seul le lien officiel fait référence. Difficultés rencontrées avec le script automatique Glynn. Étude en cours et recherches de scripts SSH et rsync simples à paramétrer pour simplification et automatisation.</ins>_

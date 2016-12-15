@@ -2,6 +2,7 @@
 title: Layouts
 order: 4
 ---
+
 À ce stade, ceci est un site web d'une seule page. Nous allons  bientôt créer plus de pages qui pourraient être des pages HTML dupliquées. Chaque page a besoin d'un en-tête et d'un pied de page qui seront fondamentalement les mêmes. Si nous voulions mettre à jour l'en-tête, nous devrions le faire sur chacune des pages. 
 
 Pour éviter cette duplication, nous allons utiliser un *Layout*. Les layouts nous permettent de disposer du code pour l'en-tête et le pied de page dans un seul fichier et de les emballer autour des contenus sur d'autres pages.

@@ -2,6 +2,7 @@
 title: Collections
 order: 10
 ---
+
 Pour suivre nous allons regarder les [Collections](http://jekyllrb.com/docs/collections/). Les collections sont un moyen assez génial d'organiser du contenu en rapport. Elles se comportent comme des Posts mais n'ont pas besoin d'une date.
 
 Nous allons utiliser une Collection sur notre page de Services pour réduire la répétition du HTML.

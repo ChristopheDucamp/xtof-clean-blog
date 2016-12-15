@@ -1,16 +1,12 @@
 ---
 title: Je crois au markdown.
-date: '2014-09-18 12:00:00'
-categories: []
+date: 2014-09-18 12:00:00 Z
 layout: post
 subtitle: J'aime les outils modernes d'écriture
 author: Christophe Ducamp
 header-img: img/RemingtonTypewriter.jpg
-slug: anti-sèche-markdown
-tags: []
-draft: false
-
 ---
+
 # Anti-sèche Markdown
 
 Après plus d'un an passé sur la syntaxe Mediawiki, décidé de passer l'année 2014 en Markdown ! 

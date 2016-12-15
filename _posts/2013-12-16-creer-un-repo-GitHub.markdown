@@ -1,11 +1,6 @@
 ---
 title: Créer un Dépôt sur GitHub
-date: '2013-12-16 10:19:00'
-categories: []
-layout: post
-subtitle: Pour poser un projet sur GitHub, il faut créer un repository. Créons-le
-  !
-author: christophe ducamp
+date: 2013-12-16 10:19:00 Z
 tags:
 - github
 - git
@@ -13,10 +8,12 @@ tags:
 - remote
 - howto
 - tutoriel
-slug: creer-un-repo-GitHub
-draft: false
-
+layout: post
+subtitle: Pour poser un projet sur GitHub, il faut créer un repository. Créons-le
+  !
+author: christophe ducamp
 ---
+
 Lien de référence : <span class="h-cite"><cite class="p-name u-url">[Create A Repo](https://help.github.com/articles/create-a-repo)</cite></span>
 
 Si vous vous trouvez sur cette page, je peux supposer que vous [débutez sur Git et GitHub](/2013/12/15/Github-pour-nuls-partie-1/). Ce petit guide vous fera réviser quelques fondamentaux et vous expliquera comment faire vos premiers pas sur GitHub.

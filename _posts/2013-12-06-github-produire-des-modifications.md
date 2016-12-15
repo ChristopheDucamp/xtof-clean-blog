@@ -1,18 +1,16 @@
 ---
 title: 'Github Pour Mac : Faire des Modifications'
-date: '2013-12-06 00:00:00'
+date: 2013-12-06 00:00:00 Z
 categories:
+- github
+- git
+tags:
 - github
 - git
 layout: post
 author: Christophe Ducamp
-slug: github-produire-des-modifications
-tags: 
-- github
-- git
-draft: false
-
 ---
+
 [Lien de référence](https://help.github.com/articles/making-changes)
 
 Après avoir forké un dépôt et l'[avoir cloné vers GitHub pour Mac](/2013/12/06/github-pour-mac-travailler-avec-des-repos/), vous pouvez visualiser le dépôt sur GitHub.com et ajouter [quelques amis comme collaborateurs](https://help.github.com/articles/how-do-i-add-a-collaborator) de façon à ce qu'ils puissent aussi travailler sur votre fork… mais tout d'abord, faisons quelques modifications par nous-mêmes ! 

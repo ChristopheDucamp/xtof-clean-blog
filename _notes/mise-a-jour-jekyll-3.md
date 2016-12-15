@@ -1,16 +1,13 @@
 ---
 title: Mise à jour Jekyll 3
-date: '2015-12-13 00:00:00'
-categories: []
-layout: page
-subtitle: Mise à jour Jekyll 2 vers 3
+date: 2015-12-13 00:00:00 Z
 tags:
 - jekyll,
 - collection
-slug: mise-a-jour-jekyll-3
-draft: false
-
+layout: page
+subtitle: Mise à jour Jekyll 2 vers 3
 ---
+
 Mise à jour à partir d'une ancienne version de Jekyll ? Quelques petites choses ont changé dans la version 3.0.
 
 Avant de nous lancer, ouvrez votre fenêtre de terminal et récupérez la dernière version de Jekyll :

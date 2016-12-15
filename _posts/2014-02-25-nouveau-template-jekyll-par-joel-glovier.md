@@ -1,17 +1,16 @@
 ---
 title: 'Design : Joel Glovier rhabille Jekyll'
-date: '2014-02-25 00:00:00'
-categories: template
-layout: post
-subtitle: En avant-première, le nouveau thème par défaut de Jekyll
-author: Christophe Ducamp
+date: 2014-02-25 00:00:00 Z
+categories:
+- template
 tags:
 - jekyll
 - design
-slug: nouveau-template-jekyll-par-joel-glovier
-draft: false
-
+layout: post
+subtitle: En avant-première, le nouveau thème par défaut de Jekyll
+author: Christophe Ducamp
 ---
+
 <blockquote class="twitter-tweet" lang="fr"><p>Just finished an upgrade of the default <a href="https://twitter.com/jekyllrb">@jekyllrb</a> blog theme. <a href="https://t.co/hpLZs2RS4R">https://t.co/hpLZs2RS4R</a> (or preview it: <a href="http://t.co/QAJmm9wS8Q">http://t.co/QAJmm9wS8Q</a>)</p>&mdash; Joel Glovier (@jglovier) <a href="https://twitter.com/jglovier/statuses/438062229108563968">24 Février 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

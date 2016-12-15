@@ -1,11 +1,12 @@
 ---
-layout:     post
-title:      "L'homme explore le faux texte, et cette exploration est à son point culminant"
-subtitle: "Quelques problèmes pourraient paraître vraiment petits à 200 km de haut"
-date:       2015-12-15 13:00:00
-author:     "xtof"
-header-img: "img/post-bg-03.jpg"
+title: L'homme explore le faux texte, et cette exploration est à son point culminant
+date: 2015-12-15 13:00:00 Z
+layout: post
+subtitle: Quelques problèmes pourraient paraître vraiment petits à 200 km de haut
+author: xtof
+header-img: img/post-bg-03.jpg
 ---
+
 ## L'échec n'est pas une option...
 
 Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d'attente. L'avantage de le mettre en latin est que l'opérateur sait au premier coup d'oeil que la page contenant ces lignes n'est pas valide, et surtout l'attention du client n'est pas dérangée par le contenu, il demeure concentré seulement sur l'aspect graphique.

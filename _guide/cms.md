@@ -1,5 +1,5 @@
 ---
-title : CMS et Hébergement
+title: CMS et Hébergement
 order: 8
 ---
 

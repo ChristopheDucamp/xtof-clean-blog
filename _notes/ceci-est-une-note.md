@@ -1,17 +1,14 @@
 ---
 title: Collections et usage des petites notes
-date: '2014-12-30 00:00:00'
-categories: []
-layout: page
-description: Ajouté un lien Notes dans le Menu... bricolages à venir
+date: 2014-12-30 00:00:00 Z
 tags:
 - ownmynotes,
 - indieweb,
 - collection
-slug: ceci-est-une-note
-draft: false
-
+layout: page
+description: Ajouté un lien Notes dans le Menu... bricolages à venir
 ---
+
 Ajouté rapidement un onglet "Notes" dans le menu pour étudier l'usage des *collections* et *data* dans Jekyll.
 
 Ceci est donc ma première [note de collection chronodatée](/collection/) dans Jekyll.

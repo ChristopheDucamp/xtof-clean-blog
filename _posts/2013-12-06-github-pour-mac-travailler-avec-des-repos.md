@@ -1,15 +1,12 @@
 ---
 title: 'Github Pour Mac : Travailler avec des dépôts'
-date: '2013-12-06 00:00:00'
-categories: []
-layout: post
+date: 2013-12-06 00:00:00 Z
 tags:
 - github
 - git
-slug: github-pour-mac-travailler-avec-des-repos
-draft: false
-
+layout: post
 ---
+
 [lien de référence](https://help.github.com/desktop/guides/contributing/working-with-your-remote-repository-on-github-or-github-enterprise/)
 
 GitHub ce n'est que de la collaboration. Deux personnes ou plus peuvent disposer chacune de leurs propres copies locales d'un dépôt, qu'elles synchronisent chacune sur la même copie distante.

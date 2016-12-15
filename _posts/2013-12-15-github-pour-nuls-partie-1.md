@@ -1,19 +1,16 @@
 ---
 title: 'GitHub Pour les Nuls : Pas de Panique, Lancez-Vous ! (Première Partie)'
-date: '2013-12-15 20:14:00'
-categories: []
-layout: post
-subtitle: Un tutoriel en deux parties pour apprendre à démarrer sur GitHub et lancer
-  votre premier projet.
-author: Christophe Ducamp
+date: 2013-12-15 20:14:00 Z
 tags:
 - github
 - git
 - tutoriel
-slug: github-pour-nuls-partie-1
-draft: false
-
+layout: post
+subtitle: Un tutoriel en deux parties pour apprendre à démarrer sur GitHub et lancer
+  votre premier projet.
+author: Christophe Ducamp
 ---
+
 Traduction d'un article original de <span class="p-author h-card">[Lauren Orsini](http://otakujournalist.com/about-the-author/)</span> publié le <time class="dt-published" value="2013-11-30">30 septembre 2013</time> pour ReadWriteWeb. Seul le [lien original fait référence](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1). 
 
 La traduction reste à raffiner avec la pratique de cet outil. [Seconde partie en cours d'étude](/2013/12/16/gitHub-pour-nuls-partie-2/) pour me lancer sous peu dans les premiers *commits* à la ligne de commande. Mise en forme prévue pour le plan de route [indieweb](http://indiewebamp.com) 2014. Merci. - <span class="u-syndication">[xtof_fr](https://twitter.com/xtof_fr/status/412238889739247616)</span>

@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Collections
-permalink: /docs/collections/
+permalink: "/docs/collections/"
+layout: page
 ---
+
 Page à traduire
 <div class="note warning">
   <h5>Le support des Collections est instable et susceptible à changements</h5>

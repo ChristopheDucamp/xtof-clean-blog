@@ -1,23 +1,21 @@
 ---
 title: 'GitHub pour les Débutants : Consignez, Poussez et Foncez !'
-date: '2013-12-16 00:01:00'
+date: 2013-12-16 00:01:00 Z
 categories:
 - github
 - git
 - tutoriel
 - howto
-layout: post
-subtitle: Tutoriel pour devenir un utilisateur officiel de git !
-author: Christophe Ducamp
 tags:
 - hack
 - github
 - howto
 - versioncontrol
-slug: gitHub-pour-nuls-partie-2
-draft: false
-
+layout: post
+subtitle: Tutoriel pour devenir un utilisateur officiel de git !
+author: Christophe Ducamp
 ---
+
 _Traduction -à des fins d'étude et de mémo- d'un article original de <span class="p-author h-card">[Lauren Orsini](http://otakujournalist.com/about-the-author/)</span> publié le <time class="dt-published" value="2013-10-02">2 octobre 2013</time> pour ReadWriteWeb. Seul le [lien original fait référence](http://readwrite.com/2013/10/02/github-for-beginners-part-2). - <span class="u-syndication">[xtof_fr](https://twitter.com/xtof_fr/status/412363441056129024)</span>_
 
 ### *Maintenant que nous connaissons les concepts Git, il est temps de jouer. Voici venue la deuxième partie de notre série.*

@@ -1,6 +1,6 @@
 ---
 title: Quelques Astuces sur le Terminal
-date: '2013-12-10 14:36:00'
+date: 2013-12-10 14:36:00 Z
 categories:
 - github
 - git
@@ -12,11 +12,8 @@ categories:
 layout: post
 subtitle: Ah la console... Un petit tour d'introduction.
 author: Christophe Ducamp
-slug: terminal-trucs
-tags: []
-draft: false
-
 ---
+
 Les [blocs de code comme ceux-ci](/2013/12/09/anti-seche-ligne-de-commande/) sur cette page font partie d'un langage de programmation appelé `Bash`. Pour utiliser des programmes `Bash`, nous devons utiliser Terminal, une application livrée avec votre Mac, généralement trouvée dans /Applications/Utilitaires. 
 
 ![image](https://github.s3.amazonaws.com/docs/bootcamp_1_mac_terminal.jpg "Ouvrez le Terminal")
