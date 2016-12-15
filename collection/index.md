@@ -1,11 +1,11 @@
 ---
 title: Notes
 date: 2015-01-03 00:00:00 Z
-layout: post
-subtitle: Pour le moment, quelques petites notes en vrac chronologique. En attendant
-  de maîtriser les clés de tri.
+subtitle: Pour le moment, quelques petites notes en vrac classées par ordre chronologique.
+  En attendant de maîtriser Liquid et les clés de tri...
 author: Christophe Ducamp
 draft: false
+layout: post
 ---
 
 **Statut :** Ouverture d'un chantier pour [démarrer des collections Jekyll](/2014/12/31/demarrer-des-collections-dans-jekyll/). L'intention est de lister un premier échantillon de collection de notes de toutes sortes.
