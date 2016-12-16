@@ -8,17 +8,18 @@ tags:
 layout: post
 ---
 
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Les premiers thèmes pour Jekyll arrivent sur GitHub \o/ <a href="https://t.co/FiljDMuAc6">https://t.co/FiljDMuAc6</a></p>&mdash; Jamstatic-fr (@jamstatic_fr) <a href="https://twitter.com/jamstatic_fr/status/809514418656710658">15 décembre 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Les premiers thèmes pour Jekyll arrivent sur GitHub \\o/ <a href="https://t.co/FiljDMuAc6">https://t.co/FiljDMuAc6</a></p>— Jamstatic-fr (@jamstatic_fr) <a href="https://twitter.com/jamstatic_fr/status/809514418656710658">15 décembre 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 Vous pouvez désormais construire un site web GitHub Pages avec un thème [Jekyll](https://jekyllrb.com) en quelques clics.
 
-  1. Créez un [nouveau référentiel GitHub](https://github.com/new) ou allez sur un référentiel existant.
-  2. Ouvrez le sélectionneur de thème dans la section GitHub Pages « Theme Chooser »  des réglages de votre référentiel.
-  3. Sélectionnez un thème.
+1. Créez un [nouveau référentiel GitHub](https://github.com/new) ou allez sur un référentiel existant.
 
+2. Ouvrez le sélectionneur de thème dans la section GitHub Pages « Theme Chooser »  des réglages de votre référentiel.
 
+3. Sélectionnez un thème.
+
+![theme-chooser-jekyll.png](/uploads/theme-chooser-jekyll.png)
 
 Utiliser un thème Jekyll veut dire que votre contenu de site web vit dans des fichiers Markdown, que vous pouvez modifier et gérer comme vous voulez en utilisant votre workflow Git préféré.
 
@@ -29,5 +30,3 @@ Le sélecteur de thème remplace l'ancien générateur automatique de pages qui 
 Pour finir, les thèmes Jekyll dans le sélecteur de thèmes sont tous open sourcés [sur GitHub](https://github.com/pages-themes).
 
 Pour plus d'informations, consultez la [documentation](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/).
-
-
