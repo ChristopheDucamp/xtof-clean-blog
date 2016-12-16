@@ -1,6 +1,8 @@
 ---
 title: Nouveau sélecteur de thèmes pour Github Pages
 date: 2016-12-16 04:09:00 Z
+categories:
+- jekyll
 tags:
 - jekyll
 - theme
