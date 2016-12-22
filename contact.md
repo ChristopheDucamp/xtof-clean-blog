@@ -1,0 +1,15 @@
+---
+title: Contact
+layout: page
+description: Des questions ? J'ai des réponses (qui sait !?).
+header-img: img/contact-bg.jpg
+draft: false
+---
+
+Vous voulez me contacter ? Vous pouvez me joindre et/ou laisser un SMS au <br><strong>+33 6 32 03 97 96.</strong>
+
+Si vous êtes très pressé, envoyez-moi un message sur mon email christophe.ducamp(AT)gmail.com
+
+J'essaierai de vous répondre dans les 24 heures !
+
+Vous pouvez aussi me laisser un message direct sur twitter @[xtofr](https://twitter.com/xtof_fr) 
