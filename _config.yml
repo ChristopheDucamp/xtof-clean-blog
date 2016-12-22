@@ -33,7 +33,6 @@ exclude:
 - Gruntfile.js
 - package.json
 - README.md
-
 jekyll-mentions: https://twitter.com
 twitter_format: "@title xtof.me@url @tags"
 twitter_url_length: 22
