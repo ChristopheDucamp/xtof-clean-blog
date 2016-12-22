@@ -1,6 +1,6 @@
 ---
 title: Sur la route de l'IndieWeb
-timezone: UTC
+timezone: Europe/Paris
 collections:
   notes:
     title: Notes
@@ -13,8 +13,8 @@ collections:
     title: Uploads
     output: true
 header-img: img/caterpillar.jpg
-email: christophe.ducamp@gmail.com
-description: Explorations Jekyll IndieWeb
+email: christophe@ducamp.me
+description: Explorations UXDesign et IndieWeb
 baseurl: 
 url: http://christopheducamp.com
 twitter_username: xtof_fr
