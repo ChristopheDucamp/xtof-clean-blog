@@ -33,17 +33,7 @@ exclude:
 - Gruntfile.js
 - package.json
 - README.md
-gems:
-- jekyll-gist
-- jekyll-admin
-- jemoji
-- jekyll-redirect-from
-- jekyll-paginate
-- jekyll-mentions
-- jekyll-sitemap
-- jekyll-feed
-gist:
-  noscript: false
+
 jekyll-mentions: https://twitter.com
 twitter_format: "@title xtof.me@url @tags"
 twitter_url_length: 22

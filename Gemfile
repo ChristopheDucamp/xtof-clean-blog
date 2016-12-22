@@ -21,5 +21,11 @@ ruby RUBY_VERSION
 # Si vous avez des plugins, déposez-les ici !
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
-   gem 'jekyll-admin', group: :jekyll_plugins
+   gem "jekyll-admin", group: :jekyll_plugins
+   gem "jekyll-redirect-from"
+   gem "jemoji"
+   gem "jekyll-paginate"
+   gem "jekyll-mentions"
+   gem "gist"
+   gem "jekyll-sitemap"
 end

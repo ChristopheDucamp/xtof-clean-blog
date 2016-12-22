@@ -13,8 +13,7 @@ header-img: img/jekyll-logo-dark-solid.png
 Satisfaction personnelle d'être parvenu à publier cette première page sur Jekyll. Non programmeur, la pente a été raide et escarpée. Point le plus difficile jusqu'à présent : parvenir à héberger ce site gracieusement sur quelques [Pages Utilisateur de Github](http://xtof.me/w/Pages_GitHub). Pause à cette heure dans les  tutoriels de lignes de commande Git désespérément rebutants pour les débutants. 
 
 ## Premier Gist En Ligne
- 
-{% gist 6836612 %}
+
 
 Premier *gist-souvenir*. Un <dfn>gist</dfn> dans le contexte est un moyen simple de partager des morceaux de code avec d'autres. Et Jekyll facilite considérablement l'affichage et la mise en valeur de gists et morceaux de syntaxe dans le contenu des posts.
 
