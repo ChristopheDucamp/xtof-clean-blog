@@ -7,6 +7,7 @@ tags:
 - jekyll
 - theme
 - github pages
+author: xtof
 layout: post
 ---
 
