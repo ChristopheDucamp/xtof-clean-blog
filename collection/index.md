@@ -1,6 +1,7 @@
 ---
 title: Notes
-date: 2015-01-03 00:00:00 Z
+date: 2015-01-03 01:00:00 +01:00
+published: false
 subtitle: Pour le moment, quelques petites notes en vrac classées par ordre chronologique.
   En attendant de maîtriser Liquid et les clés de tri...
 author: Christophe Ducamp
