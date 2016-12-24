@@ -30,13 +30,15 @@ Pointage du domaine de OVH sur le CDN Netifly :
 
 ### Résultats du "Speedtest" proposé par Netifly 
 
-Que vaut ce test : [https://testmysite.io](https://testmysite.io) ? 
+Que vaut ce test : [https://testmysite.io](https://testmysite.io) ? Une auto-promotion pour Netifly ?
 
 ![Netlify Speedtest 2016-12-24 06-.png](/uploads/Netlify%20Speedtest%202016-12-24%2006-.png)
 
-Le chantier est en cours : un travail immense s'ouvre pour réaménager quelques premières briques de construction et parvenir à réaliser un site professionnel. 
+Le chantier est en cours : beaucoup d'erreurs à corriger. Un travail immense s'ouvre pour réaménager quelques premières briques de construction et parvenir à réaliser un site professionnel. 
 
-Je me réjouis néanmoins d'avancer en 2017 par petites itérations sur ce plan de route. Encore un grand merci à Bertrand pour l'accompagnement et bonnes fêtes à tous.
+Je me réjouis néanmoins d'avancer en 2017 par petites itérations sur le plan de route décrit tout en haut. 
+
+Encore un grand merci à Bertrand pour cet accompagnement et bonnes fêtes à tous.
 
 ## Planning tentatif   
 * 29 décembre : [Réglages DNS à faire chez Gandi pour pointer sur le CDN Netifly ou CloudFlare](http://ducamp.me/2016-357#SSL_sur_domaine_apex_christopheducamp.com) et partir sereinement en 2017 étudier d'autres interfaces-utilisateurs dans la **[jamstack](https://christophe.ducamp.me/2016/12/20/newbie-sur-la-jamstack-dot-dot-dot.html)**. 
