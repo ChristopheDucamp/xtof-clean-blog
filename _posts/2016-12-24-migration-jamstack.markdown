@@ -21,11 +21,17 @@ Après un [gros mal de crâne vécu avant-hier](http://ducamp.me/2016-357) pour 
 
 > Concerne le transfert du nom de domaine : christopheducamp.com, OVH a reçu une notification le 2016-12-24 indiquant que vous aviez demandé le transfert de votre nom de domaine vers un autre registrar (Gandi SAS (IANA xxxx xx xx)).<br>Si vous souhaitez CONFIRMER cette demande de transfert, **vous n'avez rien à faire**. 
 
-Bonnes fêtes à tous.
+## Résultats du "Speedtest" proposé par Netifly 
+
+[https://testmysite.io](https://testmysite.io)
+![Netlify Speedtest 2016-12-24.png](/uploads/Netlify%20Speedtest%202016-12-24.png)
+
+Le chantier est en cours. Je me réjouis d'avancer en 2017 sur ce plan de route. Encore un grand merci à Bertrand pour l'accompagnement et bonnes fêtes à tous.
 
 ## Planning tentatif   
 * 29 décembre : [Réglages DNS à faire chez Gandi pour pointer sur le CDN Netifly ou CloudFlare](http://ducamp.me/2016-357#SSL_sur_domaine_apex_christopheducamp.com) et partir sereinement en 2017 étudier d'autres interfaces-utilisateurs dans la **[jamstack](https://christophe.ducamp.me/2016/12/20/newbie-sur-la-jamstack-dot-dot-dot.html)**. 
 * rédiger et déposer [un engagement indieweb 2017](https://indieweb.org/2017-01-01-commitments) : "redéposer mes notes de statut sur mon propre site".
 * [tester les performances et évaluer la qualité](https://medium.com/@JeremyRaffin/site-web-statique-optimis%C3%A9-avec-github-pages-partie-4-tester-les-performances-et-%C3%A9valuer-la-f42ed88a5d44#.w7clu8fbq)
 * URL : étudier l'architecture d'URL revenue avec `www`. Arguments `nowww` sur la sécurité en cours d'étude et à creuser avec des experts.
+
 
