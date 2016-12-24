@@ -1,6 +1,7 @@
 ---
 title: Ailleurs
 date: 2016-12-24 03:16:00 +01:00
+Field name: 
 layout: page
 ---
 
@@ -14,11 +15,12 @@ L'internet est une construction décentralisée et vous pourrez m'y retrouver en
 * <a rel="me" href="https://facebook.com/christopheducamp">christopheducamp sur Facebook</a>
 * <a rel="me" href="https://linkedin.com/in/christopheducamp">christopheducamp sur LinkedIn</a>
 
-## Code et Projets
+## Code et Communautés 
 
+* <a rel="me" href="https://indieweb.org/User:christopheducamp.com">ChristopheDucamp sur indiewebcamp</a>
 * <a rel="me" href="https://github.com/christopheducamp">ChristopheDucamp sur GitHub</a>
 * <a rel="me" href="https://microformats.org/wiki/User:ChristopheDucamp">ChristopheDucamp sur Microformats.org</a>
-* <a rel="me" href="http://indiewebcamp.com/User:ChristopheDucamp">ChristopheDucamp sur indiewebcamp</a>
+
 
 ## Bookmarks, partage de liens
 
