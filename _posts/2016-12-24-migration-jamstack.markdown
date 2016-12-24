@@ -17,13 +17,9 @@ layout: post
 
 Officiellement en vacances sur le "free-lancing" et déconnexion sociale jusqu'à lundi.
 
-Après un [gros mal de crâne vécu avant-hier](http://ducamp.me/2016-357) pour me simplifier la vie en 2017 sur l'administration de serveurs, optimiser la performance/sécurité et l'activation d'un certificat SSL sur ce domaine,... très heureux de recevoir une bonne nouvelle de la part de mon "regisgtrar" OVH : 
+Après un [gros mal de crâne vécu avant-hier](http://ducamp.me/2016-357) pour me simplifier la vie en 2017 sur l'administration de serveurs, optimiser la performance/sécurité et l'activation d'un certificat SSL sur ce domaine,... très heureux de recevoir une bonne nouvelle de la part du "registrar" OVH : 
 
-> Concerne le transfert du nom de domaine : christopheducamp.com 
-
-> OVH a reçu une notification le 2016-12-24 indiquant que vous aviez demandé le transfert de votre nom de domaine vers un autre registrar (Gandi SAS (IANA xxxx xx xx)). 
-
-> Si vous souhaitez CONFIRMER cette demande de transfert, **vous n'avez rien à faire**. 
+> Concerne le transfert du nom de domaine : christopheducamp.com, OVH a reçu une notification le 2016-12-24 indiquant que vous aviez demandé le transfert de votre nom de domaine vers un autre registrar (Gandi SAS (IANA xxxx xx xx)).<br>Si vous souhaitez CONFIRMER cette demande de transfert, **vous n'avez rien à faire**. 
 
 ## Prochaine étape : 
 
