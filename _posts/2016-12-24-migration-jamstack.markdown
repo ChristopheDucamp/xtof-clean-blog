@@ -21,9 +21,15 @@ Après un [gros mal de crâne vécu avant-hier](http://ducamp.me/2016-357) pour 
 
 > Concerne le transfert du nom de domaine : christopheducamp.com, OVH a reçu une notification le 2016-12-24 indiquant que vous aviez demandé le transfert de votre nom de domaine vers un autre registrar (Gandi SAS (IANA xxxx xx xx)).<br>Si vous souhaitez CONFIRMER cette demande de transfert, **vous n'avez rien à faire**. 
 
-## Résultats du "Speedtest" proposé par Netifly 
+## Statut à date 
 
-[https://testmysite.io](https://testmysite.io)
+Pointage du domaine de OVH sur le CDN Netifly : 
+
+![OVH 2016-12-24.png](/uploads/OVH%202016-12-24.png)
+
+### Résultats du "Speedtest" proposé par Netifly 
+
+Que vaut ce test : [https://testmysite.io](https://testmysite.io) ? 
 ![Netlify Speedtest 2016-12-24.png](/uploads/Netlify%20Speedtest%202016-12-24.png)
 
 Le chantier est en cours. Je me réjouis d'avancer en 2017 sur ce plan de route. Encore un grand merci à Bertrand pour l'accompagnement et bonnes fêtes à tous.
