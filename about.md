@@ -1,6 +1,5 @@
 ---
 title: À Propos
-published: false
 header-img: img/about-bg.jpg
 layout: page
 ---
