@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-![Roadmap - jamstatic-fr 2016-12-20.png](/uploads/Roadmap%20-%20jamstatic-fr%202016-12-20.png)(roadmap suggérée par Bertrand Keller)
+![Roadmap - bertrand keller jamstatic-fr 2016-12-20](/uploads/Roadmap%20-%20jamstatic-fr%202016-12-20.png)
 
 Officiellement en vacances sur le "free-lancing" et déconnexion sociale jusqu'à lundi.
 
