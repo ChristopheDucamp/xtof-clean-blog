@@ -13,12 +13,11 @@ L'internet est une construction décentralisée et vous pourrez m'y retrouver en
 * <a rel="me" href="https://twitter.com/xtof_fr">@xtof_fr sur Twitter</a> <a class="twitter-follow-button" href="https://twitter.com/xtof_fr" data-show-count="false" data-show-screen-name="false">(Follow)</a>
 * <a rel="me" href="https://facebook.com/christopheducamp">christopheducamp sur Facebook</a>
 * <a rel="me" href="https://linkedin.com/in/christopheducamp">christopheducamp sur LinkedIn</a>
-* <a rel="me" href="https://linkedin.com/in/christopheducamp">christopheducamp sur LinkedIn</a> 
 
 ## Code et Projets
 
 * <a rel="me" href="https://github.com/christopheducamp">ChristopheDucamp sur GitHub</a>
-* <a rel="me" href="http://microformats.org/wiki/User:ChristopheDucamp">ChristopheDucamp sur Microformats.org</a>
+* <a rel="me" href="https://microformats.org/wiki/User:ChristopheDucamp">ChristopheDucamp sur Microformats.org</a>
 * <a rel="me" href="http://indiewebcamp.com/User:ChristopheDucamp">ChristopheDucamp sur indiewebcamp</a>
 
 ## Bookmarks, partage de liens
@@ -32,11 +31,9 @@ L'internet est une construction décentralisée et vous pourrez m'y retrouver en
 
 ## Photographie 
 
-* <a rel="me" href="http://flickr.com/photos/christopheducamp">christopheducamp sur Flickr</a>
-* <a rel="me" href="http://instagram.com/xtof_fr">xtof_fr sur Instagram</a>
+* <a rel="me" href="https://flickr.com/photos/christopheducamp">christopheducamp sur Flickr</a>
+* <a rel="me" href="https://instagram.com/xtof_fr">xtof_fr sur Instagram</a>
 
 ## Vidéos
 
 * <a rel="me" href="https://vimeo.com/xtof">xtof Vimeo</a>
-
-## Autres Publications
