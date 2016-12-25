@@ -44,7 +44,7 @@ Ce test [https://testmysite.io](https://testmysite.io) me semble être une pure 
 
 ## Performance et Progressive Web Apps : 49/100
 
-@[DirtyF](https:twitter.com/DirtyF) : Un grand merci pour l'image, les liens. Si je comprends bien, le test ci-dessus est bien invalidé par la communauté JamStatic. Concentré à cette heure sur les fondamentaux avant de plonger dans ta première check-list de Google [LightHouse](http:ducamp.me/LightHouse).
+@[DirtyF](https://twitter.com/DirtyF) : Un grand merci pour l'image, les liens. Si je comprends bien, le test ci-dessus est bien invalidé par la communauté JamStatic. Concentré à cette heure sur les fondamentaux avant de plonger dans ta première check-list de Google [LightHouse](http:ducamp.me/LightHouse).
 
 ## Check-list
 
