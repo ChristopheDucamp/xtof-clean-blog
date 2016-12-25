@@ -32,7 +32,7 @@ Après un [gros mal de crâne vécu avant-hier](http://ducamp.me/2016-357) pour 
 
 ## Statut à date
 
-Pointage du domaine de OVH sur le [\[CDN\]](http://ducamp.me/CDN) Netifly :
+Pointage du domaine de OVH sur le [CDN](http://ducamp.me/CDN) Netifly :
 
 ![OVH 2016-12-24.png](/uploads/OVH%202016-12-24.png)
 
@@ -44,13 +44,13 @@ Ce test [https://testmysite.io](https://testmysite.io) me semble être une pure 
 
 ## Performance et Progressive Web Apps : 49/100
 
-@[DirtyF](https://twitter.com/DirtyF) : Un grand merci pour l'image, les liens. Si je comprends bien, le test ci-dessus est bien invalidé par la communauté JamStatic. Concentré à cette heure sur les fondamentaux avant de plonger dans ta première check-list de Google [LightHouse](http:ducamp.me/LightHouse).
+@[DirtyF](https://twitter.com/DirtyF) : Un grand merci pour l'image, les liens. Si je comprends bien, le test ci-dessus est bien invalidé par la communauté JamStatic. Concentré à cette heure sur les fondamentaux. Très motivé pour plonger l'année prochaine dans la check-list de Google [LightHouse](http:ducamp.me/LightHouse).
 
 ## Check-list
 
-Le chantier est en cours : beaucoup d'erreurs à corriger. Un travail immense s'ouvre pour réaménager quelques premières briques de construction et parvenir à réaliser un site professionnel.
+Le chantier est en cours : beaucoup d'erreurs à corriger. Un travail immense s'ouvre pour réaménager les premières briques de construction indieweb avant de parvenir à réaliser un site professionnel.
 
-Je me réjouis néanmoins d'avancer en 2017 par petites itérations sur le plan de route décrit tout en haut.
+Je me réjouis néanmoins d'avancer en 2017 par petites itérations sur le plan de route décrit tout en haut et traduit en bas dans un planning.
 
 Encore un grand merci à Bertrand et Frank pour l'accompagnement en douceur.
 
