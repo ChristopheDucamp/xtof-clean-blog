@@ -1,0 +1,33 @@
+---
+title: Stratégies de Sauvegarde 2017
+date: 2016-12-30 07:28:00 +01:00
+tags:
+- sauvegarde
+- backup
+- jamstack
+- sécurité
+author: xtof
+layout: post
+---
+
+Migration du site terminée sur une architecture Gandi (registraire), CDN Netlify et stocké sur un référentiel GitHub.
+
+Ménage de fin d'année : bientôt l'heure de penser à archiver sérieusement l'année 2016 pour repartir de zéro. Très motivé par les résonances et les premiers pas dans cette architecture "[[jamstack]](https://jamstack.org)". 
+
+J'aime cette **stratégie de sauvegarde** qui me rassure en sécurité, et m'offre tout le nécessaire pour imaginer de futurs déploiements faciles chez un nouvel hébergeur. 
+
+Raffinage de sécurité à vérifier. Fatigué et très envie de me reposer et dessiner. 
+
+J'envisage de passer du temps pour oublier définitivement ce vieux sujet de sécurité. L'architecture et les interfaces-utilisateurs ouvrent la voie à des délégations faciles à envisager avec des professionnels du design web résilient.
+
+## Ailleurs sur les silos sociaux 
+
+Lancé quelques sauvegardes locales de mon petit macbook pro sur un disque externe qui [craquera d'ici 6 ans](https://www.backblaze.com/blog/how-long-do-disk-drives-last/) selon une promotion pour [Backblaze](https://www.backblaze.com/fr_FR/). 
+
+Quelles solutions "low-cost" de sauvegardes conseillez-vous pour rapatrier en un lieu plus sûr une '''sauvegarde de sauvegardes''' de quelques téra-octets de ''données personnelles'' disséminés dans les nuages et silos sociaux ? 
+
+[Backup-Disque-BB-USB.png](/uploads/Backup-Disque-BB-USB.png)
+
+## Sauvegardes des silos
+
+Mes premiers essais sont décrits sur une page de mon wiki de famille [Sauvegarde](https://ducamp.me/Sauvegarde). Si vous avez des suggestions, envoyez-moi un message ou posez vos liens dans le formulaire de webmention en-dessous.!
