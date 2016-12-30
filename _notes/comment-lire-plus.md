@@ -2,14 +2,14 @@
 title: Comment lire plus
 date: 2015-01-03 01:00:00 +01:00
 tags:
-- lecture,
+- lecture
+- ''
 - books
-layout: page
 subtitle: 'Objectif : 50 livres lus en 2015'
+layout: page
 ---
 
 <img style="padding-left:20px; float:right; width:100px; height:100px;" src="http://photos-h.ak.instagram.com/hphotos-ak-xfa1/t51.2885-15/10914113_1520893888178943_1854795171_n.jpg" />
-
 
 Achevé l'excellent ouvrage d'<span class="h-card microcard" rel="muse">[Austin Kleon](http://austinkleon.com)</span>, <q>[Partagez comme un Artiste](http://austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)</q> désormais traduit en français et en occasion chez Gibert à 7.80 €  
 
