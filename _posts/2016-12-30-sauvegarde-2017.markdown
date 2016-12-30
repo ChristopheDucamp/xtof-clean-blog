@@ -30,4 +30,9 @@ Quelles solutions "low-cost" de sauvegardes conseillez-vous pour rapatrier en un
 
 ## Sauvegardes des silos
 
-Mes premiers essais sont décrits sur une page de mon wiki de famille [Sauvegarde](https://ducamp.me/Sauvegarde). Si vous avez des suggestions, envoyez-moi un message ou posez vos liens dans le formulaire de webmention en-dessous.!
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Backup <a href="https://twitter.com/hashtag/archive?src=hash">#archive</a> 2016 en progrès : <br>- flickr ok <br>- twitter (incomplète) <br>-  <a href="https://twitter.com/jekyllrb">@jekyllrb</a> sur la <a href="https://twitter.com/hashtag/JAMStack?src=hash">#JAMStack</a><br> &gt; <a href="https://t.co/8YIWhow3KA">https://t.co/8YIWhow3KA</a> <a href="https://t.co/fiTqS6Emob">pic.twitter.com/fiTqS6Emob</a></p>&mdash; Christophe Ducamp (@xtof_fr) <a href="https://twitter.com/xtof_fr/status/814085979661340673">28 décembre 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Mes premiers essais sont décrits sur la page [Sauvegarde](https://ducamp.me/Sauvegarde) de mon wiki de famille. Après avoir récupéré toutes mes photos, je compte bien travailler ces prochains jours sur l'enrichissement de mon archive twitter. 
+
+Si vous avez des suggestions, envoyez-moi un message direct ou posez directement vos liens dans le formulaire de webmention en-dessous.!
