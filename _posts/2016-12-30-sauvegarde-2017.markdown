@@ -14,7 +14,7 @@ layout: post
 
 Rapide compte-rendu des travaux avant de prendre le train pour Auvers. 
 
-La migration de ce site est enfin terminée et basée sur une architecture de type [JAMStack] : (http://ducamp.me/JAMStack) : 
+La migration de ce site est enfin terminée et basée sur une architecture de type [JAMStack](http://ducamp.me/JAMStack) : 
 * Registraire domaine : Gandi,
 * [CDN](http://ducamp.me/CDN) : Netlify, 
 * Stockage sur un référentiel GitHub. 
