@@ -1,6 +1,6 @@
 ---
 title: 'GitHub : Être Social'
-date: 2013-12-16 23:35:44 Z
+date: 2013-12-17 00:35:44 +01:00
 tags:
 - github
 - social

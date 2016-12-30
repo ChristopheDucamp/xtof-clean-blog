@@ -1,6 +1,6 @@
 ---
 title: Comment localiser la date en français dans Jekyll ?
-date: 2013-12-26 04:47:00 Z
+date: 2013-12-26 05:47:00 +01:00
 categories:
 - jekyll
 - date

@@ -1,6 +1,6 @@
 ---
 title: Les collections dans Jekyll (doc)
-date: 2014-12-30 00:00:00 Z
+date: 2014-12-30 01:00:00 +01:00
 categories:
 - jekyll
 - collections

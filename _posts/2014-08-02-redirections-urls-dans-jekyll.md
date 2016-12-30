@@ -1,6 +1,6 @@
 ---
 title: Redirections URLs dans Jekyll
-date: 2014-08-02 00:00:00 Z
+date: 2014-08-02 02:00:00 +02:00
 tags:
 - jekyll
 - indieweb

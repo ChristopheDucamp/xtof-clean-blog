@@ -1,6 +1,6 @@
 ---
 title: Démarrer avec Pages GitHub (Plus Bonus Jekyll)
-date: 2013-12-21 14:15:00 Z
+date: 2013-12-21 15:15:00 +01:00
 categories:
 - Pages GitHub
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Démarrer des Collections dans Jekyll
-date: 2014-12-31 00:00:00 Z
+date: 2014-12-31 01:00:00 +01:00
 tags:
 - jekyll
 - collection

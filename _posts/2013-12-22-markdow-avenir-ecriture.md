@@ -1,6 +1,6 @@
 ---
 title: 'Markdown : Le Futur de l''Écriture'
-date: 2013-12-22 13:00:00 Z
+date: 2013-12-22 14:00:00 +01:00
 tags:
 - écriture
 - markdown

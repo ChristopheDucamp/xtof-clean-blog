@@ -1,6 +1,6 @@
 ---
 title: Mise à jour Jekyll 3
-date: 2015-12-13 00:00:00 Z
+date: 2015-12-13 01:00:00 +01:00
 tags:
 - jekyll,
 - collection

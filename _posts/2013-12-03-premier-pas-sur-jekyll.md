@@ -1,6 +1,6 @@
 ---
 title: 'Arrivée sur Jekyll : Ouf !'
-date: 2013-12-03 19:51:44 Z
+date: 2013-12-03 20:51:44 +01:00
 tags:
 - jekyll
 - update

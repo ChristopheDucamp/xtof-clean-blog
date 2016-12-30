@@ -1,6 +1,6 @@
 ---
 title: 'GitHub Pour les Nuls : Pas de Panique, Lancez-Vous ! (Première Partie)'
-date: 2013-12-15 20:14:00 Z
+date: 2013-12-15 21:14:00 +01:00
 tags:
 - github
 - git

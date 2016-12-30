@@ -1,6 +1,6 @@
 ---
 title: Félicitations Amber Case
-date: 2015-03-18 00:00:00 Z
+date: 2015-03-18 01:00:00 +01:00
 categories:
 - calmtech
 tags:

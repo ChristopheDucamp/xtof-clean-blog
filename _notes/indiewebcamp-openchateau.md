@@ -1,6 +1,6 @@
 ---
 title: 'Un #indiewebcamp OpenChateau début juin ?'
-date: 2015-03-15 00:00:00 Z
+date: 2015-03-15 01:00:00 +01:00
 categories:
 - indieweb
 tags:

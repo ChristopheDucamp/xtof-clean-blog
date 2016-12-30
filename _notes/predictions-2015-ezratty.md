@@ -1,6 +1,6 @@
 ---
 title: Tsunami numérique
-date: 2015-01-02 00:00:00 Z
+date: 2015-01-02 01:00:00 +01:00
 layout: post
 subtitle: Prédictions 2015 par Olivier Ezratty. La compile de notre monde de dingues
 ---

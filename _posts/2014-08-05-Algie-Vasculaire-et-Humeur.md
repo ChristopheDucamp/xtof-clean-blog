@@ -1,6 +1,6 @@
 ---
 title: Algie Vasculaire de la Face, Anti-Douleur et Humeur
-date: 2014-08-05 00:00:00 Z
+date: 2014-08-05 02:00:00 +02:00
 tags:
 - santé
 - neurologie

@@ -1,6 +1,6 @@
 ---
 title: Quelques Astuces sur le Terminal
-date: 2013-12-10 14:36:00 Z
+date: 2013-12-10 15:36:00 +01:00
 categories:
 - github
 - git

@@ -1,6 +1,6 @@
 ---
 title: 'GitHub pour Mac : Fusionner des Branches'
-date: 2013-12-07 00:00:00 Z
+date: 2013-12-07 01:00:00 +01:00
 categories:
 - github
 - git

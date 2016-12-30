@@ -1,6 +1,6 @@
 ---
 title: Bertrand Keller - Agilité Pour Petits Projets (vidéo 24 min)
-date: 2016-12-09 00:00:00 Z
+date: 2016-12-09 01:00:00 +01:00
 author: xtof
 layout: post
 subtitle: 'Quels épisodes proposer à un client pour réaliser un site innovant ? '

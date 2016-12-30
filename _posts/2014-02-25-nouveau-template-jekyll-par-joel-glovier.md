@@ -1,6 +1,6 @@
 ---
 title: 'Design : Joel Glovier rhabille Jekyll'
-date: 2014-02-25 00:00:00 Z
+date: 2014-02-25 01:00:00 +01:00
 categories:
 - template
 tags:

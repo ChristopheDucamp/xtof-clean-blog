@@ -1,6 +1,6 @@
 ---
 title: L'homme explore le faux texte, et cette exploration est à son point culminant
-date: 2015-12-16 01:00:00 Z
+date: 2015-12-16 02:00:00 +01:00
 tags:
 - bolo
 layout: post

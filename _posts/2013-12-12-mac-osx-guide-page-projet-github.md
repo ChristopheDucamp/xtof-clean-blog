@@ -1,6 +1,6 @@
 ---
 title: 'MacOSX : Comment Utiliser les Pages GitHub pour votre page Projet'
-date: 2013-12-12 19:51:44 Z
+date: 2013-12-12 20:51:44 +01:00
 tags:
 - git
 - GitHub

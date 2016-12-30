@@ -1,6 +1,6 @@
 ---
 title: Installer Git
-date: 2013-12-10 21:44:00 Z
+date: 2013-12-10 22:44:00 +01:00
 categories:
 - github
 - git

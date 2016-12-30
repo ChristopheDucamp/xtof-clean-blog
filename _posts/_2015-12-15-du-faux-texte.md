@@ -1,6 +1,6 @@
 ---
 title: L'homme explore le faux texte, et cette exploration est à son point culminant
-date: 2015-12-15 13:00:00 Z
+date: 2015-12-15 14:00:00 +01:00
 layout: post
 subtitle: Quelques problèmes pourraient paraître vraiment petits à 200 km de haut
 author: xtof

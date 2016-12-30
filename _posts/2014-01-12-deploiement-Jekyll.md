@@ -1,6 +1,6 @@
 ---
 title: Comment Déployer Jekyll
-date: 2014-01-12 08:30:00 Z
+date: 2014-01-12 09:30:00 +01:00
 categories:
 - jekyll
 - ftp

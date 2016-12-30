@@ -1,6 +1,6 @@
 ---
 title: 'GitHub pour les Débutants : Consignez, Poussez et Foncez !'
-date: 2013-12-16 00:01:00 Z
+date: 2013-12-16 01:01:00 +01:00
 categories:
 - github
 - git

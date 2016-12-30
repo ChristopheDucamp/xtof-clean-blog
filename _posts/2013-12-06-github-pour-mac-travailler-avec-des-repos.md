@@ -1,6 +1,6 @@
 ---
 title: 'Github Pour Mac : Travailler avec des dépôts'
-date: 2013-12-06 00:00:00 Z
+date: 2013-12-06 01:00:00 +01:00
 tags:
 - github
 - git

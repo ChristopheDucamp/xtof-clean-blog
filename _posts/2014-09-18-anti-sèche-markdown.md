@@ -1,6 +1,6 @@
 ---
 title: Je crois au markdown.
-date: 2014-09-18 12:00:00 Z
+date: 2014-09-18 14:00:00 +02:00
 layout: post
 subtitle: J'aime les outils modernes d'écriture
 author: Christophe Ducamp

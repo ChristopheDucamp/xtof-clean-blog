@@ -1,6 +1,6 @@
 ---
 title: Collections et usage des petites notes
-date: 2014-12-30 00:00:00 Z
+date: 2014-12-30 01:00:00 +01:00
 tags:
 - ownmynotes,
 - indieweb,

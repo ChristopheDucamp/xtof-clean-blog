@@ -1,6 +1,6 @@
 ---
 title: Forker un Repo sur GitHub
-date: 2013-12-16 14:36:00 Z
+date: 2013-12-16 15:36:00 +01:00
 categories:
 - github
 - git

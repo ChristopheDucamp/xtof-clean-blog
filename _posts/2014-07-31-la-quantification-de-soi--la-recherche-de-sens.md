@@ -1,6 +1,6 @@
 ---
 title: La quantification de soi à la recherche de sens
-date: 2014-07-31 00:00:00 Z
+date: 2014-07-31 02:00:00 +02:00
 tags:
 - quantifiedself
 - design

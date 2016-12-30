@@ -1,6 +1,6 @@
 ---
 title: Les Collections !
-date: 2014-08-03 00:00:00 Z
+date: 2014-08-03 02:00:00 +02:00
 categories:
 - jekyll
 - collections
