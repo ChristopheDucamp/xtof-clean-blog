@@ -32,9 +32,9 @@ Le raffinage de sécurité sera suivi par une révision par les pairs et ouvert 
 
 Pour finir sur l'enchantement de cette architecture  d'hébergement, je commence à brainstormer sur le potentiel de délégations de services à ouvrir avec des professionnels des APIs et du [design web résilient](https://resilientwebdesign.com).
 
-## IndieWeb : Où Classer la JAMStack 
+## IndieWeb : Comment Classer la JAMStack 
 
-Dois-je créer une nouvelle section "JAMStack" ou ranger ma configuration dans la section "platform as a service" sur la [page d'exemples des hébergements web](https://indieweb.org/web_hosting#Platform_as_Service) proposés aux membres de la communauté indieweb ? 
+Dois-je créer une nouvelle section "JAMStack" au sein des offres d'hébergement de domaine statique recensées sur la [page d'exemples des hébergements web](https://indieweb.org/web_hosting) compilées par les membres de la communauté indieweb ? 
 
 
 ## Ailleurs sur les silos sociaux 
