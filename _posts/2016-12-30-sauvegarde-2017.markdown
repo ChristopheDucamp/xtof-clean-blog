@@ -15,7 +15,7 @@ layout: post
 
 Rapide compte-rendu des travaux avant de prendre le train pour me reposer à Auvers-sur-Oise. 
 
-La migration de ce site est enfin terminée et basée sur une architecture flexible basée sur la [pile JAM](http://ducamp.me/JAMStack). Un schéma  soufflé par <span class="h-card">[Bertrand](https://bertrandkeller.info)</span> <time datetime="2016-12-09">[lors de notre dernier déjeuner de travail](2016/12/09/dejeuner-avec-bertrand/)</time> : 
+La migration de ce site est enfin terminée et basée sur une architecture flexible basée sur la [pile JAM](http://ducamp.me/JAMStack). Un schéma  soufflé par <span class="h-card">[Bertrand](https://bertrandkeller.info)</span> <time datetime="2016-12-09">[lors de notre dernier déjeuner de travail](https://www.christopheducamp.com/2016/12/09/dejeuner-avec-bertrand/)</time> : 
 * Registraire domaine : Gandi,
 * Réseau de distribution de contenus ([CDN](http://ducamp.me/CDN)) : [Netlify](https://netlify.com), 
 * Stockage : [dépôt chez GitHub](https://github.com/ChristopheDucamp/xtof-clean-blog). 
