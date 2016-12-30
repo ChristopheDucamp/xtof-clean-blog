@@ -26,7 +26,7 @@ Lancé quelques sauvegardes locales de mon petit macbook pro sur un disque exter
 
 Quelles solutions "low-cost" de sauvegardes conseillez-vous pour rapatrier en un lieu plus sûr une '''sauvegarde de sauvegardes''' de quelques téra-octets de ''données personnelles'' disséminés dans les nuages et silos sociaux ? 
 
-[Backup-Disque-BB-USB.png](/uploads/Backup-Disque-BB-USB.png)
+![Backup-Disque-BB-USB.png](/uploads/Backup-Disque-BB-USB.png)
 
 ## Sauvegardes des silos
 
