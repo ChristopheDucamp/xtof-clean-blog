@@ -26,7 +26,7 @@ La migration de ce site est enfin terminée et basée sur une architecture de ty
 
 Très motivé par les résonances et mes premiers pas dans cette architecture "[JAMstack](https://jamstack.org)". 
 
-J'adore cette **stratégie de sauvegarde web** qui reste encore à valider d'un point de vue [Sécurité](http://ducamp.me/Security) en m'offrant tout le nécessaire pour imaginer de futurs déploiements faciles chez un nouvel hébergeur. 
+J'adore cette **stratégie de sauvegarde web** qui reste encore à valider d'un point de vue [Sécurité](http://ducamp.me/Security) en m'offrant tout le nécessaire pour imaginer de futurs déploiements faciles chez un nouvel hébergeur, la flexibilité pour  de nouveaux essais moteurs et la diversité des interfaces-utilisateur. 
 
 Le raffinage de sécurité sera suivi par une révision par les pairs et ouvert aux offres d'attaquants DDOS pour trouver les trous. 
 
