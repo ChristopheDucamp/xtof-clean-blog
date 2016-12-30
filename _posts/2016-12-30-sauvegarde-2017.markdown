@@ -16,7 +16,7 @@ Rapide compte-rendu des travaux avant de prendre le train pour Auvers.
 
 La migration de ce site est enfin terminée et basée sur une architecture de type [JAMStack](http://ducamp.me/JAMStack) : 
 * Registraire domaine : Gandi,
-* [CDN](http://ducamp.me/CDN) : [Netlify](https://netlify.com), 
+* Réseau de distribution de contenus ([CDN](http://ducamp.me/CDN)) : [Netlify](https://netlify.com), 
 * Stockage : [dépôt chez GitHub](https://github.com/ChristopheDucamp/xtof-clean-blog). 
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Nouvelle version pour <a href="https://t.co/j1PSIKRUK7">https://t.co/j1PSIKRUK7</a> avec des ressources et des exemples à venir (soumettez les vôtres !)</p>&mdash; Jamstatic-fr (@jamstatic_fr) <a href="https://twitter.com/jamstatic_fr/status/814754338899980288">30 décembre 2016</a></blockquote>
@@ -34,7 +34,7 @@ Pour finir sur l'enchantement de cette architecture  d'hébergement, je commence
 
 ## IndieWeb : Où Classer la JAMStack 
 
-Dois-je créer une nouvelle section "[JAMStack]" ou ranger ma configuration dans la section "platform as a service" sur la [page d'exemples des hébergements web](https://indieweb.org/web_hosting#Platform_as_Service) proposés aux membres de la communauté indieweb ? 
+Dois-je créer une nouvelle section "JAMStack" ou ranger ma configuration dans la section "platform as a service" sur la [page d'exemples des hébergements web](https://indieweb.org/web_hosting#Platform_as_Service) proposés aux membres de la communauté indieweb ? 
 
 
 ## Ailleurs sur les silos sociaux 
