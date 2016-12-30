@@ -54,4 +54,6 @@ Mes premiers essais seront documentés sur la page [Sauvegarde](http://ducamp.me
 
 Après avoir récupéré toutes mes photos chez Flickr, je compte bien travailler la semaine prochaine sur l'enrichissement de mon archive twitter. 
 
-Si vous avez des suggestions, envoyez-moi un message direct ou posez directement vos liens dans le formulaire de webmention en-dessous !
+Si vous avez des suggestions, [modifiez ce post directement dans GitHub](https://github.com/ChristopheDucamp/xtof-clean-blog/blob/master/_posts/2016-12-30-sauvegarde-2017.markdown), envoyez-moi un message direct ou posez directement vos liens dans le formulaire de webmention en-dessous. 
+
+Bonnes fêtes à tous.
