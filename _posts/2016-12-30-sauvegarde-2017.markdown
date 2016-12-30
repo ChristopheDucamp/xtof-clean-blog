@@ -12,13 +12,13 @@ layout: post
 
 Migration du site terminée sur une architecture Gandi (registraire), CDN Netlify et stocké sur un référentiel GitHub.
 
-Ménage de fin d'année : bientôt l'heure de penser à archiver sérieusement l'année 2016 pour repartir de zéro. Très motivé par les résonances et les premiers pas dans cette architecture "[[jamstack]](https://jamstack.org)". 
+Ménage de fin d'année : bientôt l'heure de penser à archiver sérieusement l'année 2016 pour repartir de zéro. Très motivé par les résonances et les premiers pas dans cette architecture "[JAMstack](https://jamstack.org)". 
 
-J'aime cette **stratégie de sauvegarde** qui me rassure en sécurité, et m'offre tout le nécessaire pour imaginer de futurs déploiements faciles chez un nouvel hébergeur. 
+J'adore cette **stratégie de sauvegarde web** qui reste à valider mais me rassure en sécurité, et m'offre tout le nécessaire pour imaginer de futurs déploiements faciles chez un nouvel hébergeur. 
 
-Raffinage de sécurité à vérifier. Fatigué et très envie de me reposer et dessiner. 
+Raffinage de sécurité à vérifier avec des experts en attaques DDOS. Fatigué et très envie de me reposer et dessiner. 
 
-J'envisage de passer du temps pour oublier définitivement ce vieux sujet de sécurité. L'architecture et les interfaces-utilisateurs ouvrent la voie à des délégations faciles à envisager avec des professionnels du design web résilient.
+J'envisage de passer du temps pour oublier ce vieux sujet de sécurité. L'architecture et les premiers aperçus des interfaces-utilisateurs laissent entrevoir des délégations faciles à ouvrir aux  professionnels du [design web résilient](https://resilientwebdesign.com).
 
 ## Ailleurs sur les silos sociaux 
 
