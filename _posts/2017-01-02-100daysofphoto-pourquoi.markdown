@@ -5,6 +5,7 @@ tags:
 - 100daysofphoto
 - 100DaysOfIndieWeb
 author: Christophe Ducamp
+subtitle: 'Envie de retirer ce bulldozer.  Un projet de recherche #100DaysOfIndieWeb'
 layout: post
 ---
 
