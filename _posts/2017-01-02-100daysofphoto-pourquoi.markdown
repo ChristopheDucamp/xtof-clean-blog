@@ -17,10 +17,7 @@ Je me suis engagé hâtivement ce matin à poster durant 100 jours sur la théma
 
 ## L'engagement officiel : 
 
-100 jours de [[photo]]s (
-**#100DaysOfPhotos**) est une variante des **100 jours de blogging**. A savoir publier durant les 99 prochains jours de véritables posts d'articles avec photo (et non pas de simples petites notes avec images sur des sujets atomiques et spécifiques.)
-
-  
+100 jours de [photos](htts://indieweb.org/photo, (aka **#100DaysOfPhotos**) est une variante des **100 jours de blogging**. À savoir publier durant les 99 prochains jours de véritables posts d'articles avec photo (et non pas de simples petites notes avec images sur des sujets atomiques et spécifiques.)
 
 ## Pourquoi cet engagement ?
 
@@ -28,8 +25,8 @@ Laissez-moi vous dévoiler ce soir les principales raisons qui ont motivé cet e
 
 ![morning-page-2017-001.jpg](/uploads/morning-page-2017-001.jpg)
 
-* **Pensée-design** : ma principale motivation est d'emmener mon amie (artiste en céramique) dans une pensée-design articulée autour de l'image. 
-* **Passion personnelle** : très envie de poursuivre l'apprentissage en repensant complètement mon workflow pour gagner en simplicité et fluidité. De la prise de vue mobile ou reflex, en passant par l'environnement de travail, jusqu'au catalogage avant publication, je dois tout revoir. 
+* **Pensée-design** : ma principale motivation est d'emmener mon amie (artiste en céramique) et mes 3 enfants dans une pensée-design articulée autour de l'image. 
+* **Passion personnelle** : poursuivre l'apprentissage en repensant complètement mon workflow pour gagner en simplicité et fluidité. De la prise de vue mobile ou reflex, en passant par l'environnement de travail, jusqu'au catalogage avant publication, je dois tout revoir. 
 * **IndieWeb** : beaucoup de pages liées à la [photo](https://indieweb.org/photo) sont à découvrir et ouvertes en traduction pour imaginer de nouveaux usages.
 * **Interface-utilisateur** : l'UI de mise à jour des photos présentes tant dans les thèmes que l'upload des moteurs statiques n'est pas aisée et exige un temps d'apprentissage. 
 * **Bouchon dans le workflow** : manque de temps pour optimiser mon flux de travail photos quand je suis pressé. Résultat : je dois détenir au moins 2 années d'archives restant à annoter et classer. (tri par date et numéros de photos)
