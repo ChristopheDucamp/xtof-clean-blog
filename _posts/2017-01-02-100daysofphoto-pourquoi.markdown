@@ -24,7 +24,7 @@ Je me suis engagé hâtivement ce matin à poster durant 100 jours sur la théma
 
 ## Pourquoi cet engagement ?
 
-Laissez-moi vous dévoiler ce soir les principales raisons qui ont motivé cet engagement. Après rédaction de ma page matinale, plusieurs points me sont venus à l'esprit ce matin pour occuper cette recherche qui je l'espère durera plus de 100 jours. 
+Laissez-moi vous dévoiler ce soir les principales raisons qui ont motivé cet engagement. Après rédaction de ma page matinale, plusieurs points me sont venus à l'esprit ce matin pour occuper cette recherche qui -je l'espère- durera plus de 100 jours. 
 
 ![morning-page-2017-001.jpg](/uploads/morning-page-2017-001.jpg)
 
