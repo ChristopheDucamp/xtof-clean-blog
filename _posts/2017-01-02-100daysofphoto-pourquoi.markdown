@@ -10,16 +10,21 @@ layout: post
 
 ![gibraltar-2016-10-gaffecam-3.jpg](/uploads/gibraltar-2016-10-gaffecam-3.jpg)
 
-Je me suis engagé hâtivement ce matin à poster au moins une photo par jour : 
+Je me suis engagé hâtivement ce matin à poster durant 100 jours sur la thématique photo. 
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Tous mes  Voeux 2017 &gt; <a href="https://t.co/hfa6Rixz1J">https://t.co/hfa6Rixz1J</a> <a href="https://twitter.com/hashtag/indieweb?src=hash">#indieweb</a> <a href="https://twitter.com/hashtag/100daysOfIndieWeb?src=hash">#100daysOfIndieWeb</a> &gt; <a href="https://twitter.com/hashtag/100DaysOfPhotos?src=hash">#100DaysOfPhotos</a></p>&mdash; Christophe Ducamp (@xtof_fr) <a href="https://twitter.com/xtof_fr/status/815541760713773056">1 janvier 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Pour commencer, laissez-moi vous dévoiler ce soir les principales raisons qui ont motivé cet engagement :   
+## L'engagement officiel : 
+
+100 jours de [[photo]]s (
+**#100DaysOfPhotos**) est une variante des **100 jours de blogging**. A savoir publier durant les 99 prochains jours de véritables posts d'articles avec photo (et non pas de simples petites notes avec images sur des sujets atomiques et spécifiques.)
+
+  
 
 ## Pourquoi cet engagement ?
 
-Après rédaction de ma page matinale, plusieurs points me sont venus à l'esprit ce matin  pour occuper cette recherche qui durera au moins 100 jours. 
+Laissez-moi vous dévoiler ce soir les principales raisons qui ont motivé cet engagement. Après rédaction de ma page matinale, plusieurs points me sont venus à l'esprit ce matin pour occuper cette recherche qui je l'espère durera plus de 100 jours. 
 
 ![morning-page-2017-001.jpg](/uploads/morning-page-2017-001.jpg)
 
