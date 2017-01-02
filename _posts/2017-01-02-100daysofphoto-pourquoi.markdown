@@ -17,7 +17,7 @@ Je me suis engagé hâtivement ce matin à poster durant 100 jours sur la théma
 
 ## L'engagement officiel : 
 
-100 jours de [photos](htts://indieweb.org/photo, (aka **#100DaysOfPhotos**) est une variante des **100 jours de blogging**. À savoir publier durant les 99 prochains jours de véritables posts d'articles avec photo (et non pas de simples petites notes avec images sur des sujets atomiques et spécifiques.)
+100 jours de [photos](https://indieweb.org/photo), (aka **#100DaysOfPhotos**) est une variante des **100 jours de blogging**. À savoir publier durant les 99 prochains jours de véritables posts d'articles avec photo (et non pas de simples petites notes avec images sur des sujets atomiques et spécifiques.)
 
 ## Pourquoi cet engagement ?
 
