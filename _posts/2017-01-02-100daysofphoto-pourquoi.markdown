@@ -32,6 +32,7 @@ Laissez-moi vous dévoiler ce soir les principales raisons qui ont motivé cet e
 * **Bouchon dans le workflow** : manque de temps pour optimiser mon flux de travail photos quand je suis pressé. Résultat : je dois détenir au moins 2 années d'archives restant à annoter et classer. (tri par date et numéros de photos)
 * **Pérennité des archives** : un stock de vieilles photos de familles que j'aimerais exhumer des disques durs pour raffiner ma stratégie de sauvegarde 2017. 
 * **Publier hors ligne** : Une volonté de réfléchir sur une interface-utilisateur pratique pour publier durant quelques futurs séjours sans connexion. Je pense notamment à cette dernière navigation à partir de Gibraltar en octobre dernier avec un bricolage de "Gaffe-Cam" pour s'essayer à la photo sous-marine. 
+* **Récupération d'archives** extraites des silos sociaux. Mon archive livrée par twitter (10 années de posts) reste malheureusement incomplète et bien pauvre à cette heure sans ses images.
 * Et tant d'autres points restant à explorer comme le **traitement/optimisation des images** avant publication sur le web (Gulp, etc.).
 
 J'aimerais donc profiter de la remise à zéro de ce site sur la Jamstack pour apprendre, pratiquer et qui sait... trouver de nouveaux partenaires de jeu. 
