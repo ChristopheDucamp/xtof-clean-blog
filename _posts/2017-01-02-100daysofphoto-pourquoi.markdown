@@ -8,16 +8,14 @@ author: Christophe Ducamp
 layout: post
 ---
 
-#J1 : 100 jours de photos. Pourquoi cet engagement ?
-
 ![gibraltar-2016-10-gaffecam-3.jpg](/uploads/gibraltar-2016-10-gaffecam-3.jpg)
 
-Je me suis engagé ce matin à poster au moins une photo par jour et à publier durant 100 jours les points d'optimisation sur cette thématique. 
-
-Pour commencer, je vous dévoile ce soir les principales raisons qui ont motivé cet engagement :   
+Je me suis engagé hâtivement ce matin à poster au moins une photo par jour : 
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Tous mes  Voeux 2017 &gt; <a href="https://t.co/hfa6Rixz1J">https://t.co/hfa6Rixz1J</a> <a href="https://twitter.com/hashtag/indieweb?src=hash">#indieweb</a> <a href="https://twitter.com/hashtag/100daysOfIndieWeb?src=hash">#100daysOfIndieWeb</a> &gt; <a href="https://twitter.com/hashtag/100DaysOfPhotos?src=hash">#100DaysOfPhotos</a></p>&mdash; Christophe Ducamp (@xtof_fr) <a href="https://twitter.com/xtof_fr/status/815541760713773056">1 janvier 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Pour commencer, laissez-moi vous dévoiler ce soir les principales raisons qui ont motivé cet engagement :   
 
 ## Pourquoi cet engagement ?
 
