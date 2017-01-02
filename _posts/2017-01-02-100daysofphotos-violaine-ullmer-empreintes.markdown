@@ -9,7 +9,8 @@ tags:
 - empreintes
 - artistes
 author: xtof
-subtitle: Rapide compte-rendu de mon PhotWalk avec Barbara. Très envie de dormir.
+subtitle: 'PhotoWalk avec Barbara : le compte-rendu.  Prochaine étape : optimiser
+  un workflow de photos pour construire un scrapbook. '
 layout: post
 ---
 
