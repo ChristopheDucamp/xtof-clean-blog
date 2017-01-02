@@ -19,7 +19,10 @@ Pour commencer, je vous dévoile ce soir les principales raisons qui ont motivé
 
 ## Pourquoi cet engagement ?
 
-Plusieurs points me sont venus à l'esprit ce matin sur ma morning page pour occuper cette recherche qui durera au moins 100 jours. 
+Après rédaction de ma page matinale, plusieurs points me sont venus à l'esprit ce matin  pour occuper cette recherche qui durera au moins 100 jours. 
+
+![morning-page-2017-001.jpg](/uploads/morning-page-2017-001.jpg)
+
 * **Pensée-design** : ma principale motivation est d'emmener mon amie (artiste en céramique) dans une pensée-design articulée autour de l'image. 
 * **Passion personnelle** : très envie de poursuivre l'apprentissage en repensant complètement mon workflow pour gagner en simplicité et fluidité. De la prise de vue mobile ou reflex, en passant par l'environnement de travail, jusqu'au catalogage avant publication, je dois tout revoir. 
 * **IndieWeb** : beaucoup de pages liées à la [photo](https://indieweb.org/photo) sont à découvrir et ouvertes en traduction pour imaginer de nouveaux usages.
