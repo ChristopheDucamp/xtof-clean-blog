@@ -4,6 +4,8 @@ date: 2017-01-02 01:14:00 +01:00
 tags:
 - 100daysofphoto
 - 100DaysOfIndieWeb
+author: Christophe Ducamp
+layout: post
 ---
 
 #J1 : 100 jours de photos. Pourquoi cet engagement ?
