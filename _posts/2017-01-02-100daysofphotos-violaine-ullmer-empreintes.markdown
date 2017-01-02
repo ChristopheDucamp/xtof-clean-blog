@@ -10,6 +10,7 @@ tags:
 - artistes
 author: xtof
 subtitle: Rapide compte-rendu de mon PhotWalk avec Barbara. Très envie de dormir.
+layout: post
 ---
 
 Pause technique indieweb aujourd'hui pour un ["rendez-vous" d'artiste](https://www.amazon.fr/dp/B006H19H3M) avec Barbara. Sortir la tête de l'écran et retrouver quelque inspiration dans la vraie vie pour faire du "business development".
@@ -22,7 +23,7 @@ L'espace vaut le détour. De très belles pièces, quelques luminaires très ins
 
 ## Photo du jour 
 
-Pour ma photo du jour, je retiendrai les travaux de recherche sur la céramique signés de <span class="h-card">[Violaine Ullmer](https://www.violaine-ulmer.com/)</span> (plasticienne). 
+Pour ma photo du jour, je retiendrai les travaux de recherche sur la céramique signés de <span class="h-card">[Violaine Ullmer](https://www.violaine-ulmer.com/)</span> (plasticienne). Attention photo non retravaillée, brute de sortie du "photoflow" décrit ci-après.
 
 <span class="u-photo">![violaine-ullmer-empreintes-paris.jpg](/uploads/violaine-ullmer-empreintes-paris.jpg)</span>
 
