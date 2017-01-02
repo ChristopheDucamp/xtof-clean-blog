@@ -23,7 +23,7 @@ L'espace vaut le détour. De très belles pièces, quelques luminaires très ins
 
 ## Photo du jour 
 
-Pour ma photo du jour, je retiendrai les travaux de recherche sur la céramique signés de <span class="h-card">[Violaine Ullmer](https://www.violaine-ulmer.com/)</span> (plasticienne). Attention photo non retravaillée, brute de sortie du "photoflow" décrit ci-après.
+Pour ma photo du jour, je retiendrai les travaux de recherche sur la céramique signés de <span class="h-card">[Violaine Ulmer](https://www.violaine-ulmer.com/)</span> (plasticienne). Attention photo non retravaillée, brute de sortie du "photoflow" décrit ci-après.
 
 <span class="u-photo">![violaine-ullmer-empreintes-paris.jpg](/uploads/violaine-ullmer-empreintes-paris.jpg)</span>
 
