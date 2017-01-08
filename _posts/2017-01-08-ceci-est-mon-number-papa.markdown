@@ -4,6 +4,7 @@ date: 2017-01-08 19:11:00 +01:00
 tags:
 - archives
 - mémoire
+layout: post
 ---
 
 Ce sera **ma photo du jour** pour le défi de #100daysofphotos.
