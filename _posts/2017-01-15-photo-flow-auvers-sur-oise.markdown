@@ -7,6 +7,7 @@ tags:
 - photowalk
 - auvers-sur-oise
 - jamstack
+layout: post
 ---
 
 Jolie promenade hier à Auvers-sur-Oise sur les traces de Vincent Van Gogh. Bien couvert, je me suis _mis dans les yeux de Barbara_ avec un simple Canon50mm/1.8 pour tenter de capter quelques émotions de ce village bien mort en hiver. Notre intention serait de préparer l'organisation de promenades photographiques au Printemps.
