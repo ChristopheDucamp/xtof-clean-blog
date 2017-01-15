@@ -1,6 +1,6 @@
 ---
-title: 'Un Jour d''Hiver à Auvers (#Photoflow et #jamstack)'
-date: 2017-01-15
+title: "Un Jour d'Hiver à Auvers (#Photoflow et #jamstack)"
+date: 2017-01-15 11:41:00
 tags:
   - 100DaysOfPhotos
   - Photoflow
@@ -11,9 +11,11 @@ author: xtof
 layout: post
 published: true
 ---
+
+
 ![peniche sur l'oise]({{site.baseurl}}/_posts/bateau-oise-.jpg)
 
-Jolie promenade hier &agrave; Auvers-sur-Oise sur les traces de Vincent Van Gogh. Bien couvert, je me suis *mis dans les yeux de Barbara* avec un simple Canon50mm/1.8 pour tenter de capter quelques émotions de ce village bien mort en hiver. J'aimerais organiser quelques promenades photographiques au Printemps.
+Jolie promenade hier à Auvers-sur-Oise sur les traces de Vincent Van Gogh. Bien couvert, je me suis *mis dans les yeux de Barbara* avec un simple Canon50mm/1.8 pour tenter de capter quelques émotions de ce village bien mort en hiver. J'aimerais organiser quelques promenades photographiques au Printemps.
 
 ## Démarrage avec un PhotoFlow basé sur Adobe LR et SiteLeaf
 
@@ -32,9 +34,9 @@ Et c'est l'occasion de tester un nouveau "PhotoFlow" plus cohérent avec la [Jam
 
 Plus bas, je me contenterai de déposer une sélection de quelques photos prises hier à l'aide de l'**interface-utilisateur image** placée au-dessus de la fenêtre de publication.
 
-## Pr&eacute;visualisation dans SiteLeaf : erreur et gem absente. Adieu SiteLeaf !
+## Prévisualisation dans SiteLeaf : erreur et gem absente. Adieu SiteLeaf !
 
-Essai de génération de prévisualisation SiteLeaf… Erreur, siteleaf me réclame de payer pour un plan car j'ai dépassé mon quota de stockage limité à 100Mo sur le plan gratuit. Après paiement, il refuse le "build" signalant l'absence d'une gem de Jekyll "jekyll-paginate" déjà installée...
+Essai de génération de prévisualisation SiteLeaf… Erreur, siteleaf me réclame de payer pour un plan car j'ai dépassé mon quota de stockage limité à 100Mo sur le plan gratuit. Après paiement, il refuse le "build" signalant l'absence d'une gem de Jekyll "jekyll-paginate" déjà installée…
 
 ![SiteLeaf-Upgrade-PlanAdd document to Posts 2017-01-15 06.png]({{site.baseurl}}/_posts/SiteLeaf-Upgrade-PlanAdd document to Posts 2017-01-15 06.png)
 
@@ -56,9 +58,9 @@ En résumé mon photoflow remanié consistera à suivre les mêmes étapes que c
 
 ![photowalk-auvers-2198.jpg](/uploads/photowalk-auvers-2198.jpg)
 
-Si ce type de promenade et test de jamstack vous int&eacute;resse, faites-moi signe. Je serai ravi de vous inviter pour un Safari-Photo dans un village qui a tous les atouts pour attirer les touristes en hiver. Après la balade (comptez 2 bonnes heures), je vous offrirai un th&eacute; pour vous faire essayer quelques interfaces de CMS encore assez "geeks" de mon point de vue.
+Si ce type de promenade et test de jamstack vous intéresse, faites-moi signe. Je serai ravi de vous inviter pour un Safari-Photo dans un village qui a tous les atouts pour attirer les touristes en hiver. Après la balade (comptez 2 bonnes heures), je vous offrirai un thé pour vous faire essayer quelques interfaces de CMS encore assez "geeks" de mon point de vue.
 
-Mon offre est purement intéressée : j'aimerais trouver le photoflow idéal pour tous les photographes et artistes non geeks qui voudraient faire du dogfooding sur la _jamstack_ !
+Mon offre est purement intéressée : j'aimerais trouver le photoflow idéal pour tous les photographes et artistes non geeks qui voudraient faire du dogfooding sur la *jamstack* !
 
 ![chien japonais akita]({{site.baseurl}}/_posts/photowalk-auvers--5.jpg)
 
