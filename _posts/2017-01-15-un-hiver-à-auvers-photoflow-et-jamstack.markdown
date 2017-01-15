@@ -39,6 +39,8 @@ J'abandonne &agrave; cette heure SiteLeaf pour m'orienter vers le CMS CloudCanno
 
 ## Interface-utilisateur CMS de CloudCannon
 
+![](/uploads/versions/photowalk-auvers--5---x----3580-2432x---.jpg)
+
 Apr&egrave;s connexion et synchronisation avec mon repo GitHub, je suis rassur&eacute; de retrouver le contenu de ce m&ecirc;me post dans une fen&ecirc;tre de publication propos&eacute;e par CloudCannon.
 
 ![](/uploads/versions/cloudcannon-ui-2017-01-15---x----1201-630x---.png)J'essaierai donc ces prochains jours d'explorer l'offre de CloudCannon pour publier quelques nouvelles photos d'Auvers et ses environs.
@@ -56,7 +58,5 @@ En r&eacute;sum&eacute;, mon photoflow remani&eacute; consistera &agrave; suivre
 Si ce type de promenade et test de jamstack vous int&eacute;resse, faites-moi signe. Je serai ravi de vous inviter pour un Safari-Photo dans un village qui a tous les atouts pour attirer les touristes en hiver. Apr&egrave;s la balade (comptez 2 bonnes heures), je vous offrirai un th&eacute; pour vous faire essayer quelques interfaces de CMS encore assez "geeks" de mon point de vue.
 
 Mon offre est purement int&eacute;ress&eacute;e : j'aimerais trouver le photoflow id&eacute;al pour Barbara, et tous les photographes et artistes qui voudraient s'essayer &agrave; la jamstack !
-
-![photowalk-auvers-2151.jpg](/uploads/photowalk-auvers-2151.jpg)
 
 &Agrave; suivre
