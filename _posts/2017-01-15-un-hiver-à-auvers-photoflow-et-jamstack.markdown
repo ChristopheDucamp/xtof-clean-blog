@@ -36,7 +36,7 @@ Plus bas, je me contenterai de d&eacute;poser une s&eacute;lection de quelques p
 
 ![chien japonais akita]({{site.baseurl}}/_posts/photowalk-auvers--5.jpg)![photowalk-auvers--5.jpg]({{site.baseurl}}/_posts/photowalk-auvers--5.jpg)
 
-![peniche sur l'oise]({{site.baseurl}}/_posts/bateau-oise-.jpg)
+![peniche sur l'oise]({{site.baseurl}}/_posts/bateau-oise-.jpg)![bateau-oise-.jpg]({{site.baseurl}}/_posts/bateau-oise-.jpg)
 
 Essai de g&eacute;n&eacute;ration de pr&eacute;visualisation dans SiteLeaf… Erreur, siteleaf me r&eacute;clame de payer pour un plan car j'ai d&eacute;pass&eacute; mon quota de stockage limit&eacute; &agrave; 100Mo sur le plan gratuit. Apr&egrave;s paiement, il refuse le "build" en me r&eacute;clamant une gem de Jekyll "jekyll-paginate" d&eacute;j&agrave; install&eacute;e.
 
