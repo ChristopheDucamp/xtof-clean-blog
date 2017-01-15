@@ -11,7 +11,7 @@ author: xtof
 layout: post
 published: true
 ---
-
+![peniche sur l'oise]({{site.baseurl}}/_posts/bateau-oise-.jpg)
 
 Jolie promenade hier &agrave; Auvers-sur-Oise sur les traces de Vincent Van Gogh. Bien couvert, je me suis *mis dans les yeux de Barbara* avec un simple Canon50mm/1.8 pour tenter de capter quelques &eacute;motions de ce village bien mort en hiver. J'aimerais organiser quelques promenades photographiques au Printemps.
 
@@ -35,8 +35,6 @@ Plus bas, je me contenterai de d&eacute;poser une s&eacute;lection de quelques p
 ## Pr&eacute;visualisation dans SiteLeaf : erreur et gem absente. Adieu SiteLeaf !
 
 ![chien japonais akita]({{site.baseurl}}/_posts/photowalk-auvers--5.jpg)
-
-![peniche sur l'oise]({{site.baseurl}}/_posts/bateau-oise-.jpg)
 
 Essai de g&eacute;n&eacute;ration de pr&eacute;visualisation dans SiteLeaf… Erreur, siteleaf me r&eacute;clame de payer pour un plan car j'ai d&eacute;pass&eacute; mon quota de stockage limit&eacute; &agrave; 100Mo sur le plan gratuit. Apr&egrave;s paiement, il refuse le "build" en me r&eacute;clamant une gem de Jekyll "jekyll-paginate" d&eacute;j&agrave; install&eacute;e.
 
