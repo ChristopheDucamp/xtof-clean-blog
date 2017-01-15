@@ -28,13 +28,11 @@ Et c'est l'occasion de tester un nouveau "PhotoFlow" plus cohérent avec la [Jam
 7. Les photos sont aisément accessibles dans l'interface-utilisateur.
 8. Elles doivent être déposées une par une dans la fenêtre de publication.
 
-![]({{site.baseurl}}/_posts/SiteLeaf-Ajout-documents-aux-Posts.png)![SiteLeaf-Ajout-documents-aux-Posts.png]({{site.baseurl}}/_posts/SiteLeaf-Ajout-documents-aux-Posts.png)
+![]({{site.baseurl}}/_posts/SiteLeaf-Ajout-documents-aux-Posts.png)
 
 Plus bas, je me contenterai de déposer une sélection de quelques photos prises hier à l'aide de l'**interface-utilisateur image** placée au-dessus de la fenêtre de publication.
 
 ## Pr&eacute;visualisation dans SiteLeaf : erreur et gem absente. Adieu SiteLeaf !
-
-![chien japonais akita]({{site.baseurl}}/_posts/photowalk-auvers--5.jpg)
 
 Essai de génération de prévisualisation SiteLeaf… Erreur, siteleaf me réclame de payer pour un plan car j'ai dépassé mon quota de stockage limité à 100Mo sur le plan gratuit. Après paiement, il refuse le "build" signalant l'absence d'une gem de Jekyll "jekyll-paginate" déjà installée...
 
@@ -60,6 +58,8 @@ En résumé mon photoflow remanié consistera à suivre les mêmes étapes que c
 
 Si ce type de promenade et test de jamstack vous int&eacute;resse, faites-moi signe. Je serai ravi de vous inviter pour un Safari-Photo dans un village qui a tous les atouts pour attirer les touristes en hiver. Après la balade (comptez 2 bonnes heures), je vous offrirai un th&eacute; pour vous faire essayer quelques interfaces de CMS encore assez "geeks" de mon point de vue.
 
-Mon offre est purement int&eacute;ress&eacute;e : j'aimerais trouver le photoflow idéal pour tous les photographes et artistes non geeks qui voudraient s'essayer à la _jamstack_ !
+Mon offre est purement intéressée : j'aimerais trouver le photoflow idéal pour tous les photographes et artistes non geeks qui voudraient faire du dogfooding sur la _jamstack_ !
+
+![chien japonais akita]({{site.baseurl}}/_posts/photowalk-auvers--5.jpg)
 
 À suivre.
