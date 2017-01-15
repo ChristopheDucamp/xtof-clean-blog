@@ -1,6 +1,6 @@
 ---
 title: 'Un Jour d''Hiver à Auvers (#Photoflow et #jamstack)'
-date: {}
+date: 2017-01-15
 tags:
   - 100DaysOfPhotos
   - Photoflow
