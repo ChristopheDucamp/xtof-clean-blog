@@ -12,7 +12,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-header-img: img/caterpillar.jpg
+header-img: uploads/photowalk-auvers--14.jpg
 email: christophe@ducamp.me
 description: Explorations UXDesign et IndieWeb
 baseurl: 
