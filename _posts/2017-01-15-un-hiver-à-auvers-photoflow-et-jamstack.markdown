@@ -13,13 +13,13 @@ published: true
 ---
 ![peniche sur l'oise]({{site.baseurl}}/_posts/bateau-oise-.jpg)
 
-Jolie promenade hier &agrave; Auvers-sur-Oise sur les traces de Vincent Van Gogh. Bien couvert, je me suis *mis dans les yeux de Barbara* avec un simple Canon50mm/1.8 pour tenter de capter quelques &eacute;motions de ce village bien mort en hiver. J'aimerais organiser quelques promenades photographiques au Printemps.
+Jolie promenade hier &agrave; Auvers-sur-Oise sur les traces de Vincent Van Gogh. Bien couvert, je me suis *mis dans les yeux de Barbara* avec un simple Canon50mm/1.8 pour tenter de capter quelques émotions de ce village bien mort en hiver. J'aimerais organiser quelques promenades photographiques au Printemps.
 
 ## D&eacute;marrage du PhotoFlow avec Adobe LR et SiteLeaf
 
-Et c'est l'occasion de tester un nouveau "PhotoFlow" plus coh&eacute;rent avec la [JamStack](http://ducamp.me/jamstack) :
+Et c'est l'occasion de tester un nouveau "PhotoFlow" plus cohérent avec la [JamStack](http://ducamp.me/jamstack) :
 
-1. derushage et s&eacute;lection de quelques photos dans Adobe Lightroom avec les raccourcis-clavier "P" et "X"
+1. derushage et sélection de quelques photos dans Adobe Lightroom avec les raccourcis-clavier "P" et "X"
 2. pose de mots-cl&eacute;s sur les photos s&eacute;lectionn&eacute;s
 3. optimisation de quelques photos pour bascule en N&B avec les outils de google nik collection
 4. exportation dans un dossier (renommage possible)
@@ -36,9 +36,9 @@ Plus bas, je me contenterai de d&eacute;poser une s&eacute;lection de quelques p
 
 ![chien japonais akita]({{site.baseurl}}/_posts/photowalk-auvers--5.jpg)
 
-Essai de g&eacute;n&eacute;ration de pr&eacute;visualisation dans SiteLeaf… Erreur, siteleaf me r&eacute;clame de payer pour un plan car j'ai d&eacute;pass&eacute; mon quota de stockage limit&eacute; &agrave; 100Mo sur le plan gratuit. Apr&egrave;s paiement, il refuse le "build" en me r&eacute;clamant une gem de Jekyll "jekyll-paginate" d&eacute;j&agrave; install&eacute;e.
+Essai de génération de prévisualisation SiteLeaf… Erreur, siteleaf me réclame de payer pour un plan car j'ai dépassé mon quota de stockage limité à 100Mo sur le plan gratuit. Après paiement, il refuse le "build" signalant l'absence d'une gem de Jekyll "jekyll-paginate" déjà installée...
 
-J'abandonne &agrave; cette heure SiteLeaf pour m'orienter vers le CMS CloudCannon.
+Rien de grave. J'abandonne SiteLeaf pour m'orienter vers un autre CMS réputé sur la JamStack :  CloudCannon.
 
 ## Interface-utilisateur CMS de CloudCannon
 
