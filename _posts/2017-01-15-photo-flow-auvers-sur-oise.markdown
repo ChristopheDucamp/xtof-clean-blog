@@ -7,6 +7,7 @@ tags:
 - photowalk
 - auvers-sur-oise
 - jamstack
+author: xtof
 layout: post
 ---
 
