@@ -1,6 +1,6 @@
 ---
 title: 'Un Hiver à Auvers (#Photoflow et #jamstack)'
-date: 2017-01-15 02:48:00
+date: {}
 tags:
   - 100DaysOfPhotos
   - Photoflow
@@ -9,6 +9,7 @@ tags:
   - jamstack
 author: xtof
 layout: post
+published: true
 ---
 
 
@@ -33,25 +34,25 @@ Plus bas, je me contenterai de d&eacute;poser une s&eacute;lection de quelques p
 
 ## Pr&eacute;visualisation dans SiteLeaf : erreur et gem absente. Adieu SiteLeaf !
 
+![chien japonais akita]({{site.baseurl}}/_posts/photowalk-auvers--5.jpg)![photowalk-auvers--5.jpg]({{site.baseurl}}/_posts/photowalk-auvers--5.jpg)
+
 Essai de g&eacute;n&eacute;ration de pr&eacute;visualisation dans SiteLeaf… Erreur, siteleaf me r&eacute;clame de payer pour un plan car j'ai d&eacute;pass&eacute; mon quota de stockage limit&eacute; &agrave; 100Mo sur le plan gratuit. Apr&egrave;s paiement, il refuse le "build" en me r&eacute;clamant une gem de Jekyll "jekyll-paginate" d&eacute;j&agrave; install&eacute;e.
 
 J'abandonne &agrave; cette heure SiteLeaf pour m'orienter vers le CMS CloudCannon.
 
 ## Interface-utilisateur CMS de CloudCannon
 
-![](/uploads/versions/photowalk-auvers--5---x----3580-2432x---.jpg)
+
 
 Apr&egrave;s connexion et synchronisation avec mon repo GitHub, je suis rassur&eacute; de retrouver le contenu de ce m&ecirc;me post dans une fen&ecirc;tre de publication propos&eacute;e par CloudCannon.
 
-![](/uploads/versions/cloudcannon-ui-2017-01-15---x----1201-630x---.png)J'essaierai donc ces prochains jours d'explorer l'offre de CloudCannon pour publier quelques nouvelles photos d'Auvers et ses environs.
+J'essaierai donc ces prochains jours d'explorer l'offre de CloudCannon pour publier quelques nouvelles photos d'Auvers et ses environs.
 
 En r&eacute;sum&eacute;, mon photoflow remani&eacute; consistera &agrave; suivre les m&ecirc;me &eacute;tapes que celui d&eacute;crit plus haut avec SiteLeaf. Puis d'essayer la fonction de t&eacute;l&eacute;versement de photos de CloudCannon
 
 ![photowalk-auvers--14.jpg](/uploads/photowalk-auvers--14.jpg)
 
 ![photowalk-auvers-.jpg](/uploads/photowalk-auvers-.jpg)
-
-![](/uploads/versions/photowalk-auvers-2132---x----5184-3456x---.jpg)
 
 ![photowalk-auvers-2198.jpg](/uploads/photowalk-auvers-2198.jpg)
 
