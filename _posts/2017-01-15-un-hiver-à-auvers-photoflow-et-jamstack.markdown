@@ -1,5 +1,5 @@
 ---
-title: 'Un Hiver à Auvers (#Photoflow et #jamstack)'
+title: 'Un Jour d''Hiver à Auvers (#Photoflow et #jamstack)'
 date: {}
 tags:
   - 100DaysOfPhotos
@@ -15,22 +15,22 @@ published: true
 
 Jolie promenade hier &agrave; Auvers-sur-Oise sur les traces de Vincent Van Gogh. Bien couvert, je me suis *mis dans les yeux de Barbara* avec un simple Canon50mm/1.8 pour tenter de capter quelques émotions de ce village bien mort en hiver. J'aimerais organiser quelques promenades photographiques au Printemps.
 
-## D&eacute;marrage du PhotoFlow avec Adobe LR et SiteLeaf
+## Démarrage avec un PhotoFlow basé sur Adobe LR et SiteLeaf
 
 Et c'est l'occasion de tester un nouveau "PhotoFlow" plus cohérent avec la [JamStack](http://ducamp.me/jamstack) :
 
 1. derushage et sélection de quelques photos dans Adobe Lightroom avec les raccourcis-clavier "P" et "X"
-2. pose de mots-cl&eacute;s sur les photos s&eacute;lectionn&eacute;s
+2. pose de mots-clés sur les photos sélectionnées
 3. optimisation de quelques photos pour bascule en N&B avec les outils de google nik collection
 4. exportation dans un dossier (renommage possible)
-5. t&eacute;l&eacute;versement des fichiers directement dans l'interface de SiteLeaf
-6. Les photos sont **stock&eacute;es** sur le CMS SiteLeaf
-7. Les photos deviennent accessibles dans l'interface-utilisateur
-8. Elles peuvent &ecirc;tre d&eacute;pos&eacute;es ais&eacute;ment une par une.
+5. téléversement des fichiers directement dans l'interface du [système de gestion de contenu SiteLeaf](https://www.siteleaf.com/)
+6. Les photos sont **stockées** sur le CMS SiteLeaf. Ouille risque de pertes de souvenirs.
+7. Les photos sont aisément accessibles dans l'interface-utilisateur.
+8. Elles doivent être déposées une par une dans la fenêtre de publication.
 
-N.B. Je n'ai malheureusement pas encore vu dans SiteLeaf de fonction "galerie" pour une optimisation de l'affichage de 60 photos dans un post....
+![]({{site.baseurl}}/_posts/SiteLeaf-Ajout-documents-aux-Posts.png)![SiteLeaf-Ajout-documents-aux-Posts.png]({{site.baseurl}}/_posts/SiteLeaf-Ajout-documents-aux-Posts.png)
 
-Plus bas, je me contenterai de d&eacute;poser une s&eacute;lection de quelques photos prises hier &agrave; l'aide de l'**interface-utilisateur image** plac&eacute;e au-dessus de la fen&ecirc;tre de publication.
+Plus bas, je me contenterai de déposer une sélection de quelques photos prises hier à l'aide de l'**interface-utilisateur image** placée au-dessus de la fenêtre de publication.
 
 ## Pr&eacute;visualisation dans SiteLeaf : erreur et gem absente. Adieu SiteLeaf !
 
@@ -38,15 +38,19 @@ Plus bas, je me contenterai de d&eacute;poser une s&eacute;lection de quelques p
 
 Essai de génération de prévisualisation SiteLeaf… Erreur, siteleaf me réclame de payer pour un plan car j'ai dépassé mon quota de stockage limité à 100Mo sur le plan gratuit. Après paiement, il refuse le "build" signalant l'absence d'une gem de Jekyll "jekyll-paginate" déjà installée...
 
-Rien de grave. J'abandonne SiteLeaf pour m'orienter vers un autre CMS réputé sur la JamStack :  CloudCannon.
+![SiteLeaf-Upgrade-PlanAdd document to Posts 2017-01-15 06.png]({{site.baseurl}}/_posts/SiteLeaf-Upgrade-PlanAdd document to Posts 2017-01-15 06.png)
+
+Rien de grave. J'abandonne momentanément SiteLeaf pour m'orienter vers un autre CMS réputé sur la JamStack : CloudCannon.
 
 ## Interface-utilisateur CMS de CloudCannon
 
-Apr&egrave;s connexion et synchronisation avec mon repo GitHub, je suis rassur&eacute; de retrouver le contenu de ce m&ecirc;me post dans une fen&ecirc;tre de publication propos&eacute;e par CloudCannon.
+Après connexion et synchronisation avec mon repo GitHub, je suis rassuré de retrouver le contenu de ce même post dans la fenêtre de publication proposée par CloudCannon.
+
+![CloudCannon-UI-2017-01-15.png]({{site.baseurl}}/_posts/CloudCannon-UI-2017-01-15.png)
 
 J'essaierai donc ces prochains jours d'explorer l'offre de CloudCannon pour publier quelques nouvelles photos d'Auvers et ses environs.
 
-En r&eacute;sum&eacute;, mon photoflow remani&eacute; consistera &agrave; suivre les m&ecirc;me &eacute;tapes que celui d&eacute;crit plus haut avec SiteLeaf. Puis d'essayer la fonction de t&eacute;l&eacute;versement de photos de CloudCannon
+En résumé mon photoflow remanié consistera à suivre les mêmes étapes que celui décrit plus haut avec SiteLeaf. Puis d'essayer la fonction de téléversement de photos de CloudCannon
 
 ![photowalk-auvers--14.jpg](/uploads/photowalk-auvers--14.jpg)
 
@@ -54,8 +58,8 @@ En r&eacute;sum&eacute;, mon photoflow remani&eacute; consistera &agrave; suivre
 
 ![photowalk-auvers-2198.jpg](/uploads/photowalk-auvers-2198.jpg)
 
-Si ce type de promenade et test de jamstack vous int&eacute;resse, faites-moi signe. Je serai ravi de vous inviter pour un Safari-Photo dans un village qui a tous les atouts pour attirer les touristes en hiver. Apr&egrave;s la balade (comptez 2 bonnes heures), je vous offrirai un th&eacute; pour vous faire essayer quelques interfaces de CMS encore assez "geeks" de mon point de vue.
+Si ce type de promenade et test de jamstack vous int&eacute;resse, faites-moi signe. Je serai ravi de vous inviter pour un Safari-Photo dans un village qui a tous les atouts pour attirer les touristes en hiver. Après la balade (comptez 2 bonnes heures), je vous offrirai un th&eacute; pour vous faire essayer quelques interfaces de CMS encore assez "geeks" de mon point de vue.
 
-Mon offre est purement int&eacute;ress&eacute;e : j'aimerais trouver le photoflow id&eacute;al pour Barbara, et tous les photographes et artistes qui voudraient s'essayer &agrave; la jamstack !
+Mon offre est purement int&eacute;ress&eacute;e : j'aimerais trouver le photoflow idéal pour tous les photographes et artistes non geeks qui voudraient s'essayer à la _jamstack_ !
 
-&Agrave; suivre
+À suivre.
