@@ -1,15 +1,5 @@
 ---
-title: 'Un Jour d''Hiver à Auvers (#Photoflow et #jamstack)'
-date: 2017-01-15 12:41:00 +01:00
-tags:
-- 100DaysOfPhotos
-- Photoflow
-- photowalk
-- auvers-sur-oise
-- jamstack
-author: xtof
-layout: post
-subtitle: Interface-utilisateur et photoflow sur la JamStack : de SiteLeaf à CloudCannon.
+title: 2017 01 15 Un Jour Dhiver à Auvers Photoflow Et Jamstack
 ---
 
 ![](/uploads/versions/bateau-oise----x----4387-3009x---.jpg)
