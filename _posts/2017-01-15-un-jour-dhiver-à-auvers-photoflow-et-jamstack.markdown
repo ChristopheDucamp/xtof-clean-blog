@@ -34,25 +34,23 @@ Avant de m'engager sur un plan
 7. Les photos sont ais&eacute;ment accessibles dans l'interface-utilisateur.
 8. Elles doivent &ecirc;tre d&eacute;pos&eacute;es une par une dans la fen&ecirc;tre de publication.
 
-![]({{site.baseurl}}/_posts/SiteLeaf-Ajout-documents-aux-Posts.png)
-
 Plus bas, je me contenterai de d&eacute;poser une s&eacute;lection de quelques photos prises hier &agrave; l'aide de l'**interface-utilisateur image** plac&eacute;e au-dessus de la fen&ecirc;tre de publication.
 
 ## Pr&eacute;visualisation dans SiteLeaf : erreur et gem absente. Adieu SiteLeaf !
 
-Essai de g&eacute;n&eacute;ration de pr&eacute;visualisation SiteLeaf… Erreur, siteleaf me r&eacute;clame de payer pour un plan car j'ai d&eacute;pass&eacute; mon quota de stockage limit&eacute; &agrave; 100Mo sur le plan gratuit. Apr&egrave;s paiement, il refuse le "build" signalant l'absence d'une gem de Jekyll "jekyll-paginate" d&eacute;j&agrave; install&eacute;e…
+Essai de g&eacute;n&eacute;ration de pr&eacute;-visualisation SiteLeaf… Erreur, [Siteleaf](https://www.siteleaf.com/) me r&eacute;clame de passer sur un plan payant pour augmenter mon quota de stockage limit&eacute; &agrave; 100Mo sur le plan gratuit. Apr&egrave;s paiement, le "build" est refus&eacute; au pr&eacute;texte d'une absence d'une gem de Jekyll "jekyll-paginate" d&eacute;j&agrave; install&eacute;e… grosse fatigue...
 
 ![](/uploads/versions/siteleaf-quota-100mo---x----669-52x---.png)
 
-Rien de grave. J'abandonne momentan&eacute;ment SiteLeaf pour m'orienter vers un autre CMS r&eacute;put&eacute; sur la JamStack : CloudCannon.
+Rien de grave. J'abandonne momentan&eacute;ment SiteLeaf pour m'orienter vers un autre CMS r&eacute;put&eacute; sur la JamStack : [CloudCannon](https://cloudcannon.com).
 
 ## Interface-utilisateur CMS de CloudCannon
 
-Apr&egrave;s connexion et synchronisation avec mon repo GitHub, je suis rassur&eacute; de retrouver le contenu de ce m&ecirc;me post dans la fen&ecirc;tre de publication propos&eacute;e par CloudCannon.
+Apr&egrave;s une pause caf&eacute;, connexion sur CloudCannon et synchronisation avec mon d&eacute;p&ocirc;t GitHub. Rassur&eacute; de retrouver le contenu de ce m&ecirc;me post dans la fen&ecirc;tre de publication propos&eacute;e par CloudCannon :
 
 ![](/uploads/versions/cloudcannon-ui-2017-01-15---x----1201-630x---.png)
 
-J'essaierai donc ces prochains jours d'explorer l'offre de CloudCannon pour publier quelques nouvelles photos d'Auvers et ses environs.
+J'essaierai donc ces prochains jours d'explorer l'offre de CloudCannon pour publier quelques nouvelles photos comme Auvers et ses environs, la transe attendue au JATP, etc..
 
 ![photowalk-auvers--14.jpg](/uploads/photowalk-auvers--14.jpg)
 
@@ -60,10 +58,10 @@ J'essaierai donc ces prochains jours d'explorer l'offre de CloudCannon pour publ
 
 ![photowalk-auvers-2198.jpg](/uploads/photowalk-auvers-2198.jpg)
 
-Si ce type de promenade et test de jamstack vous int&eacute;resse, faites-moi signe. Je serai ravi de vous inviter pour un Safari-Photo dans un village qui a tous les atouts pour attirer les touristes en hiver. Apr&egrave;s la balade (comptez 2 bonnes heures), je vous offrirai un th&eacute; pour vous faire essayer quelques interfaces de CMS encore assez "geeks" de mon point de vue.
+Si ce type de promenade vous int&eacute;resse, faites-moi signe. Je serai ravi de vous inviter pour un Safari-Photo dans un village qui a tous les atouts pour attirer les touristes en hiver. Apr&egrave;s la balade (comptez 2 bonnes heures), je vous offrirai un th&eacute; pour vous faire essayer quelques interfaces de CMS encore assez "geeks" de mon point de vue.
 
-Mon offre est purement int&eacute;ress&eacute;e : j'aimerais trouver le photoflow id&eacute;al pour tous les photographes et artistes non geeks qui voudraient faire du dogfooding sur la *jamstack* !
+Mon offre est purement int&eacute;ress&eacute;e : j'aimerais d&eacute;nicher le PhotoFlow id&eacute;al pour tous les photographes, musiciens, chanteurs et artistes non geeks qui pourraient aimer faire leur dogfooding sur la *jamstack* !
 
-![chien japonais akita]({{site.baseurl}}/_posts/photowalk-auvers--5.jpg)
+![](/uploads/versions/2017-015-jatp-kenny-barron---x----756-504x---.jpg)
 
 &Agrave; suivre.
