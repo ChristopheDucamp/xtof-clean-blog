@@ -50,7 +50,7 @@ Apr&egrave;s une pause caf&eacute;, connexion sur CloudCannon et synchronisation
 
 ![](/uploads/versions/cloudcannon-ui-2017-01-15---x----1201-630x---.png)
 
-J'essaierai donc ces prochains jours d'explorer l'offre de CloudCannon pour publier quelques nouvelles photos comme Auvers et ses environs, la transe attendue au JATP, etc..
+J'essaierai donc ces prochains jours d'explorer l'offre de CloudCannon pour publier quelques nouvelles photos comme Auvers et ses environs, la transe v&eacute;cue et &agrave; revivre sur les prochaines jam-session du JATP, etc..
 
 ![photowalk-auvers--14.jpg](/uploads/photowalk-auvers--14.jpg)
 
@@ -62,6 +62,6 @@ Si ce type de promenade vous int&eacute;resse, faites-moi signe. Je serai ravi d
 
 Mon offre est purement int&eacute;ress&eacute;e : j'aimerais d&eacute;nicher le PhotoFlow id&eacute;al pour tous les photographes, musiciens, chanteurs et artistes non geeks qui pourraient aimer faire leur dogfooding sur la *jamstack* !
 
-![](/uploads/versions/2017-015-jatp-kenny-barron---x----756-504x---.jpg)
+![](/uploads/versions/2017-015-jatp-kenny-barron---x----756-504x---.jpg)(Transe au&nbsp;[J.A.T.P. du 2017-015](http://ducamp.me/2017-015#Here_.26_Now_JATP.C2.A0) - *photoflow*&nbsp;[xtof.me](http://xtof.me))
 
 &Agrave; suivre.
