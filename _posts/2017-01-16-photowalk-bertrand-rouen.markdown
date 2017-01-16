@@ -1,5 +1,5 @@
 ---
-title: Merci Bertrand
+title: 'Merci Bertrand'
 date: 2017-01-16 20:48:00 +01:00
 tags:
 - 100DaysOfPhotos
@@ -30,4 +30,4 @@ Retourné à Paris par le train, épuisé, heureux et enchanté.
 Je vous recommande d'interrroger Bertrand si vous vous intéressez à la JamStack.
 De mon côté, je prendrai le temps de revenir déambuler à Rouen mieux renseigné pour annoter le photoflow et poursuivre les conversations sur l'avenir du **PhotoWalk**.
 
-Désormais en confiance. Très heureux d'avoir trouvé un partenaire profesionnel de cœur pour amorcer et avancer sur quelques projets indieweb.
+Désormais en confiance. Très heureux d'avoir trouvé un partenaire professionnel de cœur pour amorcer et avancer sur quelques projets indieweb.
