@@ -33,4 +33,4 @@ Retourné à Paris par le train. Épuisé, heureux et enchanté.
 Je vous recommande d'interrroger Bertrand si vous vous intéressez à la JamStack.
 De mon côté, je prendrai le temps de revenir déambuler à Rouen mieux renseigné pour annoter le photoflow et poursuivre les conversations sur l'avenir du **PhotoWalk**.
 
-Désormais en confiance. Très heureux d'avoir trouvé un partenaire professionnel de cœur pour amorcer et avancer sur quelques amorçages de projets indieweb.
+Désormais en confiance. Très heureux d'avoir trouvé un partenaire professionnel de cœur pour amorcer et avancer sur quelques amorçages de projets [indieweb](http://indieweb.org/).
