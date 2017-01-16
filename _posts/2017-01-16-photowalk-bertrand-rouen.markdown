@@ -14,7 +14,7 @@ subtitle: PhotoWalk avec Bertrand à Rouen. Un partenaire de coeur pour avancer 
   la JamStack
 ---
 
-Plus de dix ans que je n'avais posé mes pieds à Rouen. Eu la chance aujourd'hui de me mettre aujourd'hui dans le flow et les yeux de [Bertrand](https://bertrandkeller.info/), un as de la [jamstack](http://jamstack.org). 
+Plus de dix ans que je n'avais posé mes pieds à Rouen. Eu la chance aujourd'hui de me mettre dans le flow et les yeux de [Bertrand](https://bertrandkeller.info/), un as de la [jamstack](http://jamstack.org). 
 
 Mon intention était simplement de trouver de l'aide pour du _serrage de boulons_ en prod web statique et du design de _workflow_ pour artistes, entrepreneurs et autres free-lances. 
 
