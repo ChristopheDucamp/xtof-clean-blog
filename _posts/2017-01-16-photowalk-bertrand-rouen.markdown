@@ -1,5 +1,5 @@
 ---
-title: Merci Bertrand
+title: 'Merci Bertrand'
 date: 2017-01-16 20:48:00 +01:00
 tags:
 - 100DaysOfPhotos
@@ -9,6 +9,7 @@ tags:
 - jamstatic
 - indieweb
 layout: post
+author: xtof
 ---
 
 Plus de dix ans que je n'avais posé mes pieds à Rouen. Eu la chance aujourd'hui de me mettre aujourd'hui dans le flow et les yeux de [Bertrand](https://bertrandkeller.info/), un as de la [jamstack](http://jamstack.org). 
