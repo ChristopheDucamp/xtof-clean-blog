@@ -1,5 +1,5 @@
 ---
-title: 'Merci Bertrand'
+title: Merci Bertrand
 date: 2017-01-16 20:48:00 +01:00
 tags:
 - 100DaysOfPhotos
