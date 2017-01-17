@@ -44,9 +44,11 @@ Plus bas, je me contenterai de déposer une sélection de quelques photos prises
 
 ## Prévisualisation dans SiteLeaf : erreur et gem absente. Adieu SiteLeaf !
 
-Essai de génération de pré-visualisation SiteLeaf… Erreur, [Siteleaf](https://www.siteleaf.com/) me réclame de passer sur un plan payant pour augmenter mon quota de stockage limité à 100Mo sur le plan gratuit. Après paiement, le "build" est refusé au prétexte d'une absence d'une gem de Jekyll "jekyll-paginate" déjà installée… grosse fatigue...
+Essai de génération de pré-visualisation SiteLeaf… Erreur, [Siteleaf](https://www.siteleaf.com/) me réclame de passer sur un plan payant pour augmenter mon quota de stockage limité à 100Mo sur le plan gratuit. Après paiement, le "build" est refusé au prétexte d'une absence d'une gem de Jekyll "jekyll-paginate" déjà installée… 
 
-Rien de grave. J'abandonne momentanément SiteLeaf pour m'orienter vers un autre CMS réputé sur la JamStack : [CloudCannon](https://cloudcannon.com).
+> `Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. Ensure you have `gems: [jekyll-paginate]` in your configuration file. (RuntimeError)`
+
+Grosse fatigue. Mais rien de grave. Il existe plusieurs CMS pour travailler sur un repo GitHub, Je décide donc d'abandonner momentanément SiteLeaf pour m'orienter vers un autre CMS réputé sur la JamStack : [CloudCannon](https://cloudcannon.com).
 
 ## Interface-utilisateur CMS de CloudCannon
 
