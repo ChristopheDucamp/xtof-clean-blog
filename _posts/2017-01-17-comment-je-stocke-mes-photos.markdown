@@ -56,11 +56,11 @@ Parce que Dropbox Pro offre 1 To d'espace disque et que votre disque dur actuel 
 
 Dropbox dispose d'une fonctionnalité appelée Synchronisation sélective. C'est sous les préférences, compte. Elle vous permet de sélectionner les dossiers que vous souhaitez synchroniser avec votre ordinateur. Rappelez-vous que je vous ai dit de "Générer des aperçus intelligents" lors de l'importation des photos sur Lightroom ? Voici donc la raison.
 
-<img src="https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_storage_04.jpg">
+![Dropbox-Synchro-Selective.png](/uploads/Dropbox-Synchro-Selective.png)
 
 <h4 style="margin-top:-50px;">Option de Sync Selective sous les préférences de Compte Dropbox </h4>
 
-Avec Smart Previews, Lightroom vous permet de parcourir toutes vos photos dans Lightroom même si les photos d'origine ne sont pas synchronisées sur votre disque dur. Vous pouvez économiser beaucoup d'espace simplement en «archivant» des ensembles que vous ne modifiez plus ou n'exportez plus.
+Avec Smart Previews, Lightroom vous permet de parcourir toutes vos photos dans Lightroom même si les photos d'origine ne sont pas synchronisées sur votre disque dur. Vous pouvez économiser beaucoup d'espace en «archivant» simplement les sets que vous ne modifiez ou n'exportez plus.
 
 ### TL;DR
 
