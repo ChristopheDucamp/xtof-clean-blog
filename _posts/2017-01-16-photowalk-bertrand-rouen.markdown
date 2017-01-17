@@ -1,6 +1,6 @@
 ---
 title: Merci Bertrand
-date: '2017-01-16 19:48:00'
+date: 2017-01-16 19:48:00 +01:00
 tags:
 - 100DaysOfPhotos
 - Rouen
@@ -13,6 +13,7 @@ author: xtof
 subtitle: PhotoWalk avec Bertrand à Rouen. Un partenaire de coeur pour avancer sur
   la JamStack
 ---
+
 Plus de dix ans que je n'avais posé mes pieds à Rouen. Eu la chance aujourd'hui de me mettre dans le flow et les yeux de [Bertrand](https://bertrandkeller.info/), un as de la [jamstack](http://jamstack.org).
 
 Mon intention était simplement de trouver de l'aide pour du _serrage de boulons_ en prod web statique et design de _workflow_ pour artistes, entrepreneurs et autres free-lances.
