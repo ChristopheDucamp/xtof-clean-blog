@@ -10,7 +10,8 @@ tags:
 - indieweb
 layout: post
 author: xtof
-subtitle: 'PhotoWalk avec Bertrand à Rouen. Un partenaire de coeur pour avancer sur la JamStack'
+subtitle: PhotoWalk avec Bertrand à Rouen. Un partenaire de coeur pour avancer sur
+  la JamStack
 ---
 
 Plus de dix ans que je n'avais posé mes pieds à Rouen. Eu la chance aujourd'hui de me mettre aujourd'hui dans le flow et les yeux de [Bertrand](https://bertrandkeller.info/), un as de la [jamstack](http://jamstack.org). 
