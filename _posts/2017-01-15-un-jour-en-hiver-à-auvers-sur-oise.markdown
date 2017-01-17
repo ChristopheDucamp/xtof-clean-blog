@@ -11,7 +11,7 @@ tags:
 subtitle: Promenade dans les Interfaces pour déposer mon flux de travail Photo sur
   la JAMstack
 author: xtof
-header-img: uploads/photowalk-auvers--14.jpg
+header-img: "/uploads/2017-015-JATP-Kenny-Barron-2.jpg"
 layout: post
 ---
 
@@ -72,5 +72,7 @@ Mon offre est purement int&eacute;ress&eacute;e : j'aimerais d&eacute;nicher le 
 
 ![2017-015-JATP-Kenny-Barron.jpg](/uploads/2017-015-JATP-Kenny-Barron.jpg)
 (Transe au&nbsp;[J.A.T.P. du 2017-015](http://ducamp.me/2017-015#Here_.26_Now_JATP.C2.A0) - *photoflow*&nbsp;<span class="h-card p-author">[xtof.me](http://xtof.me)</span>)
+
+![2017-015-JATP-Kenny-Barron-2.jpg](/uploads/2017-015-JATP-Kenny-Barron-2.jpg)
 
 &Agrave; suivre.
