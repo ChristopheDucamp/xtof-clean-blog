@@ -34,18 +34,17 @@ Pour déplacer votre catalogue vers Dropbox, sachez tout d'abord où il se trouv
 #### Découvrez où est stocké votre catalogue Lightroom
 
 À l'intérieur de Dropbox j'ai un dossier principal appelé "Photos" et à l'intérieur un sous-dossier appelé "Lightroom" (où je stocke mon catalogue) et un sous-dossier appelé "Sets" où je stocke toutes mes photos. Je limite mes Sets à un sujet. Par exemple, je suis allé aujourd'hui en randonnée  avec quelques amis, et quand je suis revenu, j'ai quelques photos. Cela deviendra un Set à chaque fois que je mets ma carte CompactFlash dans mon ordinateur.
-
-![2017-017-Catalogue-LR-Comment-je-range-mes-photos.png](/uploads/2017-017-Catalogue-LR-Comment-je-range-mes-photos.png)
+![Classement-DropBox.png](/uploads/Classement-DropBox.png)
 
 #### À quoi ressemble mon dossier
 
-La première chose que je fais après le retour d'une prise de vues, c'est télécharger toutes les photos dans Dropbox à l'intérieur de mon dossier "Sets". J'utilise "AAAA-JJJ-nom-du-set" comme nom de dossier pour avoir un tri principal par année et puis par jour (le numéro du jour dans l'année). Une fois qu'il est téléchargé, je me sens en sécurité.
+La première chose que je fais après le retour d'une prise de vues, c'est télécharger toutes les photos dans Dropbox à l'intérieur de mon dossier "Sets". J'utilise "AAAA-JJJ-nom-du-set" comme nom de dossier pour avoir un tri principal par année et puis par jour (JJJ représentant le numéro du jour dans l'année). Une fois qu'il est téléchargé, je me sens en sécurité.
 
-Ensuite j'importe toutes les images dans Lightroom. À ce stade, assurez-vous que l'option "Build Smart Previews" est cochée sur le côté droit. Dans Lightroom, j'ai créé la même structure "AAAA-MM-JJ-nom-du-set" mais au lieu de l'appeler "dossiers" Lightroom appelle ça des collections. Vous pouvez éventuellement créer des "collections définies" par année afin de faciliter la navigation.
+Ensuite j'importe toutes les images dans Lightroom. À ce stade, assurez-vous que l'option "Build Smart Previews" est cochée sur le côté droit. Dans Lightroom, j'ai créé la même structure "AAAA-JJJJ-nom-du-set" mais au lieu de l'appeler "dossiers" Lightroom appelle ça des collections. Vous pouvez éventuellement créer des "collections définies" par année afin de faciliter la navigation.
 
 <img src="https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_storage_05.jpg">
 
-#### Dialogue d'Importation. Assurez-vous d'avoir coché "Build Smart Previews" (voir UI en français ?)
+#### Dialogue d'Importation. Assurez-vous d'avoir coché "Build Smart Previews" 
 
 <img src="https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_storage_03.jpg">
 
