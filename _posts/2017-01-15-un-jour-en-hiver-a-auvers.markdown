@@ -8,17 +8,17 @@ tags:
 - CloudCannon
 - jamstatic
 - indieweb
-subtible: Promenade dans les Interfaces pour poser un Photoflow sur la JAMstack
+subtitle: Promenade dans les Interfaces pour Déposer mon flux de travail Photo sur la JAMstack
 author: xtof
 header-img: 
 layout: post
 ---
 
-Jolie promenade hier à Auvers-sur-Oise sur les traces de Vincent Van Gogh. Je me suis simplement *placé dans les yeux de Barbara* avec un simple Canon 50mm/1.8 pour tenter de capter quelques émotions de ce village bien mort en hiver. Je viens de [poser sur Flickr quelques  photos stimulantes](https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=auverssuroise&user_id=37996578526%40N01&view_all=1) pour prépérer l'organisation de quelques promenades photographiques au Printemps.
+Jolie promenade [hier](http://ducamp.me/2017-014) à Auvers-sur-Oise sur les traces de Vincent Van Gogh. Je me suis simplement *placé dans les yeux de Barbara* avec un simple Canon 50 mm/1.8 pour tenter de capter quelques émotions de ce village bien mort en hiver. Je viens de [poser sur Flickr quelques photos stimulantes](https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=auverssuroise&user_id=37996578526%40N01&view_all=1) afin de préparer l'organisation de quelques promenades photographiques au Printemps.
 
 ## Démarrage avec un PhotoFlow basé sur Adobe LightRoom et CloudCannon
 
-Et voici l'occasion de tester un nouveau "PhotoFlow" plus cohérent avec la [JamStack](http://ducamp.me/jamstack) et l'indieweb afin de contrôler les photos sur mon popre domaine. Depuis à peu près un mois, j'utilisais l'excellent système de gestion de contenu [SiteLeaf](https://siteleaf.com) (tant pour accéder à une UI de mise à jour de post que pour déposer des fichiers images). Malheureusement, ce matin je dépasse le quota maximal de 100Mo offert dans le plan gratuit. En outre, je découvre que SiteLeaf stocke les images téléversées sur son propre silo.
+Et voici l'occasion de tester un "PhotoFlow" plus cohérent avec la [JamStack](http://ducamp.me/jamstack) et l'indieweb afin de contrôler les photos sur mon popre domaine. Depuis à peu près un mois, j'utilisais l'excellent système de gestion de contenu [SiteLeaf](https://siteleaf.com) (tant pour accéder à une UI de mise à jour de post que pour déposer des fichiers images). Malheureusement, ce matin je dépasse le quota maximal de 100Mo offert dans le plan gratuit. En outre, je découvre que SiteLeaf stocke les images téléversées sur son propre silo.
 
 ## Abandon SiteLeaf
 
@@ -36,19 +36,23 @@ Rapide récapitulatif avant de m'engager sur un plan payant chez SiteLeaf :
 
 6. Les photos sont **stockées** sur le CMS.
 
-7. Les photos sont aisément accessibles dans l'interface-utilisateur.
+7. Les photos téléversées sont aisément accessibles dans l'interface-utilisateur.
 
-8. Elles doivent être déposées une par une dans la fenêtre de publication.
+8. Elles peuvent être insérées une par une dans la fenêtre de publication.
 
 Plus bas, je me contenterai de déposer une sélection de quelques photos prises hier à l'aide de l'**interface-utilisateur image** placée au-dessus de la fenêtre de publication.
 
 ## Prévisualisation dans SiteLeaf : erreur et gem absente. Adieu SiteLeaf !
 
-Essai de génération de pré-visualisation SiteLeaf… Erreur, [Siteleaf](https://www.siteleaf.com/) me réclame de passer sur un plan payant pour augmenter mon quota de stockage limité à 100Mo sur le plan gratuit. Après paiement, le "build" est refusé au prétexte d'une absence d'une gem de Jekyll "jekyll-paginate" déjà installée… 
+Essai de génération de pré-visualisation SiteLeaf… Erreur, [Siteleaf](https://www.siteleaf.com/) me réclame de passer sur un plan payant pour augmenter mon quota de stockage limité à 100Mo sur le plan gratuit. Après paiement, le "build" est refusé sous prétexte d'absence d'une gem de Jekyll "jekyll-paginate" déjà installée… 
 
-> `Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. Ensure you have `gems: [jekyll-paginate]` in your configuration file. (RuntimeError)`
+{% highlight bash %}
 
-Grosse fatigue. Mais rien de grave. Il existe plusieurs CMS pour travailler sur un repo GitHub, Je décide donc d'abandonner momentanément SiteLeaf pour m'orienter vers un autre CMS réputé sur la JamStack : [CloudCannon](https://cloudcannon.com).
+`Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. Ensure you have `gems: [jekyll-paginate]` in your configuration file. (RuntimeError)`
+
+{% endhighlight %}
+
+Étrange car le build fonctionne ailleurs. Grosse fatigue. Mais rien de grave puisqu'il existe plusieurs CMS permettant de travailler sur un repo de site statique déposé chez GitHub, Je décide donc d'abandonner momentanément SiteLeaf pour m'orienter vers [CloudCannon](https://cloudcannon.com), un autre CMS réputé sur la JamStack.
 
 ## Premiers pas dans l'UI de CloudCannon
 
