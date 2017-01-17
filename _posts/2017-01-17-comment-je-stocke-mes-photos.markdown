@@ -62,7 +62,6 @@ Dropbox dispose d'une fonctionnalité appelée Synchronisation sélective. C'est
 
 Avec Smart Previews, Lightroom vous permet de parcourir toutes vos photos dans Lightroom même si les photos d'origine ne sont pas synchronisées sur votre disque dur. Vous pouvez économiser beaucoup d'espace simplement en «archivant» des ensembles que vous ne modifiez plus ou n'exportez plus.
 
-
 ### TL;DR
 
 1. Déplacez/stockez votre Catalogue LR sur Dropbox
