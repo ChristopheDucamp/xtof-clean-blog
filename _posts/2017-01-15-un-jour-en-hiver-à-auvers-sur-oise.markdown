@@ -1,0 +1,75 @@
+---
+title: Un Jour en Hiver à Auvers-sur-Oise
+date: 2017-01-15 08:48:00
+tags:
+  - 100DaysOfPhotos
+  - Jekyll
+  - SiteLeaf
+  - CloudCannon
+  - jamstatic
+  - indieweb
+subtitle: Promenade dans les Interfaces pour Déposer mon flux de travail Photo sur la JAMstack
+author: xtof
+header-img:
+layout: post
+---
+
+
+Jolie promenade [hier](http://ducamp.me/2017-014) &agrave; Auvers-sur-Oise sur les traces de Vincent Van Gogh. Je me suis simplement *plac&eacute; dans les yeux de Barbara* avec un simple Canon 50 mm/1.8 pour tenter de capter quelques &eacute;motions de ce village bien mort en hiver. Je viens de [poser sur Flickr quelques photos stimulantes](https://www.flickr.com/search/?sort=date-taken-desc&amp;safe_search=1&amp;tags=auverssuroise&amp;user_id=37996578526%40N01&amp;view_all=1) afin de pr&eacute;parer l'organisation de quelques promenades photographiques au Printemps.
+
+## D&eacute;marrage avec un PhotoFlow bas&eacute; sur Adobe LightRoom et CloudCannon
+
+Et voici l'occasion de tester un "PhotoFlow" plus coh&eacute;rent avec la [JamStack](http://ducamp.me/jamstack) et l'indieweb afin de contr&ocirc;ler les photos sur mon popre domaine. Depuis &agrave; peu pr&egrave;s un mois, j'utilisais l'excellent syst&egrave;me de gestion de contenu [SiteLeaf](https://siteleaf.com) (tant pour acc&eacute;der &agrave; une UI de mise &agrave; jour de post que pour d&eacute;poser des fichiers images). Malheureusement, ce matin je d&eacute;passe le quota maximal de 100Mo offert dans le plan gratuit. En outre, je d&eacute;couvre que SiteLeaf stocke les images t&eacute;l&eacute;vers&eacute;es sur son propre silo.
+
+## Abandon SiteLeaf
+
+Rapide r&eacute;capitulatif avant de m'engager sur un plan payant chez SiteLeaf :
+
+1. derushage et s&eacute;lection de quelques photos dans Adobe Lightroom avec les raccourcis-clavier "P" et "X"
+
+2. pose de mots-cl&eacute;s sur les photos s&eacute;lectionn&eacute;es
+
+3. optimisation de quelques photos pour bascule en N&B avec les outils de [Google Nik collection](https://www.google.com/intl/fr/nikcollection/)
+
+4. exportation dans un dossier (renommage possible)
+
+5. t&eacute;l&eacute;versement des fichiers directement dans l'interface du syst&egrave;me de gestion de contenu SiteLeaf
+
+6. Les photos sont **stock&eacute;es** sur le CMS.
+
+7. Les photos t&eacute;l&eacute;vers&eacute;es sont ais&eacute;ment accessibles dans l'interface-utilisateur.
+
+8. Elles peuvent &ecirc;tre ins&eacute;r&eacute;es une par une dans la fen&ecirc;tre de publication.
+
+Plus bas, je me contenterai de d&eacute;poser une s&eacute;lection de quelques photos prises hier &agrave; l'aide de l'**interface-utilisateur image** plac&eacute;e au-dessus de la fen&ecirc;tre de publication.
+
+## Pr&eacute;visualisation dans SiteLeaf : erreur et gem absente. Adieu SiteLeaf !
+
+Essai de g&eacute;n&eacute;ration de pr&eacute;-visualisation SiteLeaf… Erreur, [Siteleaf](https://www.siteleaf.com/) me r&eacute;clame de passer sur un plan payant pour augmenter mon quota de stockage limit&eacute; &agrave; 100Mo sur le plan gratuit. Apr&egrave;s paiement, le "build" est refus&eacute; sous pr&eacute;texte d'absence d'une gem de Jekyll "jekyll-paginate" d&eacute;j&agrave; install&eacute;e…
+
+{% highlight bash %}
+
+`Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. Ensure you have `gems: [jekyll-paginate]` in your configuration file. (RuntimeError)`
+{% endhighlight %}
+
+&Eacute;trange car le build fonctionne ailleurs. Grosse fatigue. Mais rien de grave puisqu'il existe plusieurs CMS permettant de travailler sur un repo de site statique d&eacute;pos&eacute; chez GitHub, Je d&eacute;cide donc d'abandonner momentan&eacute;ment SiteLeaf pour m'orienter vers [CloudCannon](https://cloudcannon.com), un autre CMS r&eacute;put&eacute; sur la JamStack.
+
+## Premiers pas dans l'UI de CloudCannon
+
+Apr&egrave;s une pause caf&eacute;, connexion sur CloudCannon et synchronisation avec mon d&eacute;p&ocirc;t GitHub. Rassur&eacute; de retrouver le contenu de ce m&ecirc;me post dans la fen&ecirc;tre de publication propos&eacute;e par CloudCannon :
+
+J'essaierai donc ces prochains jours d'explorer l'offre de CloudCannon pour publier quelques nouvelles photos comme Auvers et ses environs, la transe v&eacute;cue et &agrave; revivre sur les prochaines jam-session du JATP, etc..
+
+![photowalk-auvers--14.jpg](/uploads/photowalk-auvers--14.jpg)
+
+![photowalk-auvers-.jpg](/uploads/photowalk-auvers-.jpg)
+
+![photowalk-auvers-2198.jpg](/uploads/photowalk-auvers-2198.jpg)
+
+Si ce type de promenade vous int&eacute;resse, faites-moi signe. Je serai ravi de vous inviter pour un Safari-Photo dans un village qui a tous les atouts pour attirer les touristes en hiver. Apr&egrave;s la balade (comptez 2 bonnes heures), je vous offrirai un th&eacute; pour vous faire essayer quelques interfaces de CMS encore assez "geeks" de mon point de vue.
+
+Mon offre est purement int&eacute;ress&eacute;e : j'aimerais d&eacute;nicher le PhotoFlow id&eacute;al pour tous les photographes, musiciens, chanteurs et artistes non geeks qui pourraient aimer faire leur dogfooding sur la *jamstack* !
+
+![](/uploads/versions/2017-015-jatp-kenny-barron---x----756-504x---.jpg)(Transe au&nbsp;[J.A.T.P. du 2017-015](http://ducamp.me/2017-015#Here_.26_Now_JATP.C2.A0) - *photoflow*&nbsp;[xtof.me](http://xtof.me))
+
+&Agrave; suivre.
