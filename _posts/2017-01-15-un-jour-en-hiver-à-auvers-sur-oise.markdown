@@ -70,7 +70,7 @@ Si ce type de promenade vous int&eacute;resse, faites-moi signe. Je serai ravi d
 
 Mon offre est purement int&eacute;ress&eacute;e : j'aimerais d&eacute;nicher le PhotoFlow id&eacute;al pour tous les photographes, musiciens, chanteurs et artistes non geeks qui pourraient aimer faire leur dogfooding sur la *jamstack* !
 
-<figcaption>![2017-015-JATP-Kenny-Barron.jpg](/uploads/2017-015-JATP-Kenny-Barron.jpg)
-<footer>(Transe au&nbsp;[J.A.T.P. du 2017-015](http://ducamp.me/2017-015#Here_.26_Now_JATP.C2.A0) - *photoflow*&nbsp;<span class="h-card p-author">[xtof.me](http://xtof.me)</span>)</footer></figcaption>
+![2017-015-JATP-Kenny-Barron.jpg](/uploads/2017-015-JATP-Kenny-Barron.jpg)
+(Transe au&nbsp;[J.A.T.P. du 2017-015](http://ducamp.me/2017-015#Here_.26_Now_JATP.C2.A0) - *photoflow*&nbsp;<span class="h-card p-author">[xtof.me](http://xtof.me)</span>)
 
 &Agrave; suivre.
