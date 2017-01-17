@@ -1,19 +1,19 @@
 ---
 title: Un Jour en Hiver à Auvers-sur-Oise
-date: 2017-01-15 08:48:00
+date: 2017-01-15 09:48:00 +01:00
 tags:
-  - 100DaysOfPhotos
-  - Jekyll
-  - SiteLeaf
-  - CloudCannon
-  - jamstatic
-  - indieweb
-subtitle: Promenade dans les Interfaces pour Déposer mon flux de travail Photo sur la JAMstack
+- 100DaysOfPhotos
+- Jekyll
+- SiteLeaf
+- CloudCannon
+- jamstatic
+- indieweb
+subtitle: Promenade dans les Interfaces pour Déposer mon flux de travail Photo sur
+  la JAMstack
 author: xtof
-header-img:
+header-img: 
 layout: post
 ---
-
 
 Jolie promenade [hier](http://ducamp.me/2017-014) &agrave; Auvers-sur-Oise sur les traces de Vincent Van Gogh. Je me suis simplement *plac&eacute; dans les yeux de Barbara* avec un simple Canon 50 mm/1.8 pour tenter de capter quelques &eacute;motions de ce village bien mort en hiver. Je viens de [poser sur Flickr quelques photos stimulantes](https://www.flickr.com/search/?sort=date-taken-desc&amp;safe_search=1&amp;tags=auverssuroise&amp;user_id=37996578526%40N01&amp;view_all=1) afin de pr&eacute;parer l'organisation de quelques promenades photographiques au Printemps.
 
