@@ -10,6 +10,7 @@ tags:
 - indieweb
 layout: post
 author: xtof
+header-img: _uploads/2017-016-PhotoWalk-Bertrand-Rouen.jpg
 subtitle: PhotoWalk avec Bertrand à Rouen. Un partenaire de coeur pour avancer sur
   la JamStack
 ---
