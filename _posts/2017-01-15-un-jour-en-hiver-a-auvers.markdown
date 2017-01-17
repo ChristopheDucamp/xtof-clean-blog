@@ -1,6 +1,5 @@
 ---
-title: Un Jour en Hiver à Auvers-sur-Oise 
-subtible: Promenade dans les Interfaces pour poser un Photoflow sur la JAMstack
+title: Un Jour en Hiver à Auvers-sur-Oise
 date: 2017-01-15 09:48:00 +01:00
 tags:
 - 100DaysOfPhotos
@@ -9,10 +8,10 @@ tags:
 - CloudCannon
 - jamstatic
 - indieweb
+subtible: Promenade dans les Interfaces pour poser un Photoflow sur la JAMstack
 layout: post
 author: xtof
 header-img: 
-
 ---
 
 ![](/uploads/versions/bateau-oise----x----4387-3009x---.jpg)
