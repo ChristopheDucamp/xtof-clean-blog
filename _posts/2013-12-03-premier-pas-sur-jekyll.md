@@ -32,7 +32,7 @@ Le plan de route <time class="dt-published" datetime="2013-12-03T22:12">à cette
 * grimper une (voire deux marches) sur l'[IndieMark](http://indiewebcamp.com/IndieMark),  
 * creuser Git qui semble vraiment génial pour des usages de **solutions de coopérations sans coordination** sur tous les types de document
 * Explorer et partager l'effervescence omniprésente sur le [silo](http://indiewebcamp.com/silo-fr) social [Github](http://indiewebcamp.com/Github).
-* plonger plus sérieusement dans un vieux *chronorêve* d'[apprentissage de la programmation](http://christopheducamp.com/w/Apprendre_%C3%A0_coder).
+* plonger plus sérieusement dans un vieux *chronorêve* d'apprentissage de la programmation.
 
 ## Et la Coutume ?  
 
