@@ -1,24 +1,37 @@
 ---
-title: 2017 01 15 Un Jour Dhiver à Auvers Photoflow Et Jamstack
+title: Un Jour en Hiver à Auvers-sur-Oise 
+subtible: Promenade dans les Interfaces pour poser un Photoflow sur la JAMstack
+date: 2017-01-15 09:48:00 +01:00
+tags:
+- 100DaysOfPhotos
+- Jekyll
+- SiteLeaf
+- CloudCannon
+- jamstatic
+- indieweb
+layout: post
+author: xtof
+header-img: 
+
 ---
 
 ![](/uploads/versions/bateau-oise----x----4387-3009x---.jpg)
 
-Jolie promenade hier &agrave; Auvers-sur-Oise sur les traces de Vincent Van Gogh. Je me suis simplement *plac&eacute; dans les yeux de Barbara* avec un simple Canon50mm/1.8 pour tenter de capter quelques &eacute;motions de ce village bien mort en hiver. Je viens de [poser sur Flickr quelques&nbsp; photos stimulantes](https://www.flickr.com/search/?sort=date-taken-desc&amp;safe_search=1&amp;tags=auverssuroise&amp;user_id=37996578526%40N01&amp;view_all=1) pour envisager l'organisation de quelques promenades photographiques au Printemps.
+Jolie promenade hier &agrave; Auvers-sur-Oise sur les traces de Vincent Van Gogh. Je me suis simplement *plac&eacute; dans les yeux de Barbara* avec un simple Canon 50mm/1.8 pour tenter de capter quelques &eacute;motions de ce village bien mort en hiver. Je viens de [poser sur Flickr quelques&nbsp; photos stimulantes](https://www.flickr.com/search/?sort=date-taken-desc&amp;safe_search=1&amp;tags=auverssuroise&amp;user_id=37996578526%40N01&amp;view_all=1) pour prépérer l'organisation de quelques promenades photographiques au Printemps.
 
 ## D&eacute;marrage avec un PhotoFlow bas&eacute; sur Adobe LightRoom et CloudCannon
 
-Et voici l'occasion de tester un nouveau "PhotoFlow" plus coh&eacute;rent avec la [JamStack](http://ducamp.me/jamstack) et l'indieweb pour contr&ocirc;ler les photos sur mon popre domaine. Depuis &agrave; peu pr&egrave;s un mois, j'utilisais l'excellent syst&egrave;me de gestion de contenu SiteLeaf (tant pour acc&eacute;der &agrave; une UI de mise &agrave; jour de post que pour d&eacute;poser des fichiers images). Malheureusement, ce matin je d&eacute;passe mon quota maximal de 100Mo. Et cela reste &agrave; confirmer, je d&eacute;couvre que SiteLeaf stocke les images t&eacute;l&eacute;vers&eacute;es sur son propre silo.
+Et voici l'occasion de tester un nouveau "PhotoFlow" plus coh&eacute;rent avec la [JamStack](http://ducamp.me/jamstack) et l'indieweb afin de contr&ocirc;ler les photos sur mon popre domaine. Depuis &agrave; peu pr&egrave;s un mois, j'utilisais l'excellent syst&egrave;me de gestion de contenu [SiteLeaf](https://siteleaf.com) (tant pour acc&eacute;der &agrave; une UI de mise &agrave; jour de post que pour d&eacute;poser des fichiers images). Malheureusement, ce matin je d&eacute;passe le quota maximal de 100Mo offert dans le plan gratuit. En outre, je d&eacute;couvre que SiteLeaf stocke les images t&eacute;l&eacute;vers&eacute;es sur son propre silo.
 
 ## Abandon SiteLeaf
 
-Avant de m'engager sur un plan
+Rapide récapitulatif avant de m'engager sur un plan payant chez SiteLeaf : 
 
 1. derushage et s&eacute;lection de quelques photos dans Adobe Lightroom avec les raccourcis-clavier "P" et "X"
 2. pose de mots-cl&eacute;s sur les photos s&eacute;lectionn&eacute;es
-3. optimisation de quelques photos pour bascule en N&B avec les outils de google nik collection
+3. optimisation de quelques photos pour bascule en N&B avec les outils de [Google Nik collection](https://www.google.com/intl/fr/nikcollection/)
 4. exportation dans un dossier (renommage possible)
-5. t&eacute;l&eacute;versement des fichiers directement dans l'interface du syst&egrave;me de gestion de contenu CloudCannon
+5. t&eacute;l&eacute;versement des fichiers directement dans l'interface du syst&egrave;me de gestion de contenu SiteLeaf
 6. Les photos sont **stock&eacute;es** sur le CMS.
 7. Les photos sont ais&eacute;ment accessibles dans l'interface-utilisateur.
 8. Elles doivent &ecirc;tre d&eacute;pos&eacute;es une par une dans la fen&ecirc;tre de publication.
