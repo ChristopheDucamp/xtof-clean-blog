@@ -8,7 +8,8 @@ tags:
 - CloudCannon
 - jamstatic
 - indieweb
-subtitle: Promenade dans les Interfaces pour Déposer mon flux de travail Photo sur la JAMstack
+subtitle: Promenade dans les Interfaces pour Déposer mon flux de travail Photo sur
+  la JAMstack
 author: xtof
 header-img: 
 layout: post
