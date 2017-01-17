@@ -50,7 +50,7 @@ Essai de génération de pré-visualisation SiteLeaf… Erreur, [Siteleaf](https
 
 Grosse fatigue. Mais rien de grave. Il existe plusieurs CMS pour travailler sur un repo GitHub, Je décide donc d'abandonner momentanément SiteLeaf pour m'orienter vers un autre CMS réputé sur la JamStack : [CloudCannon](https://cloudcannon.com).
 
-## Interface-utilisateur CMS de CloudCannon
+## Premiers pas dans l'UI de CloudCannon
 
 Après une pause café, connexion sur CloudCannon et synchronisation avec mon dépôt GitHub. Rassuré de retrouver le contenu de ce même post dans la fenêtre de publication proposée par CloudCannon :
 
