@@ -15,9 +15,9 @@ header-img: uploads/brunomarinho_storage@2x.jpeg
 layout: post
 ---
 
-Rêvant de voyages et d'une vie plus nomade en 2017, je suis en train de revoir mon workflow de photos pour travailler en toute sécurité. Ce qui suit est une *traduction-adaptation* d'un post trouvé dans le dépôt GitHub de [Bruno Marinho](https://github.com/brunomarinho/). Seul le [lien original](https://github.com/brunomarinho/brunomarinho.com/blob/master/_posts/2015-06-08-how-i-store-my-photos.md) fait référence.
+Rêvant de voyages et d'une vie plus nomade en 2017, je suis en train de revoir mon workflow de photos pour travailler en toute sécurité. Ce post est une *traduction-adaptation* d'un post trouvé dans le dépôt GitHub de [Bruno Marinho](https://github.com/brunomarinho/). Seul le [lien original](https://github.com/brunomarinho/brunomarinho.com/blob/master/_posts/2015-06-08-how-i-store-my-photos.md) fait référence.
 
-Je commencerai par vous avouer que je ne suis pas un photographe professionnel. Par conséquent les sauvegardes redondantes et cette folie de multiplier les disques durs externes de sauvegarde ne sont pas ma tasse de thé. Ce que je décrirai ici, c'est mon photoflow personnel, à savoir le processus que j'ai retenu pour stocker mes flux de photos.
+Je commencerai par vous avouer que je ne suis pas un photographe professionnel. Par conséquent les sauvegardes redondantes et cette folie de multiplier les disques durs externes de sauvegarde ne sont pas vraiment ma tasse de thé. Ce que je décrirai ici, c'est mon photoflow personnel, à savoir le processus que j'ai retenu pour stocker mes flux de photos.
 
 Si vous commencez à shooter depuis début 2017 et si vous n'avez que quelques dossiers avec des photos, l'organisation de vos photos devrait ne pas vous prendre beaucoup de temps. Si vous avez plus d'un an d'archives, je vous conseille de prendre un samedi ou un dimanche et d'avancer tranquillement sur cet article.
 
@@ -66,7 +66,7 @@ Avec Smart Previews, Lightroom vous permet de parcourir toutes vos photos dans L
 ### TL;DR
 
 1. Déplacez/stockez votre Catalogue LR sur Dropbox
-2. Téléchargez et organisez toutes vos photos dans Set's
+2. Téléchargez et organisez toutes vos photos dans Sets
 3. Importez, Éditez et Exportez sur Lightroom
 4. Utilisez la synchronisation sélective de Dropbox pour ne conserver que ce dont vous avez besoin
-5. Allez shooter et répétez
+5. Partez en prise de vues et répétez
