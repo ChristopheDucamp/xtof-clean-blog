@@ -15,13 +15,13 @@ header-img: uploads/2017-015-JATP-Kenny-Barron-2.jpg
 layout: post
 ---
 
-Jolie promenade [hier](http://ducamp.me/2017-014) &agrave; Auvers-sur-Oise sur les traces de Vincent Van Gogh. Je me suis simplement *plac&eacute; dans les yeux de Barbara* avec un simple Canon 50 mm/1.8 pour tenter de capter quelques émotions de ce village bien mort en hiver. Je viens de [poser sur Flickr quelques photos stimulantes](https://www.flickr.com/search/?sort=date-taken-desc&amp;safe_search=1&amp;tags=auverssuroise&amp;user_id=37996578526%40N01&amp;view_all=1) afin de préparer l'organisation de quelques promenades photographiques au Printemps.
+Jolie promenade [hier](http://ducamp.me/2017-014) à Auvers-sur-Oise sur les traces de Vincent Van Gogh. Je me suis simplement *placé dans les yeux de Barbara* avec un simple Canon 50 mm/1.8 pour tenter de capter quelques émotions de ce village bien mort en hiver. Je viens de [poser sur Flickr quelques photos stimulantes](https://www.flickr.com/search/?sort=date-taken-desc&amp;safe_search=1&amp;tags=auverssuroise&amp;user_id=37996578526%40N01&amp;view_all=1) afin de préparer l'organisation de quelques promenades photographiques au Printemps.
 
 ## Démarrage avec un PhotoFlow basé sur un export Adobe LightRoom et SiteLeaf
 
-Et voici l'occasion de tester un "PhotoFlow" plus coh&eacute;rent avec la [JamStack](http://ducamp.me/jamstack) et l'indieweb afin de contrôler la diffusion de mes photos sur mon propre domaine. Depuis plus d'un mois, j'utilise l'excellent système de gestion de contenu [SiteLeaf](https://siteleaf.com) (tant pour accéder à une UI de mise à jour de post que pour déposer quelques fichiers images). Malheureusement, ce matin je me retrouve en dépassement du quota maximal de 100Mo offert dans le plan gratuit..
+Bonne occasion pour tester de nouveau un export de "PhotoFlow" sur la [JamStack](http://ducamp.me/jamstack). Un PhotoFlow cohérent avec les valeurs de l'indieweb. La diffusion de mes photos se fait chez moi sur mon propre domaine. 
 
-
+Depuis plus d'un mois, j'utilise l'excellent système de gestion de contenu [SiteLeaf](https://siteleaf.com) (tant pour accéder à une interface-utilisateur de *mise à jour de post* que pour *déposer quelques fichiers images*). Malheureusement, ce matin je me retrouve en dépassement du quota maximal de 100Mo offert dans le plan gratuit..
 
 Rapide récapitulatif avant de m'engager sur un plan payant chez SiteLeaf :
 
