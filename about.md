@@ -46,7 +46,7 @@ J'essaye de réduire ma dépendance au courrier électronique, mais mon agenda r
 N'hésitez pas à me joindre par ordre de préférence :  
 
 1. SMS à toute heure au +33 6 32 03 97 96
-2. Message sur <span class="h-card" rel="me">[Twitter:@7OTX_](http://twitter.com/7OTX_)</span>
+2. Message sur <span class="h-card" rel="me">[Twitter:@xtof_party](http://twitter.com/xtof_party)</span>
 3. <span class="h-card" rel="me">[LinkedIn](https://www.linkedin.com/in/christopheducamp)</span>
 5. [Formulaire de contact (à redesigner)](/contact) 
 
