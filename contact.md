@@ -12,4 +12,4 @@ Si vous êtes très pressé.e, envoyez-moi un message sur mon e-mail christophe(
 
 J'essaierai de vous répondre dans les 24 heures !
 
-Vous pouvez aussi me laisser un message direct sur twitter @[7OTX_](https://twitter.com/7OTX_) 
+Vous pouvez aussi me laisser un message direct sur twitter @[xtof_party](https://twitter.com/xtof_party) 
