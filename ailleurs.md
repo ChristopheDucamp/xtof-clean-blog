@@ -11,7 +11,7 @@ L'internet est une construction décentralisée et vous pourrez m'y retrouver en
 
 ## Communication et Réseaux Sociaux 
 
-* <a rel="me" href="https://twitter.com/@7OTX_">xtof_party sur Twitter</a> <a class="twitter-follow-button" href="https://twitter.com/xtof_party" data-show-count="false" data-show-screen-name="false">(Follow)</a>
+* <a rel="me" href="https://twitter.com/xtof_party">xtof_party sur Twitter</a> <a class="twitter-follow-button" href="https://twitter.com/xtof_party" data-show-count="false" data-show-screen-name="false">(Follow)</a>
 * <a rel="me" href="https://facebook.com/christopheducamp">christopheducamp sur Facebook</a>
 * <a rel="me" href="https://linkedin.com/in/christopheducamp">christopheducamp sur LinkedIn</a>
 
