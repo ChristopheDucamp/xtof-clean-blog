@@ -9,12 +9,11 @@ categories:
 - howto
 - tutoriel
 layout: post
-subtitle: Un fork (bifurcation) est une copie d'un repository. Ce peut être une bonne
-  base pour démarrer.
+subtitle: Un fork (bifurcation) est une copie d'un repository. Ce peut être une bonne base pour démarrer.
 author: Christophe Ducamp
 ---
 
-Lien de référence : <span class="h-cite"><cite class="p-name u-url">[Fork A Repo](https://help.github.com/articles/fork-a-repo)</cite></span>
+Lien de référence : <span class="h-cite"><cite class="p-name u-url">[Fork A Repo](https://help.github.com/articles/fork-a-repo/)</cite></span>
 
 Si vous vous trouvez sur cette page, je peux supposer que vous [débutez sur Git et GitHub](/2013/12/15/Github-pour-nuls-partie-1/). Ce petit guide vous fera réviser quelques fondamentaux et vous aidera à faire vos premiers pas sur GitHub.
 
@@ -26,32 +25,34 @@ Plus communément, les forks sont utilisés soit pour proposer des modifications
 
 ####  Proposer des modifications sur le projet de quelqu'un d'autre
 
-Un exemple génial pour utiliser des forks est de proposer des modifications pour la correction de bugs. Plutôt que de signaler un problème que vous trouvez, vous pouvez : 
+Un exemple génial d'utilisation des forks est de proposer des modifications pour la correction de bugs. Plutôt que de signaler un problème que vous trouvez, vous pouvez : 
 
-- forker le repository
-- réparer le bug
-- proposer une *pull request* au propriétaire du projet.
+- Forker le repository
+- Réparer le bug
+- Proposer une *pull request* au propriétaire du projet.
 
-Si le propriétaire du projet aime votre travail, il pourrait prendre votre réparation pour la ramener dans le repository original.
+Si le propriétaire du projet aime votre travail, il pourrait prendre votre réparation pour la ramener dans le dépôt original !
 
 #### Utiliser le projet de quelqu'un d'autre comme point de départ d'une nouvelle idée. 
 
 Au [coeur de l'open source](http://opensource.org/about) il y a l'idée qu'en partageant du code, nous pouvons produire un logiciel meilleur et de confiance.
 
-En fait quand vous créez un dépôt sur GitHub, vous avez le choix d'ajouter automatiquement une fichier de licence, qui détermine la façon dont vous voulez que votre projet soit partagé avec d'autres.
+Au moment de créer un dépôt public à partir d'un fork du projet de quelqu'un d'autre, assurez-vous d'inclure un [fichier de licence](http://choosealicense.com/) qui détermine comment vous voulez que votre projet soit partagé avec d'autres.
+
+Pour plus d'information sur l'open source, spécifiquement sur la façon de créer et faire grandir un projet open source, nous avons créé les [Guides Open Source](https://opensource.guide/) qui  vous aideront à Qui vous aideront à développer une communauté open source saine en recommandant les meilleures pratiques pour la création et l'entretien de dépôts pour votre projet open source.
 
 ## Forkez un repository d'exemple 
 
 Forker un repository est un processus très simple en deux étapes. Nous avons créé un repository pour vous entraîner. 
 
-1. Sur GitHub, naviguez vers le repository [spoon-knife](https://github.com/octocat/Spoon-Knife)
+1. Sur GitHub, naviguez vers le dépôt [spoon-knife](https://github.com/octocat/Spoon-Knife)
 2. Dans le coin en haut et à droite de la page, cliquez sur **Fork**
 
-Voilà, c'est fait ! Vous disposez désormais d'un *fork* du repository original `octocat/Spoon-Knife repository`
+Voilà, c'est fait ! Vous disposez désormais d'un *fork* du dépôt   original `octocat/Spoon-Knife repository`
 
 ## Maintenez votre fork synchronisé 
 
-Vous pourriez avoir forké un projet afin de proposer des modifications vers l'*upstream*, ou le dépôt original. Dans ce cas, c'est une bonne pratique de synchroniser régulièrement votre fork avec le repository original. Pour faire ça, vous devrez utiliser Git à la ligne de commande. Vous pouvez pratiquer le réglage du repository upstream en utilisant le même repository `octocat/Spoon-Knife que vous venez de forker. 
+Vous pourriez avoir forké un projet afin de proposer des modifications vers l'*upstream*, ou le dépôt original. Dans ce cas, c'est une bonne pratique de synchroniser régulièrement votre fork avec le repository original. Pour faire ça, vous devrez utiliser Git à la ligne de commande. Vous pouvez pratiquer le réglage du dépôt upstream en utilisant le même repository `octocat/Spoon-Knife que vous venez de forker. 
 
 ### Étape 1 : Installer et Paramétrer Git 
 
@@ -60,15 +61,15 @@ Si ce n'est déjà fait, vous devez d'abord [installer et régler Git](/2013/12/
 
 ### Étape 2 : Créer un clone local de votre fork
 
-À ce stade, vous avez un fork du repository Spoon-Knife, mais vous n'avez pas les fichiers dans ce repository sur votre ordinateur. Créons localement un clone de votre fork sur votre ordinateur.
+À ce stade, vous avez un fork du repository Spoon-Knife, mais vous n'avez pas les fichiers dans ce repository sur votre ordinateur. Créons localement un *clone* de votre fork sur votre ordinateur.
 
-1. Sur GitHub, naviguez vers **votre fork** du repository Spoon-Knife.
-2. Sous votre nom de repository, cliquez sur **Clone or download** 
-3. Dans le clone avec la section HTTPs, cliquez su  l'icône fléchée pour copiez l'URL de clone pour votre repository. <img src="https://help.github.com/assets/images/help/repository/https-url-clone.png" />
-3. Ouvrez la fenêtre de Terminal
-4. Tapez `git clone`, et collez ensuite l'URL que vous avez copiée à l'étape 2. Cela ressemblera à cela, avec votre nom d'utilisateur GitHub au lieu de `YOUR-USERNAME`:
-```git clone https://github.com/YOUR-USERNAME/Spoon-Knife```
-5. Pressez la touche **Retour**. Votre clone local sera créé.
+1. Sur GitHub, naviguez vers **votre fork** du dépôt Spoon-Knife.
+2. Sous le nom du dépôt, cliquez sur **Clone or download** 
+3. Dans le Clone avec la section HTTPs, cliquez sur l'icône fléchée pour copiez l'URL de clone du dépôt. <img src="https://help.github.com/assets/images/help/repository/https-url-clone.png" />
+4. Ouvrez la fenêtre de Terminal
+5. Tapez `git clone`, et collez ensuite l'URL que vous avez copiée à l'étape 2. Cela ressemblera à cela, avec votre nom d'utilisateur GitHub au lieu de `VOTRE-NOMUTILISATEUR`:
+```git clone https://github.com/VOTRE-NOMUTILISATEUR/Spoon-Knife```
+6. Pressez la touche **Retour**. Votre clone local sera créé.
 
 {% highlight bash %}
 git clone https://github.com/YOUR-USERNAME/Spoon-Knife
@@ -81,20 +82,20 @@ Unpacking objects: 100% (10/10), done.
 
 Vous avez désormais une copie locale de votre fork du repository Spoon-Knife !
 
-###  Étape 3 : Configurer Git pour synchroniser votre fork avec le repository original Spoon-Knife
+###  Étape 3 : Configurer Git pour synchroniser votre fork avec le dépôt original Spoon-Knife
 
-Quand vous forkez un projet afin de proposer des modifications sur le repository original, vous pouvez configurer Git pour tirer les changements à partir du repository original, ou *upstream*, à l'intérieur du clone local de votre fork. 
+Quand vous forkez un projet afin de proposer des modifications sur le repository original, vous pouvez configurer Git pour tirer les modifications à partir du dépôt original (encore appelé *upstream*) à l'intérieur du clone local de votre fork. 
 
-1. Sur GitHub, naviguez vers le repository [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife).
-2. Sous le nom de votre repository, cliquez **Clone or download** 
-3. Dans le clone avec la section HTTPs, cliquez sur l'icône fléchée "copy to clipboard" pour copier l'URL clone du repository. 
+1. Sur GitHub, naviguez vers le dépôt [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife).
+2. Sous le nom de votre dépôt, cliquez **Clone or download** 
+3. Dans le Clone avec la section HTTPs, cliquez sur l'icône fléchée "copy to clipboard" pour copier l'URL clone du repository. 
 4. Ouvrez le Terminal.
-5. "Change directories" vers l'endroit du fork que vous avez cloné à l'étape 2
-	1. Allez en haut de votre répertoire, tapez juste `cd`sans autre texte.
+5. "Change directories" (`cd`) allez à l'endroit du fork que vous avez cloné à l'étape 2
+	1. Allez en haut de votre répertoire, tapez juste `cd` sans autre texte.
 	2. Pour lister les fichiers et répertoires dans votre répertoire actuel, tapez `ls`.
-	3. Pour aller dans l'un de vos répertoires listés, tapez `cd votre_repertoire_listé`.
+	3. Pour aller dans l'un de vos répertoires listés, tapez `cd votre_liste_repertoire`.
 	4. Pour remonter d'un répertoire, tapez `cd ..`
-6. Tapez `git remote -v`et pressez la touche **Retour**. Vous verrez le repository distant actuel configuré pour votre fork.
+6. Tapez `git remote -v`et pressez la touche **Retour**. Vous verrez le dépôt distant actuel configuré pour votre fork.
 {% highlight bash %}
 git remote -v
 origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
@@ -104,7 +105,7 @@ origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
 {% highlight bash %}
 git remote add upstream https://github.com/octocat/Spoon-Knife.git
 {% endhighlight %}  
-8. Pour vérifier le nouveau repository upstream que vous avez spécifié pour votre fork, tapez de nouveau `git remote -v`. Vous devriez voir l'URL pour votre fork comme `origin`, et l'URL pour le repository original comme `upstream`.
+8. Pour vérifier le nouveau dépôt "upstream" que vous avez spécifié pour votre fork, tapez de nouveau `git remote -v`. Vous devriez voir l'URL de votre fork sous `origin`, et l'URL pour le dépôt  original sous `upstream`.
 
 {% highlight bash %}
 git remote -v
@@ -114,7 +115,14 @@ upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (fetch)
 upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
 {% endhighlight %}  
 
-Maintenant, vous pouvez maintenir votre fork synchronisé avec le repository upstream à l'aide de quelques commandes Git. Pour plus d'information, voir "[Syncing a fork](https://help.github.com/articles/syncing-a-fork)."
+Maintenant, vous pouvez maintenir votre fork synchronisé avec le dépôt upstream à l'aide de quelques commandes Git. Pour plus d'information, voir "[Syncing a fork](https://help.github.com/articles/syncing-a-fork)."
+
+## Prochaines étapes
+
+Le ciel est la limite avec les modifications vous pouvez produire un fork, incluant :
+
+- la **Création de Branches** : les branches vous permettent de construire de nouvelles fonctionnalités ou tester des idées sans mettre votre projet principal en péril.
+- **Ouvrir des pull requests** : Si vous espérez contribuer en retour sur le dépôt original, vous pouvez envoyer une demande à l'auteur original de tirer votre fork dans son dépôt en lui proposant une *[pull request](https://help.github.com/articles/about-pull-requests)*.
 
 ## Trouver un autre repository à forker 
 

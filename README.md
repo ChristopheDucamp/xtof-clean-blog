@@ -21,4 +21,4 @@ Vous pouvez lancer `jekyll serve --watch` et  `grunt watch` en même temps pour 
 
 ## Support
 
-Visitez la page de présentation du template Clean Blog  sur  Start Bootstrap http://startbootstrap.com/template-overviews/clean-blog/ et laissez un commentaire, un e-mail à feedback@startbootstrap.com, ou ouvrez ici une *issue* sur  GitHub pour le support.
+Visitez la page de présentation du template Clean Blog sur  Start Bootstrap <http://startbootstrap.com/template-overviews/clean-blog/> et laissez un commentaire, un e-mail à feedback@startbootstrap.com, ou ouvrez ici une *issue* sur  GitHub pour le support.

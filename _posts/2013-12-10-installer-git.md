@@ -16,14 +16,17 @@ author: Christophe Ducamp
 
 ## Installer Git
 
-**N.B.** Si vous êtes perdu sur cette page, ... oubliez le terminal ! Vous pouvez à la place utiliser l'[application native de GitHub pour Mac](https://central.github.com/mac/latest) 
+**N.B.** Si vous êtes perdu.e sur cette page, ... oubliez le terminal ! Vous pouvez à la place utiliser l'[application native de GitHub pour Mac](https://central.github.com/mac/latest) 
 
 Si vous atterrissez sur cette page, je suppose que comme moi, vous [débutez sur Git et GitHub](/2013/12/15/Github-pour-nuls-partie-1/). Ce petit guide vous fera réviser quelques fondamentaux et vous aidera à faire vos premiers pas sur GitHub.
 
 ## Télécharger et Installer Git
-Au coeur de GitHub, il y a un système de contrôle de version (VCS) appelé Git*. Créé par la même équipe qui a créé Linux, Git est responsable de tout ce qui concerne GitHub et les sujets afférents à ce qui passe localement sur votre ordinateur.
+Au coeur de GitHub, il y a un système de contrôle de version open source (VCS) appelé Git*. Créé par la même équipe que celle ayant créé Linux, Git est responsable de tout ce qui concerne GitHub et ce qui se produit localement sur votre ordinateur.
 
-*Si vous ne savez pas déjà ce qu'est Git, [apprenez les rudiments de Git](http://git-scm.com/book/fr/D%C3%A9marrage-rapide-Rudiments-de-Git).
+Pour utiliser Git à la ligne de commande, vous allez devoir télécharger, installer et configurer Git sur votre machine.
+
+Si vous voulez travailler localement avec Git, mais ne voulez pas utiliser la ligne de commande, vous pouvez à la place télécharger et installer le client [GitHub Desktop](https://desktop.github.com/). Pour plus d'information, regardez en anglais "[Getting Started with GitHub Desktop](https://help.github.com/desktop-beta/guides/getting-started-with-github-desktop/)."
+
 
 **Téléchargez et installez** la [dernière version de Git](http://git-scm.com/downloads).
 
@@ -39,7 +42,6 @@ Besoin d'une petite leçon concernant le Terminal ? [quelques trucs ici](/2013-1
 
 Premièrement vous devez dire à git votre nom, de manière à ce qu'il puisse proprement étiqueter les commits que vous produisez.
   
-  
 {% highlight bash %}
 $ git config --global user.name "Votre Nom Ici"
 # Règle le nom par défaut pour git à utiliser quand vous committez
@@ -49,7 +51,6 @@ $ git config --global user.name "Votre Nom Ici"
 ## E-mail
 
 Git sauvegarde votre adresse e-mail à l'intérieur des commits que vous produisez. Nous utilisons l'adresse e-mail pour associer vos commits à votre compte GitHub. 
-
 
 {% highlight bash %}
 $ git config --global user.email "votre_email@exemple.com"
@@ -71,7 +72,6 @@ $ git config user.name "Nom Different"
 $ git config user.email "e-mail-different@email.com"
 # Regle l'e-mail d'utilisateur pour ce repo spécifique
 {% endhighlight %}
-
 
 Désormais vos commits seront associés à ces nouveaux nom-d-utilisateur et e-mail dans le repo spécifié.
 
@@ -127,7 +127,7 @@ $ git config --global credential.helper osxkeychain
 # règle git pour utiliser le osxkeychain credential helper
 {% endhighlight %}
 
-La prochaine fois que vous clonerez une URL HTTPS qui requiert un mot de passe, vous serez averti de rentrer votre nom d'utilisateur et mot de passe, et d'autoriser l'accès à la OSX keychain. Après ça, les `username` et `password` seront stockés dans votre keychain et vous ne serez plus obligés de les saisir à nouveau dans git.
+La prochaine fois que vous clonerez une URL HTTPS qui requiert un mot de passe, vous serez averti de rentrer votre nom d'utilisateur et mot de passe, et d'autoriser l'accès à la OSX keychain. Après ça, les `username` et `password` seront stockés dans votre keychain et vous ne serez plus obligé de les saisir à nouveau dans git.
 
 **Truc :** Le `credential helper` ne fonctionne que si vous clonez un dépôt URL HTTPS. Si vous utilisez le dépôt URL SSH, les clés SSH son utilisées pour l'authentification. [Ce guide](https://help.github.com/articles/generating-ssh-keys) offre de l'aide pour générer et utiliser une paire de clés SSH.
 
@@ -139,3 +139,7 @@ Bravo, vous avez bien réglé Git et GitHub ! Que voulez-vous faire ensuite ?
 * [Créer un Repo](/2013/12/16/creer-un-repo-github/)
 * [Forker un Repo](/2013/12/16/forker-un-repo-github/)
 * [Etre Social](/2013/12/16/github-etre-social/)
+
+# Ailleurs
+
+* Si vous ne savez pas déjà ce qu'est Git, [apprenez les rudiments de Git](http://git-scm.com/book/fr/D%C3%A9marrage-rapide-Rudiments-de-Git).
