@@ -12,11 +12,11 @@ collections:
   uploads:
     title: Uploads
     output: true
-header-img: uploads/photowalk-auvers--14.jpg
+header-img: img/binaire.jpg
 email: christophe@ducamp.me
 description: Explorations UXDesign et IndieWeb
 baseurl: 
-url: http://christopheducamp.com
+url: https://christopheducamp.com
 twitter_username: xtof_party
 github_username: christopheducamp
 facebook_username: christophe.ducamp
@@ -40,3 +40,4 @@ twitter_max_length: 140
 blog_title: sur la route indieweb...
 blog_description: Premiers pas de non développeur sur le statique avec github et jekyll.
   Apprentissage en cours.
+  
