@@ -2,3 +2,9 @@ _site
 node_modules
 Gruntfile.js
 package.json
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/
+.idea/xtof-clean-blog.iml
