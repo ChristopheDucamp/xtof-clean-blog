@@ -4,7 +4,7 @@
   "description": "test clean-blog",
   "main": "Gruntfile.js",
   "dependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^1.5.3"
   },
   "devDependencies": {
     "grunt-banner": "^0.6.0",
